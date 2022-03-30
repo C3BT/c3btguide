@@ -23,295 +23,40 @@
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/ucv3.jpg" />
     <url>http://www.zappingtv.com</url>
   </channel>
-  <programme start="20220328020000 +0200" stop="20220328050000 +0200" channel="COS HD">
-    <title lang="en">Ring Side</title>
-    <credits>
-      <actor>Carlos Irusta</actor>
-    </credits>
+  <programme start="20220330013000 +0200" stop="20220330030000 +0200" channel="COS HD">
+    <title lang="en">Torneo Juvenil U14</title>
     <date>2022</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11343710785/220328021407_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11367119919/220329204907_7975673118.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220328050000 +0200" stop="20220328053000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299782554/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328053000 +0200" stop="20220328110000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299771336/220328021407_10647160455.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328110000 +0200" stop="20220328113000 +0200" channel="COS HD">
-    <title lang="en">Fiesta Party</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299782555/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328113000 +0200" stop="20220328140000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299771335/220328021407_10647160455.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328140000 +0200" stop="20220328143000 +0200" channel="COS HD">
-    <title lang="en">Fiesta Party</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299768160/220328021407_1775038172.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328143000 +0200" stop="20220328153000 +0200" channel="COS HD">
-    <title lang="en">Navegante TV</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299782556/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328153000 +0200" stop="20220328220000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-  </programme>
-  <programme start="20220328220000 +0200" stop="20220328230000 +0200" channel="COS HD">
-    <title lang="en">Play Sports</title>
-    <credits>
-      <actor>David Sakata</actor>
-      <actor>Karen Jordan</actor>
-      <actor>Juanxo Villaverde</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299782557/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328230000 +0200" stop="20220329030000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299937649/220328021407_7975673118.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329030000 +0200" stop="20220329040000 +0200" channel="COS HD">
+  <programme start="20220330030000 +0200" stop="20220330040000 +0200" channel="COS HD">
     <title lang="en">Contragolpe</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11299782881/220328021407_10645941536.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312528443/220329204907_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
-  </programme>
-  <programme start="20220329040000 +0200" stop="20220329050000 +0200" channel="COS HD">
-    <title lang="en">El desmarque</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312319588/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329050000 +0200" stop="20220329070000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11313020750/220328021407_10645941536.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329070000 +0200" stop="20220329080000 +0200" channel="COS HD">
-    <title lang="en">El desmarque</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312718887/220328021407_1694219287.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329080000 +0200" stop="20220329090000 +0200" channel="COS HD">
-    <title lang="en">Play Sports</title>
-    <credits>
-      <actor>David Sakata</actor>
-      <actor>Karen Jordan</actor>
-      <actor>Juanxo Villaverde</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312558951/220328021407_6969775669.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329090000 +0200" stop="20220329100000 +0200" channel="COS HD">
-    <title lang="en">Tiempo Extra RPC Radio</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312621742/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329100000 +0200" stop="20220329120000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11313022465/220328021407_10645941536.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329120000 +0200" stop="20220329130000 +0200" channel="COS HD">
-    <title lang="en">El desmarque</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312879795/220328021407_1775038172.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329130000 +0200" stop="20220329133000 +0200" channel="COS HD">
-    <title lang="en">Navegante TV</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312440786/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329133000 +0200" stop="20220329143000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312652848/220328021407_6969775669.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329143000 +0200" stop="20220329153000 +0200" channel="COS HD">
-    <title lang="en">Tiempo Extra RPC Radio</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312703766/220328021407_11085827003.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329153000 +0200" stop="20220329170000 +0200" channel="COS HD">
-    <title lang="en">LFFP</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312315453/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329170000 +0200" stop="20220329180000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312875877/220328021407_1694219287.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329180000 +0200" stop="20220329190000 +0200" channel="COS HD">
-    <title lang="en">Play Sports</title>
-    <credits>
-      <actor>David Sakata</actor>
-      <actor>Karen Jordan</actor>
-      <actor>Juanxo Villaverde</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11312906867/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329190000 +0200" stop="20220330040000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
   </programme>
   <programme start="20220330040000 +0200" stop="20220330050000 +0200" channel="COS HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318778046/220328021407_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370997828/220329204907_1070646886.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20220330050000 +0200" stop="20220330070000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
+    <title lang="en">Fútbol panameño: LPF</title>
+    <desc lang="en">Apertura Jornada 8 Azuero vs. Alianza.(n)</desc>
     <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
+      <actor>Alvaro Martinez</actor>
     </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318776809/220328021407_10645941536.jpg" />
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318776809/220329204907_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -319,7 +64,7 @@
   <programme start="20220330070000 +0200" stop="20220330080000 +0200" channel="COS HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11319100353/220328021407_1694219287.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11319100353/220329204907_1694219287.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -332,7 +77,7 @@
       <actor>Juanxo Villaverde</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318803884/220328021407_6969775669.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318803884/220329204907_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -340,31 +85,16 @@
   <programme start="20220330090000 +0200" stop="20220330100000 +0200" channel="COS HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318778045/220328021407_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370909768/220329204907_5167836637.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220330100000 +0200" stop="20220330103000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318785720/220328021407_11066625752.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220330103000 +0200" stop="20220330110000 +0200" channel="COS HD">
-    <title lang="en">Especial - Negrito Quintero</title>
-    <desc lang="en">Especial de Alberto \.(n)</desc>
+  <programme start="20220330100000 +0200" stop="20220330110000 +0200" channel="COS HD">
+    <title lang="en">Mini League</title>
     <date>2022</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318793005/220328021407_10647160455.jpg" />
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318793005/220329204907_10647160455.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -372,21 +102,15 @@
   <programme start="20220330110000 +0200" stop="20220330113000 +0200" channel="COS HD">
     <title lang="en">Fiesta Party</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318778043/220328021407_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370879866/220329204907_7610310331.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20220330113000 +0200" stop="20220330120000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318776810/220328021407_10645941536.jpg" />
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318776810/220329204907_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -394,21 +118,27 @@
   <programme start="20220330120000 +0200" stop="20220330130000 +0200" channel="COS HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318778044/220328021407_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370656170/220329204907_11270409232.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220330130000 +0200" stop="20220330140000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
+  <programme start="20220330130000 +0200" stop="20220330133000 +0200" channel="COS HD">
+    <title lang="en">Todo por el fútbol</title>
+    <desc lang="en">Un programa que aborda los hechos más destacados del mundo del fútbol nacional e internacional.(n)</desc>
+    <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318793006/220328021407_10647160455.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370652077/220329204907_11184289957.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330133000 +0200" stop="20220330140000 +0200" channel="COS HD">
+    <title lang="en">Especial - Abdiel Ayarza</title>
+    <desc lang="en">Un programa que repasa lo mejor de la carrera del futbolista Abdiel Armando Ayarza Cocanegra.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318793006/220329204907_10647160455.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -416,7 +146,7 @@
   <programme start="20220330140000 +0200" stop="20220330143000 +0200" channel="COS HD">
     <title lang="en">Fiesta Party</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318803883/220328021407_6969775669.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318803883/220329204907_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -424,34 +154,20 @@
   <programme start="20220330143000 +0200" stop="20220330153000 +0200" channel="COS HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318803887/220328021407_10459997802.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370665330/220329204907_1775038172.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220330153000 +0200" stop="20220330163000 +0200" channel="COS HD">
-    <title lang="en">Nación Centroamerica</title>
+  <programme start="20220330153000 +0200" stop="20220330160000 +0200" channel="COS HD">
+    <title lang="en">Navegante TV</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318778047/220328021407_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370941723/220329204907_1694219287.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220330163000 +0200" stop="20220330180000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11319100354/220328021407_1694219287.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220330180000 +0200" stop="20220330190000 +0200" channel="COS HD">
+  <programme start="20220330160000 +0200" stop="20220330170000 +0200" channel="COS HD">
     <title lang="en">Play Sports</title>
     <credits>
       <actor>David Sakata</actor>
@@ -459,257 +175,534 @@
       <actor>Juanxo Villaverde</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318778061/220328021407_1775038172.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371390965/220329204907_1067360326.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220330190000 +0200" stop="20220330200000 +0200" channel="COS HD">
-    <title lang="en">Navegante TV</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318778048/220328021407_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220330200000 +0200" stop="20220330220000 +0200" channel="COS HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-  </programme>
-  <programme start="20220328010000 +0200" stop="20220328020000 +0200" channel="COS FC HD">
-    <title lang="en">USA vs. Panamá</title>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11344312272/220327195406_1070646878.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328020000 +0200" stop="20220328040000 +0200" channel="COS FC HD">
-    <title lang="en">Fútbol: Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
-    <desc lang="en">Estados Unidos vs. Panamá.(n)</desc>
+  <programme start="20220330170000 +0200" stop="20220330200000 +0200" channel="COS HD">
+    <title lang="en">Béisbol: MLB</title>
+    <desc lang="en">Atlanta Braves vs. Boston Red Sox. Desde JetBlue Park en Fort Myers, Fla.(n)</desc>
     <date>2022</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11344369213/220327195406_5167844275.jpg" />
-  </programme>
-  <programme start="20220328040000 +0200" stop="20220328050000 +0200" channel="COS FC HD">
-    <title lang="en">Dragones de MVP vs. Cachorros de Caimitillo</title>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11343669121/220327195406_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370652078/220329204907_10264990153.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220328050000 +0200" stop="20220328060000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
+  <programme start="20220330200000 +0200" stop="20220330203000 +0200" channel="COS HD">
+    <title lang="en">KFL Total Access</title>
+    <date>2018</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299787566/220327195406_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370997829/220329204907_10459903617.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220328060000 +0200" stop="20220328180000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299772927/220327195406_6969775669.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328180000 +0200" stop="20220328190000 +0200" channel="COS FC HD">
-    <title lang="en">Tiempo Extra RPC Radio</title>
+  <programme start="20220330203000 +0200" stop="20220330213000 +0200" channel="COS HD">
+    <title lang="en">Sideline</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299787567/220327195406_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371093633/220329204907_5167844273.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220328190000 +0200" stop="20220328200000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
+  <programme start="20220330213000 +0200" stop="20220330220000 +0200" channel="COS HD">
+    <title lang="en">Cable Onda Sports HD</title>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299787610/220327195406_10645941536.jpg" />
+  </programme>
+  <programme start="20220330220000 +0200" stop="20220330230000 +0200" channel="COS HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371066102/220329204907_7975673118.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220328200000 +0200" stop="20220328210000 +0200" channel="COS FC HD">
+  <programme start="20220330230000 +0200" stop="20220331000000 +0200" channel="COS HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371066103/220329204907_1070646880.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331000000 +0200" stop="20220331020000 +0200" channel="COS HD">
+    <title lang="en">Fútbol: Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
+    <desc lang="en">Panamá vs. Jamaica.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371008783/220329204907_1070646885.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331020000 +0200" stop="20220331040000 +0200" channel="COS HD">
+    <title lang="en">Fútbol: Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
+    <desc lang="en">Panamá vs. Honduras.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11318776808/220329204907_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331040000 +0200" stop="20220331050000 +0200" channel="COS HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299771403/220327195406_10647160455.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371024946/220329204907_1070646886.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220328210000 +0200" stop="20220328220000 +0200" channel="COS FC HD">
+  <programme start="20220331050000 +0200" stop="20220331070000 +0200" channel="COS HD">
+    <title lang="en">Fútbol panameño: LPF</title>
+    <desc lang="en">Apertura Jornada 9 Atlético Chiriquí vs. Árabe Unido.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11322701473/220329204907_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331070000 +0200" stop="20220331080000 +0200" channel="COS HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11322750627/220329204907_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331080000 +0200" stop="20220331090000 +0200" channel="COS HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11322705853/220329204907_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331090000 +0200" stop="20220331100000 +0200" channel="COS HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370654607/220329204907_10459997802.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331100000 +0200" stop="20220331110000 +0200" channel="COS HD">
+    <title lang="en">Nación Centroamerica</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371066104/220329204907_7975673118.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331110000 +0200" stop="20220331120000 +0200" channel="COS HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11322701474/220329204907_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331120000 +0200" stop="20220331130000 +0200" channel="COS HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370997830/220329204907_5167844273.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331130000 +0200" stop="20220331143000 +0200" channel="COS HD">
+    <title lang="en">Flag football femenino: LIFFF</title>
+    <desc lang="en">Águilas Doradas vs. Rays.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11322705854/220329204907_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331143000 +0200" stop="20220331153000 +0200" channel="COS HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371093634/220329204907_5167844273.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331153000 +0200" stop="20220331160000 +0200" channel="COS HD">
+    <title lang="en">Cable Onda Sports HD</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370941724/220329204907_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331160000 +0200" stop="20220331170000 +0200" channel="COS HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11371343806/220329204907_1067346609.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331170000 +0200" stop="20220331200000 +0200" channel="COS HD">
+    <title lang="en">Béisbol: MLB</title>
+    <desc lang="en">Detroit Tigers vs. Toronto Blue Jays. Desde TD Ballpark en Dunedin, Fla.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370665331/220329204907_1775038172.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331200000 +0200" stop="20220331203000 +0200" channel="COS HD">
+    <title lang="en">Navegante TV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370656171/220329204907_11270409232.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331203000 +0200" stop="20220331210000 +0200" channel="COS HD">
+    <title lang="en">Todo por el fútbol</title>
+    <desc lang="en">Un programa que aborda los hechos más destacados del mundo del fútbol nacional e internacional.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370909769/220329204907_5167844275.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331210000 +0200" stop="20220331220000 +0200" channel="COS HD">
+    <title lang="en">Mini League</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+  </programme>
+  <programme start="20220331220000 +0200" stop="20220331230000 +0200" channel="COS HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11322809943/220329204907_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331230000 +0200" stop="20220331233000 +0200" channel="COS HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COS/default/11370879867/220329204907_5167844275.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331233000 +0200" stop="20220401020000 +0200" channel="COS HD">
+    <title lang="en">FF Norte</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+  </programme>
+  <programme start="20220330000000 +0200" stop="20220330010000 +0200" channel="COS FC HD">
+    <title lang="en">Nación Centroamerica</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310946034/220329151907_10459903617.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330010000 +0200" stop="20220330020000 +0200" channel="COS FC HD">
+    <title lang="en">Sideline</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310946035/220329151907_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330020000 +0200" stop="20220330030000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310649834/220329151907_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330030000 +0200" stop="20220330040000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11367407327/220329151907_5167836636.jpg" />
+  </programme>
+  <programme start="20220330040000 +0200" stop="20220330050000 +0200" channel="COS FC HD">
+    <title lang="en">Día 2</title>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370951717/220329151907_5167844274.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330050000 +0200" stop="20220330060000 +0200" channel="COS FC HD">
+    <title lang="en">Mini League</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370980964/220329151907_10459903617.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330060000 +0200" stop="20220330070000 +0200" channel="COS FC HD">
+    <title lang="en">Sideline</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11318800519/220329151907_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330070000 +0200" stop="20220330080000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11318776651/220329151907_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330080000 +0200" stop="20220330090000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11371061909/220329151907_7975673118.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330090000 +0200" stop="20220330100000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11319100352/220329151907_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330100000 +0200" stop="20220330110000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11318800518/220329151907_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330110000 +0200" stop="20220330120000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370999922/220329151907_5167844273.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330120000 +0200" stop="20220330133000 +0200" channel="COS FC HD">
+    <title lang="en">Flag football femenino: LIFFF</title>
+    <desc lang="en">Águilas Doradas vs. Rays.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370655223/220329151907_10459997802.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330133000 +0200" stop="20220330143000 +0200" channel="COS FC HD">
+    <title lang="en">Nación Centroamerica</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370980965/220329151907_1068365103.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330143000 +0200" stop="20220330170000 +0200" channel="COS FC HD">
+    <title lang="en">Baloncesto de la NBA</title>
+    <desc lang="en">Milwaukee Bucks  vs. Memphis Grizzlies. Desde FedExForum.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11319100351/220329151907_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330170000 +0200" stop="20220330180000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370880901/220329151907_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330180000 +0200" stop="20220330183000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11318800520/220329151907_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330183000 +0200" stop="20220330193000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370662643/220329151907_1775038172.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330193000 +0200" stop="20220330200000 +0200" channel="COS FC HD">
+    <title lang="en">Navegante TV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11318776652/220329151907_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330200000 +0200" stop="20220330210000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370652274/220329151907_11184289957.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330210000 +0200" stop="20220330213000 +0200" channel="COS FC HD">
+    <title lang="en">Especial - Abdiel Ayarza</title>
+    <desc lang="en">Un programa que repasa lo mejor de la carrera del futbolista Abdiel Armando Ayarza Cocanegra.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370662644/220329151907_10647160455.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220330213000 +0200" stop="20220330220000 +0200" channel="COS FC HD">
     <title lang="en">Fiesta Party</title>
     <desc lang="en">COS2 Canal en vivo.(n)</desc>
     <category lang="en">Serie</category>
   </programme>
-  <programme start="20220328220000 +0200" stop="20220328230000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
+  <programme start="20220330220000 +0200" stop="20220330230000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
     <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
     </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299771404/220327195406_10647160455.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220328230000 +0200" stop="20220328233000 +0200" channel="COS FC HD">
-    <title lang="en">Fiesta Party</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299787569/220327195406_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11371426519/220329151907_1070646877.jpg" />
+  </programme>
+  <programme start="20220330230000 +0200" stop="20220331000000 +0200" channel="COS FC HD">
+    <title lang="en">Panamá vs. Canadá</title>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370620979/220329151907_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220328233000 +0200" stop="20220329000000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299820122/220327195406_10459997802.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329000000 +0200" stop="20220329010000 +0200" channel="COS FC HD">
-    <title lang="en">Nación Centroamerica</title>
+  <programme start="20220331000000 +0200" stop="20220331010000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299779068/220327195406_9408411672.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370896645/220329151907_1070646878.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329010000 +0200" stop="20220329020000 +0200" channel="COS FC HD">
-    <title lang="en">Contragolpe</title>
-    <desc lang="en">Análisis desde la contra del fútbol nacional e internacional.(n)</desc>
+  <programme start="20220331010000 +0200" stop="20220331030000 +0200" channel="COS FC HD">
+    <title lang="en">Fútbol: Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
+    <desc lang="en">Estados Unidos vs. Panamá.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11371328617/220329151907_1070646882.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331030000 +0200" stop="20220331040000 +0200" channel="COS FC HD">
+    <title lang="en">Post juego - 90 y más</title>
     <credits>
-      <actor>Mary Gaby Sealy</actor>
       <actor>Alvaro Martinez</actor>
     </credits>
-    <date>2019</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11300010172/220327195406_1694219287.jpg" />
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11371372174/220329151907_1070646884.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329020000 +0200" stop="20220329030000 +0200" channel="COS FC HD">
-    <title lang="en">Play Sports</title>
-    <credits>
-      <actor>David Sakata</actor>
-      <actor>Karen Jordan</actor>
-      <actor>Juanxo Villaverde</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299787609/220327195406_10645941536.jpg" />
+  <programme start="20220331040000 +0200" stop="20220331060000 +0200" channel="COS FC HD">
+    <title lang="en">Fútbol: Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
+    <desc lang="en">Panamá vs. Canadá.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11371426520/220329151907_6397509031.jpg" />
+  </programme>
+  <programme start="20220331060000 +0200" stop="20220331073000 +0200" channel="COS FC HD">
+    <title lang="en">Tauro FC vs. CD Plaza Amador</title>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370620980/220329151907_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329030000 +0200" stop="20220329040000 +0200" channel="COS FC HD">
-    <title lang="en">El desmarque</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11299787570/220327195406_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329040000 +0200" stop="20220329050000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310649830/220327195406_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329050000 +0200" stop="20220329070000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310946030/220327195406_6969775669.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329070000 +0200" stop="20220329080000 +0200" channel="COS FC HD">
+  <programme start="20220331073000 +0200" stop="20220331083000 +0200" channel="COS FC HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310652682/220327195406_10645941536.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370620981/220329151907_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329080000 +0200" stop="20220329090000 +0200" channel="COS FC HD">
+  <programme start="20220331083000 +0200" stop="20220331093000 +0200" channel="COS FC HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310655905/220327195406_11066625752.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370655224/220329151907_11270409232.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329090000 +0200" stop="20220329093000 +0200" channel="COS FC HD">
-    <title lang="en">Especial - Negrito Quintero</title>
-    <desc lang="en">Especial de Alberto \.(n)</desc>
+  <programme start="20220331093000 +0200" stop="20220331100000 +0200" channel="COS FC HD">
+    <title lang="en">Todo por el fútbol</title>
+    <desc lang="en">Un programa que aborda los hechos más destacados del mundo del fútbol nacional e internacional.(n)</desc>
     <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310655906/220327195406_7610310331.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/8781570199/220329151907_1694219287.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329093000 +0200" stop="20220329100000 +0200" channel="COS FC HD">
-    <title lang="en">NBA Action</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310649831/220327195406_1694219287.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220329100000 +0200" stop="20220329110000 +0200" channel="COS FC HD">
+  <programme start="20220331100000 +0200" stop="20220331110000 +0200" channel="COS FC HD">
     <title lang="en">Play Sports</title>
     <credits>
       <actor>David Sakata</actor>
@@ -717,34 +710,48 @@
       <actor>Juanxo Villaverde</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310946031/220327195406_6969775669.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11322705798/220329151907_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329110000 +0200" stop="20220329120000 +0200" channel="COS FC HD">
+  <programme start="20220331110000 +0200" stop="20220331120000 +0200" channel="COS FC HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310652683/220327195406_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370999923/220329151907_1070646885.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329120000 +0200" stop="20220329170000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310655907/220327195406_1694219287.jpg" />
+  <programme start="20220331120000 +0200" stop="20220331140000 +0200" channel="COS FC HD">
+    <title lang="en">Fútbol: Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
+    <desc lang="en">Panamá vs. Honduras.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11371061910/220329151907_7975673118.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329170000 +0200" stop="20220329180000 +0200" channel="COS FC HD">
+  <programme start="20220331140000 +0200" stop="20220331150000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11371041487/220329151907_6397509031.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331150000 +0200" stop="20220331170000 +0200" channel="COS FC HD">
+    <title lang="en">Fútbol panameño: LPF</title>
+    <desc lang="en">Apertura Jornada 9 Leones de América vs. Costa del Este.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/8781570200/220329151907_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331170000 +0200" stop="20220331180000 +0200" channel="COS FC HD">
     <title lang="en">Play Sports</title>
     <credits>
       <actor>David Sakata</actor>
@@ -752,58 +759,78 @@
       <actor>Juanxo Villaverde</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310946032/220327195406_6969775669.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11322705799/220329151907_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329180000 +0200" stop="20220329190000 +0200" channel="COS FC HD">
+  <programme start="20220331180000 +0200" stop="20220331190000 +0200" channel="COS FC HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310649832/220327195406_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370854015/220329151907_1380242518.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329190000 +0200" stop="20220329200000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310946033/220327195406_10645941536.jpg" />
+  <programme start="20220331190000 +0200" stop="20220331200000 +0200" channel="COS FC HD">
+    <title lang="en">Mini League</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11322701157/220329151907_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329200000 +0200" stop="20220329210000 +0200" channel="COS FC HD">
+  <programme start="20220331200000 +0200" stop="20220331210000 +0200" channel="COS FC HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11310649833/220327195406_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370655225/220329151907_10459997802.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220329210000 +0200" stop="20220330010000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales. COS2 Canal en vivo.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
+  <programme start="20220331210000 +0200" stop="20220331220000 +0200" channel="COS FC HD">
+    <title lang="en">Nación Centroamerica</title>
+    <desc lang="en">COS2 Canal en vivo.(n)</desc>
+    <category lang="en">Serie</category>
   </programme>
-  <programme start="20220328040000 -0300" stop="20220328060000 -0300" channel="UCV">
+  <programme start="20220331220000 +0200" stop="20220331223000 +0200" channel="COS FC HD">
+    <title lang="en">Navegante TV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11370896646/220329151907_5167844275.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331223000 +0200" stop="20220331233000 +0200" channel="COS FC HD">
+    <title lang="en">Mini League</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11322810189/220329151907_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220331233000 +0200" stop="20220401000000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+  </programme>
+  <programme start="20220330030000 -0300" stop="20220330040000 -0300" channel="UCV">
+    <title lang="es">Retro pop</title>
+    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+    <credits>
+      <presenter>Ismael Pereira</presenter>
+    </credits>
+    <category lang="es">Música</category>
+    <icon src="https://milhouse.zapping.live/assets/p19097931_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220330040000 -0300" stop="20220330060000 -0300" channel="UCV">
     <title lang="es">Ballet y ópera</title>
     <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220328060000 -0300" stop="20220328070000 -0300" channel="UCV">
+  <programme start="20220330060000 -0300" stop="20220330070000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -812,26 +839,26 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220328070000 -0300" stop="20220328080000 -0300" channel="UCV">
+  <programme start="20220330070000 -0300" stop="20220330080000 -0300" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220328080000 -0300" stop="20220328083000 -0300" channel="UCV">
+  <programme start="20220330080000 -0300" stop="20220330083000 -0300" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20220328083000 -0300" stop="20220328090000 -0300" channel="UCV">
+  <programme start="20220330083000 -0300" stop="20220330090000 -0300" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20220328090000 -0300" stop="20220328100000 -0300" channel="UCV">
+  <programme start="20220330090000 -0300" stop="20220330100000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -840,7 +867,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220328100000 -0300" stop="20220328110000 -0300" channel="UCV">
+  <programme start="20220330100000 -0300" stop="20220330110000 -0300" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -859,19 +886,19 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220328110000 -0300" stop="20220328113000 -0300" channel="UCV">
+  <programme start="20220330110000 -0300" stop="20220330113000 -0300" channel="UCV">
     <title lang="es">A recorrer el mundo</title>
     <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.(n)</desc>
     <category lang="es">Viajes</category>
     <icon src="https://milhouse.zapping.live/assets/p19894516_b_h10_ab.jpg" />
   </programme>
-  <programme start="20220328113000 -0300" stop="20220328120000 -0300" channel="UCV">
+  <programme start="20220330113000 -0300" stop="20220330120000 -0300" channel="UCV">
     <title lang="es">Mago infinito</title>
     <desc lang="es">Un espacio en el que se brinda información del universo astronómico y del universo que está dentro de cada una de las personas. Un espacio en el que se brinda información del universo astronómico y del universo que está dentro de cada una de las personas.(n)</desc>
     <category lang="es">Ciencia</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <icon src="https://milhouse.zapping.live/assets/p21883321_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220328120000 -0300" stop="20220328130000 -0300" channel="UCV">
+  <programme start="20220330120000 -0300" stop="20220330130000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -885,20 +912,20 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220328130000 -0300" stop="20220328140000 -0300" channel="UCV">
+  <programme start="20220330130000 -0300" stop="20220330140000 -0300" channel="UCV">
     <title lang="es">Superhumanos</title>
     <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.(n)</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220328140000 -0300" stop="20220328150000 -0300" channel="UCV">
+  <programme start="20220330140000 -0300" stop="20220330150000 -0300" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220328150000 -0300" stop="20220328160000 -0300" channel="UCV">
+  <programme start="20220330150000 -0300" stop="20220330160000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -907,7 +934,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220328160000 -0300" stop="20220328173000 -0300" channel="UCV">
+  <programme start="20220330160000 -0300" stop="20220330180000 -0300" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -926,13 +953,26 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220328173000 -0300" stop="20220328190000 -0300" channel="UCV">
-    <title lang="es">Seminario G9</title>
-    <desc lang="es">Un seminario de divulgación científica organizado por La Red de Universidades Públicas No Estatales G9, una corporación de derecho privado sin fines de lucro. Un seminario de divulgación científica organizado por La Red de Universidades Públicas No Estatales G9, una corporación de derecho privado sin fines de lucro.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  <programme start="20220330180000 -0300" stop="20220330190000 -0300" channel="UCV">
+    <title lang="es">Bonanza</title>
+    <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
+    <credits>
+      <director>David Dortort</director>
+      <actor>Lorne Greene</actor>
+      <actor>Dan Blocker</actor>
+      <actor>Victor Sen Yung</actor>
+      <actor>Bing Russell</actor>
+      <actor>Lou Frizzell</actor>
+      <actor>Tim Matheson</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
+    <rating>
+      <value>Todo Público</value>
+    </rating>
   </programme>
-  <programme start="20220328190000 -0300" stop="20220328193000 -0300" channel="UCV">
+  <programme start="20220330190000 -0300" stop="20220330193000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -946,7 +986,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220328193000 -0300" stop="20220328200000 -0300" channel="UCV">
+  <programme start="20220330193000 -0300" stop="20220330200000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -967,20 +1007,20 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20220328200000 -0300" stop="20220328210000 -0300" channel="UCV">
+  <programme start="20220330200000 -0300" stop="20220330210000 -0300" channel="UCV">
     <title lang="es">Superhumanos</title>
     <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.(n)</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220328210000 -0300" stop="20220328220000 -0300" channel="UCV">
+  <programme start="20220330210000 -0300" stop="20220330220000 -0300" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220328220000 -0300" stop="20220328230000 -0300" channel="UCV">
+  <programme start="20220330220000 -0300" stop="20220330230000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -1001,7 +1041,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20220328230000 -0300" stop="20220329000000 -0300" channel="UCV">
+  <programme start="20220330230000 -0300" stop="20220331000000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -1015,19 +1055,19 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220329000000 -0300" stop="20220329000000 -0300" channel="UCV">
+  <programme start="20220331000000 -0300" stop="20220331000000 -0300" channel="UCV">
     <title lang="es">Superhumanos</title>
     <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.(n)</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220329000000 -0300" stop="20220329010000 -0300" channel="UCV">
+  <programme start="20220331000000 -0300" stop="20220331010000 -0300" channel="UCV">
     <title lang="es">Superhumanos</title>
     <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.(n)</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220329010000 -0300" stop="20220329020000 -0300" channel="UCV">
+  <programme start="20220331010000 -0300" stop="20220331020000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -1041,7 +1081,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220329020000 -0300" stop="20220329030000 -0300" channel="UCV">
+  <programme start="20220331020000 -0300" stop="20220331030000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -1062,7 +1102,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20220329030000 -0300" stop="20220329040000 -0300" channel="UCV">
+  <programme start="20220331030000 -0300" stop="20220331040000 -0300" channel="UCV">
     <title lang="es">Los Locos Addams</title>
     <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
     <credits>
@@ -1079,13 +1119,13 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20220329040000 -0300" stop="20220329060000 -0300" channel="UCV">
+  <programme start="20220331040000 -0300" stop="20220331060000 -0300" channel="UCV">
     <title lang="es">Ballet y ópera</title>
     <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220329060000 -0300" stop="20220329070000 -0300" channel="UCV">
+  <programme start="20220331060000 -0300" stop="20220331070000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -1094,26 +1134,26 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220329070000 -0300" stop="20220329080000 -0300" channel="UCV">
+  <programme start="20220331070000 -0300" stop="20220331080000 -0300" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220329080000 -0300" stop="20220329083000 -0300" channel="UCV">
+  <programme start="20220331080000 -0300" stop="20220331083000 -0300" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20220329083000 -0300" stop="20220329090000 -0300" channel="UCV">
+  <programme start="20220331083000 -0300" stop="20220331090000 -0300" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20220329090000 -0300" stop="20220329100000 -0300" channel="UCV">
+  <programme start="20220331090000 -0300" stop="20220331100000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -1122,7 +1162,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220329100000 -0300" stop="20220329110000 -0300" channel="UCV">
+  <programme start="20220331100000 -0300" stop="20220331110000 -0300" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -1141,19 +1181,19 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220329110000 -0300" stop="20220329113000 -0300" channel="UCV">
+  <programme start="20220331110000 -0300" stop="20220331113000 -0300" channel="UCV">
     <title lang="es">A recorrer el mundo</title>
     <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.(n)</desc>
     <category lang="es">Viajes</category>
     <icon src="https://milhouse.zapping.live/assets/p19894516_b_h10_ab.jpg" />
   </programme>
-  <programme start="20220329113000 -0300" stop="20220329120000 -0300" channel="UCV">
+  <programme start="20220331113000 -0300" stop="20220331120000 -0300" channel="UCV">
     <title lang="es">Mago infinito</title>
     <desc lang="es">Un espacio en el que se brinda información del universo astronómico y del universo que está dentro de cada una de las personas. Un espacio en el que se brinda información del universo astronómico y del universo que está dentro de cada una de las personas.(n)</desc>
     <category lang="es">Ciencia</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+    <icon src="https://milhouse.zapping.live/assets/p21883321_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220329120000 -0300" stop="20220329130000 -0300" channel="UCV">
+  <programme start="20220331120000 -0300" stop="20220331130000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -1167,20 +1207,20 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220329130000 -0300" stop="20220329140000 -0300" channel="UCV">
+  <programme start="20220331130000 -0300" stop="20220331140000 -0300" channel="UCV">
     <title lang="es">Superhumanos</title>
     <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.(n)</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220329140000 -0300" stop="20220329150000 -0300" channel="UCV">
+  <programme start="20220331140000 -0300" stop="20220331150000 -0300" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220329150000 -0300" stop="20220329160000 -0300" channel="UCV">
+  <programme start="20220331150000 -0300" stop="20220331160000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -1189,7 +1229,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220329160000 -0300" stop="20220329180000 -0300" channel="UCV">
+  <programme start="20220331160000 -0300" stop="20220331180000 -0300" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -1208,7 +1248,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220329180000 -0300" stop="20220329190000 -0300" channel="UCV">
+  <programme start="20220331180000 -0300" stop="20220331190000 -0300" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -1227,7 +1267,7 @@
       <value>Todo Público</value>
     </rating>
   </programme>
-  <programme start="20220329190000 -0300" stop="20220329193000 -0300" channel="UCV">
+  <programme start="20220331190000 -0300" stop="20220331193000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -1241,7 +1281,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220329193000 -0300" stop="20220329200000 -0300" channel="UCV">
+  <programme start="20220331193000 -0300" stop="20220331200000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -1262,20 +1302,20 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20220329200000 -0300" stop="20220329210000 -0300" channel="UCV">
+  <programme start="20220331200000 -0300" stop="20220331210000 -0300" channel="UCV">
     <title lang="es">Superhumanos</title>
     <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.(n)</desc>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220329210000 -0300" stop="20220329220000 -0300" channel="UCV">
+  <programme start="20220331210000 -0300" stop="20220331220000 -0300" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220329220000 -0300" stop="20220329230000 -0300" channel="UCV">
+  <programme start="20220331220000 -0300" stop="20220331230000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
