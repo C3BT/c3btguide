@@ -22,409 +22,750 @@
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/ucv3.jpg" />
     <url>http://www.zappingtv.com</url>
   </channel>
-  <programme start="20220522013000 +0200" stop="20220522033000 +0200" channel="COS FC HD">
-    <title lang="en">Football Americano Panameño: PMFL</title>
+  <programme start="20220524000000 +0200" stop="20220524010000 +0200" channel="COS FC HD">
+    <title lang="en">Liga 10 U-18</title>
     <credits>
-      <actor>Juan Carlos Boyd</actor>
+      <actor>Jose A. Rodriguez</actor>
+      <actor>David Sakata</actor>
     </credits>
     <date>2022</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592984100/220521224428_10459850842.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11563461628/220524032429_7975673118.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220522033000 +0200" stop="20220522043000 +0200" channel="COS FC HD">
-    <title lang="en">Tiempo Extra Tv</title>
+  <programme start="20220524010000 +0200" stop="20220524020000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592836050/220521224428_7610310331.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11563345891/220524032429_1694219287.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220522043000 +0200" stop="20220522050000 +0200" channel="COS FC HD">
-    <title lang="en">NBA Action</title>
+  <programme start="20220524020000 +0200" stop="20220524030000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592965657/220521224428_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11563597400/220524032429_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220522050000 +0200" stop="20220522090000 +0200" channel="COS FC HD">
-    <title lang="en">Atletismo</title>
-    <desc lang="en">Tercer día World Athletics Indoor Championships Belgrado.(n)</desc>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592881002/220521224428_1775038172.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522090000 +0200" stop="20220522093000 +0200" channel="COS FC HD">
-    <title lang="en">Navegante TV</title>
+  <programme start="20220524030000 +0200" stop="20220524040000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592836051/220521224428_7610310331.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617314804/220524032429_11400211687.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220522093000 +0200" stop="20220522100000 +0200" channel="COS FC HD">
-    <title lang="en">NBA Action</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11593137748/220521224428_11400211687.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522100000 +0200" stop="20220522103000 +0200" channel="COS FC HD">
+  <programme start="20220524040000 +0200" stop="20220524043000 +0200" channel="COS FC HD">
     <title lang="en">Pepe Island Boggie</title>
     <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
     <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592909598/220521224428_10654606319.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617299927/220524032429_7610310331.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220522103000 +0200" stop="20220522110000 +0200" channel="COS FC HD">
-    <title lang="en">Chasing The Pearl Island</title>
-    <date>2020</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11593061797/220521224428_6397509031.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522110000 +0200" stop="20220522130000 +0200" channel="COS FC HD">
-    <title lang="en">Fútbol femenino: Eliminatorias Copa Mundial de la FIFA Australia Nueva Zelanda 2023</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592989708/220521224428_1071658332.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522130000 +0200" stop="20220522133000 +0200" channel="COS FC HD">
-    <title lang="en">Gaming Pass</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592965658/220521224428_10459997802.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522133000 +0200" stop="20220522143000 +0200" channel="COS FC HD">
-    <title lang="en">Nación Centroamerica</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592862017/220521224428_1067388143.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522143000 +0200" stop="20220522163000 +0200" channel="COS FC HD">
-    <title lang="en">KFL Varsity</title>
-    <date>2017</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592836052/220521224428_5167836636.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522163000 +0200" stop="20220522180000 +0200" channel="COS FC HD">
-    <title lang="en">Flag football femenino: LIFFF</title>
-    <date>2018</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592805907/220521224428_10459903617.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522180000 +0200" stop="20220522190000 +0200" channel="COS FC HD">
-    <title lang="en">Sideline</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11593437199/220521224428_1067360323.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522190000 +0200" stop="20220522210000 +0200" channel="COS FC HD">
-    <title lang="en">Football Americano Panameño: PMFL</title>
-    <credits>
-      <actor>Juan Carlos Boyd</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11593437200/220521224428_1067360323.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220522210000 +0200" stop="20220522230000 +0200" channel="COS FC HD">
-    <title lang="en">Football Americano Panameño: PMFL</title>
-    <desc lang="en">COS2 Canal en vivo.(n)</desc>
-    <credits>
-      <actor>Juan Carlos Boyd</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-  </programme>
-  <programme start="20220522230000 +0200" stop="20220523003000 +0200" channel="COS FC HD">
-    <title lang="en">Flag football femenino: LIFFF</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11593419803/220521224428_6397509031.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523003000 +0200" stop="20220523013000 +0200" channel="COS FC HD">
-    <title lang="en">Liga W</title>
-    <date>2016</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11593419804/220521224428_1070646886.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523013000 +0200" stop="20220523023000 +0200" channel="COS FC HD">
-    <title lang="en">Liga W</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592949403/220521224428_1070646885.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523023000 +0200" stop="20220523033000 +0200" channel="COS FC HD">
-    <title lang="en">LigaJr</title>
-    <credits>
-      <actor>Alvaro Martinez</actor>
-      <actor>Jose A. Rodriguez</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11592968853/220521224428_1070646880.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523033000 +0200" stop="20220523043000 +0200" channel="COS FC HD">
-    <title lang="en">Liga 10</title>
-    <credits>
-      <actor>Jose A. Rodriguez</actor>
-      <actor>Alvaro Martinez</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11593026974/220521224428_5167844275.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523043000 +0200" stop="20220523050000 +0200" channel="COS FC HD">
-    <title lang="en">FIFA Qatar Magazine</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617310832/220521224428_1070646884.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523050000 +0200" stop="20220523070000 +0200" channel="COS FC HD">
-    <title lang="en">Fútbol: Eliminatorias Copa Mundial de la FIFA Catar 2022</title>
-    <desc lang="en">Panamá vs. Canadá.(n)</desc>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617291987/220521224428_11384914152.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523070000 +0200" stop="20220523083000 +0200" channel="COS FC HD">
-    <title lang="en">Sorteo Qatar 2022</title>
-    <date>2022</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617294629/220521224428_6397509031.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523083000 +0200" stop="20220523103000 +0200" channel="COS FC HD">
-    <title lang="en">Fútbol femenino: Eliminatorias Copa Mundial de la FIFA Australia Nueva Zelanda 2023</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617299926/220521224428_7610310331.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523103000 +0200" stop="20220523110000 +0200" channel="COS FC HD">
+  <programme start="20220524043000 +0200" stop="20220524050000 +0200" channel="COS FC HD">
     <title lang="en">NBA Action</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617314297/220521224428_10459903617.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617362715/220524032429_1067388142.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220523110000 +0200" stop="20220523120000 +0200" channel="COS FC HD">
-    <title lang="en">Sideline</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617291157/220521224428_11297217360.jpg" />
+  <programme start="20220524050000 +0200" stop="20220524070000 +0200" channel="COS FC HD">
+    <title lang="en">Football Americano Panameño: PMFL</title>
+    <credits>
+      <actor>Juan Carlos Boyd</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568444379/220524032429_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220523120000 +0200" stop="20220523150000 +0200" channel="COS FC HD">
-    <title lang="en">FF Norte</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617313554/220521224428_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523150000 +0200" stop="20220523153000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617313555/220521224428_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523153000 +0200" stop="20220523160000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617313556/220521224428_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523160000 +0200" stop="20220523163000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617313557/220521224428_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523163000 +0200" stop="20220523170000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617296100/220521224428_10459997802.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523170000 +0200" stop="20220523180000 +0200" channel="COS FC HD">
-    <title lang="en">Nación Centroamerica</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11563485811/220521224428_6969775669.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523180000 +0200" stop="20220523190000 +0200" channel="COS FC HD">
+  <programme start="20220524070000 +0200" stop="20220524080000 +0200" channel="COS FC HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617294757/220521224428_1071887313.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568345336/220524032429_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220523190000 +0200" stop="20220523193000 +0200" channel="COS FC HD">
-    <title lang="en">Gaming Pass</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617295708/220521224428_1775038172.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523193000 +0200" stop="20220523200000 +0200" channel="COS FC HD">
-    <title lang="en">Navegante TV</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11563597399/220521224428_10645941536.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523200000 +0200" stop="20220523210000 +0200" channel="COS FC HD">
+  <programme start="20220524080000 +0200" stop="20220524090000 +0200" channel="COS FC HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617304377/220521224428_10654606319.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617314805/220524032429_11400211687.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220523210000 +0200" stop="20220523213000 +0200" channel="COS FC HD">
-    <title lang="en">Chasing The Pearl Island</title>
-    <date>2020</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617295709/220521224428_10264990153.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523213000 +0200" stop="20220523220000 +0200" channel="COS FC HD">
-    <title lang="en">KFL Total Access</title>
-    <desc lang="en">COS2 Canal en vivo.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Other</category>
-  </programme>
-  <programme start="20220523220000 +0200" stop="20220523230000 +0200" channel="COS FC HD">
-    <title lang="en">Liga W</title>
+  <programme start="20220524090000 +0200" stop="20220524093000 +0200" channel="COS FC HD">
+    <title lang="en">Pepe Island Boggie</title>
+    <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
     <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11563432890/220521224428_10647160455.jpg" />
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617292447/220524032429_1067360325.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220523230000 +0200" stop="20220523233000 +0200" channel="COS FC HD">
-    <title lang="en">Fiesta Party</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617292446/220521224428_1067360325.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220523233000 +0200" stop="20220524000000 +0200" channel="COS FC HD">
+  <programme start="20220524093000 +0200" stop="20220524100000 +0200" channel="COS FC HD">
     <title lang="en">MLB Best</title>
     <date>2017</date>
     <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568547432/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
   </programme>
-  <programme start="20220522023000 -0400" stop="20220522040000 -0400" channel="UCV">
-    <title lang="es">Retro pop</title>
-    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+  <programme start="20220524100000 +0200" stop="20220524110000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
     <credits>
-      <presenter>Ismael Pereira</presenter>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
     </credits>
-    <category lang="es">Música</category>
-    <icon src="https://milhouse.zapping.live/assets/p19097931_b_h10_aa.jpg" />
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568444381/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
   </programme>
-  <programme start="20220522040000 -0400" stop="20220522060000 -0400" channel="UCV">
+  <programme start="20220524110000 +0200" stop="20220524120000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617294758/220524032429_1071887313.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524120000 +0200" stop="20220524123000 +0200" channel="COS FC HD">
+    <title lang="en">Gaming Pass</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617295710/220524032429_10264990153.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524123000 +0200" stop="20220524130000 +0200" channel="COS FC HD">
+    <title lang="en">KFL Total Access</title>
+    <date>2018</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617314298/220524032429_10459903617.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524130000 +0200" stop="20220524140000 +0200" channel="COS FC HD">
+    <title lang="en">Sideline</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617296906/220524032429_1067346612.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524140000 +0200" stop="20220524170000 +0200" channel="COS FC HD">
+    <title lang="en">Béisbol: MLB</title>
+    <desc lang="en">New York Yankees vs. Baltimore Orioles. Desde Oriole Park vs. Camden Yards.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568547433/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524170000 +0200" stop="20220524180000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568444383/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524180000 +0200" stop="20220524190000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617291988/220524032429_7975673118.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524190000 +0200" stop="20220524200000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568345337/220524032429_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524200000 +0200" stop="20220524210000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617304378/220524032429_10654606319.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524210000 +0200" stop="20220524213000 +0200" channel="COS FC HD">
+    <title lang="en">Chasing The Pearl Island</title>
+    <date>2020</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617299928/220524032429_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524213000 +0200" stop="20220524220000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <desc lang="en">COS2 Canal en vivo.(n)</desc>
+    <category lang="en">Serie</category>
+  </programme>
+  <programme start="20220524220000 +0200" stop="20220524233000 +0200" channel="COS FC HD">
+    <title lang="en">Ludos Basketball</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617296101/220524032429_10459997802.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220524233000 +0200" stop="20220525003000 +0200" channel="COS FC HD">
+    <title lang="en">Nación Centroamerica</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617314806/220524032429_11400211687.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525003000 +0200" stop="20220525010000 +0200" channel="COS FC HD">
+    <title lang="en">Pepe Island Boggie</title>
+    <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617314299/220524032429_10459903617.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525010000 +0200" stop="20220525020000 +0200" channel="COS FC HD">
+    <title lang="en">Sideline</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568547434/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525020000 +0200" stop="20220525030000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11568345338/220524032429_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525030000 +0200" stop="20220525040000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617295711/220524032429_1775038172.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525040000 +0200" stop="20220525043000 +0200" channel="COS FC HD">
+    <title lang="en">Navegante TV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11617299929/220524032429_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525043000 +0200" stop="20220525050000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621295422/220524032429_5167844275.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525050000 +0200" stop="20220525060000 +0200" channel="COS FC HD">
+    <title lang="en">Highlights Indoor</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621163960/220524032429_7975673118.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525060000 +0200" stop="20220525070000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11573008893/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525070000 +0200" stop="20220525080000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11572882828/220524032429_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525080000 +0200" stop="20220525090000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620982591/220524032429_11400211687.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525090000 +0200" stop="20220525093000 +0200" channel="COS FC HD">
+    <title lang="en">Pepe Island Boggie</title>
+    <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621001636/220524032429_10654606319.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525093000 +0200" stop="20220525100000 +0200" channel="COS FC HD">
+    <title lang="en">Chasing The Pearl Island</title>
+    <date>2020</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11572887159/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525100000 +0200" stop="20220525110000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11573008894/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525110000 +0200" stop="20220525120000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621163961/220524032429_1070646878.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525120000 +0200" stop="20220525130000 +0200" channel="COS FC HD">
+    <title lang="en">Liga 10 U-18</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Alvaro Martinez</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620968371/220524032429_10459997802.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525130000 +0200" stop="20220525140000 +0200" channel="COS FC HD">
+    <title lang="en">Nación Centroamerica</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621235119/220524032429_1067346610.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525140000 +0200" stop="20220525170000 +0200" channel="COS FC HD">
+    <title lang="en">Béisbol panameño</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11572887160/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525170000 +0200" stop="20220525180000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621070467/220524032429_1071887313.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525180000 +0200" stop="20220525183000 +0200" channel="COS FC HD">
+    <title lang="en">Gaming Pass</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11573008895/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525183000 +0200" stop="20220525193000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620982592/220524032429_10264990153.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525193000 +0200" stop="20220525200000 +0200" channel="COS FC HD">
+    <title lang="en">KFL Total Access</title>
+    <date>2018</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11572882829/220524032429_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525200000 +0200" stop="20220525210000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621309538/220524032429_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525210000 +0200" stop="20220525213000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621235120/220524032429_1067360325.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525213000 +0200" stop="20220525220000 +0200" channel="COS FC HD">
+    <title lang="en">MLB Best</title>
+    <desc lang="en">COS2 Canal en vivo.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Episode</category>
+  </programme>
+  <programme start="20220525220000 +0200" stop="20220525230000 +0200" channel="COS FC HD">
+    <title lang="en">Liga W</title>
+    <date>2016</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11572985268/220524032429_10647160455.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525230000 +0200" stop="20220525233000 +0200" channel="COS FC HD">
+    <title lang="en">Fiesta Party</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621235121/220524032429_10459903617.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220525233000 +0200" stop="20220526003000 +0200" channel="COS FC HD">
+    <title lang="en">Sideline</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620986128/220524032429_1775038172.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526003000 +0200" stop="20220526010000 +0200" channel="COS FC HD">
+    <title lang="en">Navegante TV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621268432/220524032429_1070646884.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526010000 +0200" stop="20220526020000 +0200" channel="COS FC HD">
+    <title lang="en">Liga 10 U-18</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Alvaro Martinez</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11572887161/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526020000 +0200" stop="20220526030000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11572882830/220524032429_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526030000 +0200" stop="20220526040000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621309539/220524032429_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526040000 +0200" stop="20220526043000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620982593/220524032429_11400211687.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526043000 +0200" stop="20220526050000 +0200" channel="COS FC HD">
+    <title lang="en">Pepe Island Boggie</title>
+    <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620982594/220524032429_11400211687.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526050000 +0200" stop="20220526053000 +0200" channel="COS FC HD">
+    <title lang="en">Pepe Island Boggie</title>
+    <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621001637/220524032429_10654606319.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526053000 +0200" stop="20220526060000 +0200" channel="COS FC HD">
+    <title lang="en">Chasing The Pearl Island</title>
+    <date>2020</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621309540/220524032429_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526060000 +0200" stop="20220526063000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621070468/220524032429_1071887313.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526063000 +0200" stop="20220526070000 +0200" channel="COS FC HD">
+    <title lang="en">Gaming Pass</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11576817056/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526070000 +0200" stop="20220526080000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11576833291/220524032429_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526080000 +0200" stop="20220526090000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620968372/220524032429_10459997802.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526090000 +0200" stop="20220526100000 +0200" channel="COS FC HD">
+    <title lang="en">Nación Centroamerica</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11576978209/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526100000 +0200" stop="20220526110000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11576817057/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526110000 +0200" stop="20220526120000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621234648/220524032429_10459903617.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526120000 +0200" stop="20220526130000 +0200" channel="COS FC HD">
+    <title lang="en">Sideline</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620986129/220524032429_1775038172.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526130000 +0200" stop="20220526133000 +0200" channel="COS FC HD">
+    <title lang="en">Navegante TV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621234649/220524032429_1067360325.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526133000 +0200" stop="20220526140000 +0200" channel="COS FC HD">
+    <title lang="en">MLB Best</title>
+    <date>2017</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11622725969/220524032429_1067346612.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526140000 +0200" stop="20220526170000 +0200" channel="COS FC HD">
+    <title lang="en">Béisbol panameño</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11576978210/220524032429_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526170000 +0200" stop="20220526180000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11576817058/220524032429_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526180000 +0200" stop="20220526190000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621163962/220524032429_7975673118.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526190000 +0200" stop="20220526200000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11576833292/220524032429_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526200000 +0200" stop="20220526210000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11620982595/220524032429_10264990153.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526210000 +0200" stop="20220526213000 +0200" channel="COS FC HD">
+    <title lang="en">KFL Total Access</title>
+    <date>2018</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11621001638/220524032429_10654606319.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220526213000 +0200" stop="20220526220000 +0200" channel="COS FC HD">
+    <title lang="en">Chasing The Pearl Island</title>
+    <date>2020</date>
+    <category lang="en">Other</category>
+  </programme>
+  <programme start="20220524020000 -0400" stop="20220524030000 -0400" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220524030000 -0400" stop="20220524040000 -0400" channel="UCV">
+    <title lang="es">Los Locos Addams</title>
+    <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
+    <credits>
+      <director>David Levy</director>
+      <actor>Carolyn Jones</actor>
+      <actor>Jackie Coogan</actor>
+      <actor>Blossom Rock</actor>
+      <actor>Lisa Loring</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="es">Sitcom</category>
+    <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
+  </programme>
+  <programme start="20220524040000 -0400" stop="20220524060000 -0400" channel="UCV">
     <title lang="es">Ballet y ópera</title>
     <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220522060000 -0400" stop="20220522080000 -0400" channel="UCV">
-    <title lang="es">Ballet y ópera</title>
-    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220522080000 -0400" stop="20220522083000 -0400" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220522083000 -0400" stop="20220522090000 -0400" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220522090000 -0400" stop="20220522100000 -0400" channel="UCV">
+  <programme start="20220524060000 -0400" stop="20220524070000 -0400" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -433,237 +774,26 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220522100000 -0400" stop="20220522110000 -0400" channel="UCV">
-    <title lang="es">Chile Regional MBA PUCV</title>
-    <desc lang="es">Se presenta un seminario sobre temas regionales de Chile con distintos panelistas, organizado por el programa de estudios MBA de la Pontificia Universidad Católica de Valparaíso. Se presenta un seminario sobre temas regionales de Chile con distintos panelistas, organizado por el programa de estudios MBA de la Pontificia Universidad Católica de Valparaíso.(n)</desc>
-    <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220522110000 -0400" stop="20220522120000 -0400" channel="UCV">
-    <title lang="es">Derechos Humanos Sin Fronteras</title>
-    <desc lang="es">Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales. Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p22147267_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220522120000 -0400" stop="20220522123000 -0400" channel="UCV">
-    <title lang="es">Mundo Radio</title>
-    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
-    <credits>
-      <presenter>Alberto Muñoz</presenter>
-    </credits>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220522123000 -0400" stop="20220522130000 -0400" channel="UCV">
-    <title lang="es">Generación Ñuble</title>
-    <desc lang="es">Un espacio que busca visibilizar y fomentar la producción artística contemporánea local a través de la realización de una serie de microdocumentales. Un espacio que busca visibilizar y fomentar la producción artística contemporánea local a través de la realización de una serie de microdocumentales.(n)</desc>
-    <credits>
-      <actor>Tomás Alzamora</actor>
-      <actor>Soraya Sepúlveda</actor>
-      <actor>Adrien Canitrot</actor>
-      <actor>Elías Meza</actor>
-    </credits>
-    <category lang="es">Arte</category>
-    <icon src="https://milhouse.zapping.live/assets/p22147241_b_h8_aa.jpg" />
-  </programme>
-  <programme start="20220522130000 -0400" stop="20220522133000 -0400" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220522133000 -0400" stop="20220522140000 -0400" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220522140000 -0400" stop="20220522160000 -0400" channel="UCV">
-    <title lang="es">Ballet y ópera</title>
-    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220522160000 -0400" stop="20220522170000 -0400" channel="UCV">
-    <title lang="es">Estudio Zeppelin</title>
-    <desc lang="es">Presentación de temas musicales en forma de historia y conducido por César Cosio, uno de los mejores DJ's del país. Presentación de temas musicales en forma de historia y conducido por César Cosio, uno de los mejores DJ's del país.(n)</desc>
-    <category lang="es">Música</category>
-    <icon src="https://milhouse.zapping.live/assets/p12792363_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220522170000 -0400" stop="20220522173000 -0400" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220522173000 -0400" stop="20220522190000 -0400" channel="UCV">
-    <title lang="es">101 inventos que cambiaron el mundo</title>
-    <desc lang="es">El ingenio humano presenta a la especie a través de nuevas invenciones maravillosas. El ingenio humano presenta a la especie a través de nuevas invenciones maravillosas.(n)</desc>
-    <date>2012</date>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p9585018_i_h8_ac.jpg" />
-  </programme>
-  <programme start="20220522190000 -0400" stop="20220522210000 -0400" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
-  <programme start="20220522210000 -0400" stop="20220522220000 -0400" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220522220000 -0400" stop="20220523000000 -0400" channel="UCV">
-    <title lang="es">101 Objetos Que Cambiaron al Mundo</title>
-    <desc lang="es">Objetos aparentemente ordinarios pueden contener significado potente en la historia humana. Objetos aparentemente ordinarios pueden contener significado potente en la historia humana.(n)</desc>
-    <date>2013</date>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p9642074_i_h8_ac.jpg" />
-  </programme>
-  <programme start="20220523000000 -0400" stop="20220523000000 -0400" channel="UCV">
-    <title lang="es">Tierra de Fantasmas</title>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220523000000 -0400" stop="20220523003000 -0400" channel="UCV">
-    <title lang="es">Tierra de Fantasmas</title>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220523003000 -0400" stop="20220523013000 -0400" channel="UCV">
-    <title lang="es">Humanidad decodificada</title>
-    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
-    <credits>
-      <actor>Eric Meyers</actor>
-      <actor>Richard Machowicz</actor>
-      <actor>Henry Gates Jr.</actor>
-      <producer>Paul Cabana</producer>
-      <producer>Tim Conrad</producer>
-      <producer>Ben Goold</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Historia</category>
-    <icon src="https://milhouse.zapping.live/assets/p9642427_b_h10_ar.jpg" />
-  </programme>
-  <programme start="20220523013000 -0400" stop="20220523023000 -0400" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220523023000 -0400" stop="20220523030000 -0400" channel="UCV">
-    <title lang="es">La senda del vino</title>
-    <desc lang="es">Un espacio para aprender sobre los vinos de Chile. Variedades, viñedos y mucho más. Un espacio para aprender sobre los vinos de Chile. Variedades, viñedos y mucho más.(n)</desc>
-    <credits>
-      <presenter>Roberto Coloma</presenter>
-      <presenter>Pablo Parra</presenter>
-    </credits>
-    <category lang="es">Entretenimiento</category>
-    <icon src="https://milhouse.zapping.live/assets/p22087437_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220523030000 -0400" stop="20220523040000 -0400" channel="UCV">
-    <title lang="es">Patton 360</title>
-    <desc lang="es">Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial. Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial.(n)</desc>
-    <credits>
-      <actor>David Robb</actor>
-      <actor>Erik Thompson</actor>
-      <producer>Brian Thompson</producer>
-      <producer>Carl Lindahl</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p3503117_b_h8_af.jpg" />
-  </programme>
-  <programme start="20220523040000 -0400" stop="20220523060000 -0400" channel="UCV">
-    <title lang="es">Ballet y ópera</title>
-    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220523060000 -0400" stop="20220523070000 -0400" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220523070000 -0400" stop="20220523080000 -0400" channel="UCV">
+  <programme start="20220524070000 -0400" stop="20220524080000 -0400" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220523080000 -0400" stop="20220523083000 -0400" channel="UCV">
+  <programme start="20220524080000 -0400" stop="20220524083000 -0400" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20220523083000 -0400" stop="20220523090000 -0400" channel="UCV">
+  <programme start="20220524083000 -0400" stop="20220524090000 -0400" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20220523090000 -0400" stop="20220523100000 -0400" channel="UCV">
+  <programme start="20220524090000 -0400" stop="20220524100000 -0400" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -672,7 +802,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220523100000 -0400" stop="20220523110000 -0400" channel="UCV">
+  <programme start="20220524100000 -0400" stop="20220524110000 -0400" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -688,7 +818,7 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
   </programme>
-  <programme start="20220523110000 -0400" stop="20220523113000 -0400" channel="UCV">
+  <programme start="20220524110000 -0400" stop="20220524113000 -0400" channel="UCV">
     <title lang="es">Mundo Radio</title>
     <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
     <credits>
@@ -697,7 +827,7 @@
     <category lang="es">Entrevista</category>
     <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220523113000 -0400" stop="20220523120000 -0400" channel="UCV">
+  <programme start="20220524113000 -0400" stop="20220524120000 -0400" channel="UCV">
     <title lang="es">Palabras imaginarias</title>
     <desc lang="es">Conversaciones sobre el proceso creativo, las influencias y los aspectos más relevantes de la literatura fantástica. Conversaciones sobre el proceso creativo, las influencias y los aspectos más relevantes de la literatura fantástica.(n)</desc>
     <credits>
@@ -706,7 +836,7 @@
     <category lang="es">Books &amp; literature</category>
     <icon src="https://milhouse.zapping.live/assets/p21703798_b_h10_aa.jpg" />
   </programme>
-  <programme start="20220523120000 -0400" stop="20220523130000 -0400" channel="UCV">
+  <programme start="20220524120000 -0400" stop="20220524130000 -0400" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -720,7 +850,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220523130000 -0400" stop="20220523140000 -0400" channel="UCV">
+  <programme start="20220524130000 -0400" stop="20220524140000 -0400" channel="UCV">
     <title lang="es">Maravillas modernas</title>
     <credits>
       <producer>Charlie Maday</producer>
@@ -731,14 +861,14 @@
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_ay.jpg" />
   </programme>
-  <programme start="20220523140000 -0400" stop="20220523150000 -0400" channel="UCV">
+  <programme start="20220524140000 -0400" stop="20220524150000 -0400" channel="UCV">
     <title lang="es">Documental</title>
     <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
     <date>2016</date>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220523150000 -0400" stop="20220523160000 -0400" channel="UCV">
+  <programme start="20220524150000 -0400" stop="20220524160000 -0400" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -747,7 +877,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20220523160000 -0400" stop="20220523170000 -0400" channel="UCV">
+  <programme start="20220524160000 -0400" stop="20220524170000 -0400" channel="UCV">
     <title lang="es">Humanidad decodificada</title>
     <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
     <credits>
@@ -762,12 +892,12 @@
     <category lang="es">Historia</category>
     <icon src="https://milhouse.zapping.live/assets/p9642427_b_h10_ar.jpg" />
   </programme>
-  <programme start="20220523170000 -0400" stop="20220523180000 -0400" channel="UCV">
+  <programme start="20220524170000 -0400" stop="20220524180000 -0400" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220523180000 -0400" stop="20220523190000 -0400" channel="UCV">
+  <programme start="20220524180000 -0400" stop="20220524190000 -0400" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -788,7 +918,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20220523190000 -0400" stop="20220523200000 -0400" channel="UCV">
+  <programme start="20220524190000 -0400" stop="20220524200000 -0400" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -802,7 +932,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220523200000 -0400" stop="20220523210000 -0400" channel="UCV">
+  <programme start="20220524200000 -0400" stop="20220524210000 -0400" channel="UCV">
     <title lang="es">Maravillas modernas</title>
     <credits>
       <producer>Charlie Maday</producer>
@@ -813,7 +943,7 @@
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_ay.jpg" />
   </programme>
-  <programme start="20220523210000 -0400" stop="20220523220000 -0400" channel="UCV">
+  <programme start="20220524210000 -0400" stop="20220524220000 -0400" channel="UCV">
     <title lang="es">Humanidad decodificada</title>
     <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
     <credits>
@@ -828,7 +958,307 @@
     <category lang="es">Historia</category>
     <icon src="https://milhouse.zapping.live/assets/p9642427_b_h10_ar.jpg" />
   </programme>
-  <programme start="20220523220000 -0400" stop="20220523230000 -0400" channel="UCV">
+  <programme start="20220524220000 -0400" stop="20220524230000 -0400" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220524230000 -0400" stop="20220525000000 -0400" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220525000000 -0400" stop="20220525000000 -0400" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_ay.jpg" />
+  </programme>
+  <programme start="20220525000000 -0400" stop="20220525010000 -0400" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_ay.jpg" />
+  </programme>
+  <programme start="20220525010000 -0400" stop="20220525020000 -0400" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220525020000 -0400" stop="20220525030000 -0400" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220525030000 -0400" stop="20220525040000 -0400" channel="UCV">
+    <title lang="es">Retro pop</title>
+    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+    <credits>
+      <presenter>Ismael Pereira</presenter>
+    </credits>
+    <category lang="es">Música</category>
+    <icon src="https://milhouse.zapping.live/assets/p19097931_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220525040000 -0400" stop="20220525060000 -0400" channel="UCV">
+    <title lang="es">Ballet y ópera</title>
+    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220525060000 -0400" stop="20220525070000 -0400" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220525070000 -0400" stop="20220525080000 -0400" channel="UCV">
+    <title lang="es">Documental</title>
+    <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220525080000 -0400" stop="20220525083000 -0400" channel="UCV">
+    <title lang="es">A3D</title>
+    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
+    <category lang="es">Consumidor</category>
+    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
+  </programme>
+  <programme start="20220525083000 -0400" stop="20220525090000 -0400" channel="UCV">
+    <title lang="es">A3D</title>
+    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
+    <category lang="es">Consumidor</category>
+    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
+  </programme>
+  <programme start="20220525090000 -0400" stop="20220525100000 -0400" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220525100000 -0400" stop="20220525110000 -0400" channel="UCV">
+    <title lang="es">Bonanza</title>
+    <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
+    <credits>
+      <director>David Dortort</director>
+      <actor>Lorne Greene</actor>
+      <actor>Dan Blocker</actor>
+      <actor>Victor Sen Yung</actor>
+      <actor>Bing Russell</actor>
+      <actor>Lou Frizzell</actor>
+      <actor>Tim Matheson</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
+  </programme>
+  <programme start="20220525110000 -0400" stop="20220525113000 -0400" channel="UCV">
+    <title lang="es">Mundo Radio</title>
+    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
+    <credits>
+      <presenter>Alberto Muñoz</presenter>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220525113000 -0400" stop="20220525120000 -0400" channel="UCV">
+    <title lang="es">Palabras imaginarias</title>
+    <desc lang="es">Conversaciones sobre el proceso creativo, las influencias y los aspectos más relevantes de la literatura fantástica. Conversaciones sobre el proceso creativo, las influencias y los aspectos más relevantes de la literatura fantástica.(n)</desc>
+    <credits>
+      <presenter>Marcelo Novoa</presenter>
+    </credits>
+    <category lang="es">Books &amp; literature</category>
+    <icon src="https://milhouse.zapping.live/assets/p21703798_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220525120000 -0400" stop="20220525130000 -0400" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220525130000 -0400" stop="20220525140000 -0400" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_ay.jpg" />
+  </programme>
+  <programme start="20220525140000 -0400" stop="20220525150000 -0400" channel="UCV">
+    <title lang="es">Documental</title>
+    <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
+    <date>2016</date>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220525150000 -0400" stop="20220525160000 -0400" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220525160000 -0400" stop="20220525170000 -0400" channel="UCV">
+    <title lang="es">Humanidad decodificada</title>
+    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
+    <credits>
+      <actor>Eric Meyers</actor>
+      <actor>Richard Machowicz</actor>
+      <actor>Henry Gates Jr.</actor>
+      <producer>Paul Cabana</producer>
+      <producer>Tim Conrad</producer>
+      <producer>Ben Goold</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Historia</category>
+    <icon src="https://milhouse.zapping.live/assets/p9642427_b_h10_ar.jpg" />
+  </programme>
+  <programme start="20220525170000 -0400" stop="20220525180000 -0400" channel="UCV">
+    <title lang="es">El mundo en tus ojos</title>
+    <category lang="es">Educacional</category>
+    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220525180000 -0400" stop="20220525190000 -0400" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220525190000 -0400" stop="20220525200000 -0400" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220525200000 -0400" stop="20220525210000 -0400" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_ay.jpg" />
+  </programme>
+  <programme start="20220525210000 -0400" stop="20220525220000 -0400" channel="UCV">
+    <title lang="es">Humanidad decodificada</title>
+    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
+    <credits>
+      <actor>Eric Meyers</actor>
+      <actor>Richard Machowicz</actor>
+      <actor>Henry Gates Jr.</actor>
+      <producer>Paul Cabana</producer>
+      <producer>Tim Conrad</producer>
+      <producer>Ben Goold</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Historia</category>
+    <icon src="https://milhouse.zapping.live/assets/p9642427_b_h10_ar.jpg" />
+  </programme>
+  <programme start="20220525220000 -0400" stop="20220525230000 -0400" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
