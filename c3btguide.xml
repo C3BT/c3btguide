@@ -21,20 +21,7 @@
     <display-name lang="es">UCV</display-name>
     <url>http://www.zappingtv.com</url>
   </channel>
-  <programme start="20220620000000 +0200" stop="20220620010000 +0200" channel="COS FC HD">
-    <title lang="en">Liga 10</title>
-    <credits>
-      <actor>Jose A. Rodriguez</actor>
-      <actor>David Sakata</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11708559621/220619142841_1070646885.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620010000 +0200" stop="20220620020000 +0200" channel="COS FC HD">
+  <programme start="20220621000000 +0200" stop="20220621010000 +0200" channel="COS FC HD">
     <title lang="en">Liga 10</title>
     <credits>
       <actor>David Sakata</actor>
@@ -42,197 +29,7 @@
     </credits>
     <date>2022</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11691620276/220619142841_1070646878.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620020000 +0200" stop="20220620040000 +0200" channel="COS FC HD">
-    <title lang="en">Fútbol: Concacaf Liga de Naciones</title>
-    <desc lang="en">Jornada 1 Panamá vs. Costa Rica.(n)</desc>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11691724399/220619142841_10459850842.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620040000 +0200" stop="20220620050000 +0200" channel="COS FC HD">
-    <title lang="en">Tiempo Extra Tv</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679546/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620050000 +0200" stop="20220620053000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679547/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620053000 +0200" stop="20220620060000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679548/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620060000 +0200" stop="20220620063000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679549/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620063000 +0200" stop="20220620070000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733627167/220619142841_11546779203.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620070000 +0200" stop="20220620110000 +0200" channel="COS FC HD">
-    <title lang="en">FIFA eNations FEPAFUT</title>
-    <date>2022</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733641845/220619142841_11400211687.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620110000 +0200" stop="20220620113000 +0200" channel="COS FC HD">
-    <title lang="en">Pepe Island Boggie</title>
-    <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
-    <date>2022</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733750775/220619142841_1070646882.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620113000 +0200" stop="20220620133000 +0200" channel="COS FC HD">
-    <title lang="en">CaminoQatar</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733635373/220619142841_11688113016.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620133000 +0200" stop="20220620160000 +0200" channel="COS FC HD">
-    <title lang="en">Skateboarding - Circuito Nacional</title>
-    <desc lang="en">Disfrute del Circuito de Competencias Oficial de Skateboarding.(n)</desc>
-    <date>2022</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733625381/220619142841_1070646877.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620160000 +0200" stop="20220620170000 +0200" channel="COS FC HD">
-    <title lang="en">Liga W</title>
-    <date>2022</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733634789/220619142841_7975673118.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620170000 +0200" stop="20220620180000 +0200" channel="COS FC HD">
-    <title lang="en">Contragolpe</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11676207156/220619142841_6969775669.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620180000 +0200" stop="20220620190000 +0200" channel="COS FC HD">
-    <title lang="en">Tiempo Extra RPC Radio</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733631458/220619142841_10264990153.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620190000 +0200" stop="20220620193000 +0200" channel="COS FC HD">
-    <title lang="en">KFL Total Access</title>
-    <date>2018</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733631459/220619142841_10654606319.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620193000 +0200" stop="20220620200000 +0200" channel="COS FC HD">
-    <title lang="en">Chasing The Pearl Island</title>
-    <date>2020</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11675916268/220619142841_10645941536.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620200000 +0200" stop="20220620210000 +0200" channel="COS FC HD">
-    <title lang="en">El desmarque</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11675765532/220619142841_5167836638.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620210000 +0200" stop="20220620220000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales. COS2 Canal en vivo.(n)</desc>
-    <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-  </programme>
-  <programme start="20220620220000 +0200" stop="20220620230000 +0200" channel="COS FC HD">
-    <title lang="en">Nación Centroamerica</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11675853791/220619142841_10647160455.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620230000 +0200" stop="20220620233000 +0200" channel="COS FC HD">
-    <title lang="en">Fiesta Party</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733628427/220619142841_11693421247.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220620233000 +0200" stop="20220621000000 +0200" channel="COS FC HD">
-    <title lang="en">Pádel tv</title>
-    <desc lang="en">Padel TV profundiza en el deporte de moda. La historia del padel, su técnica, las mejores tácticas y los torneos más destacados... Un programa que lleva con muñeca firme Jorge Bellmont.(n)</desc>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679554/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220621000000 +0200" stop="20220621003000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679555/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220621003000 +0200" stop="20220621010000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11676035990/220619142841_7975673118.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11676035990/220620144341_7975673118.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -240,7 +37,7 @@
   <programme start="20220621010000 +0200" stop="20220621020000 +0200" channel="COS FC HD">
     <title lang="en">Contragolpe</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11675569949/220619142841_1694219287.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11675569949/220620144341_1694219287.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -253,7 +50,7 @@
       <actor>Juanxo Villaverde</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11675916269/220619142841_10645941536.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11675916269/220620144341_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -261,7 +58,7 @@
   <programme start="20220621030000 +0200" stop="20220621040000 +0200" channel="COS FC HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733626840/220619142841_1775038172.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733626840/220620144341_1775038172.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -269,7 +66,7 @@
   <programme start="20220621040000 +0200" stop="20220621043000 +0200" channel="COS FC HD">
     <title lang="en">Navegante TV</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733642644/220619142841_7610310331.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733642644/220620144341_7610310331.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -277,39 +74,16 @@
   <programme start="20220621043000 +0200" stop="20220621050000 +0200" channel="COS FC HD">
     <title lang="en">NBA Action</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679556/220619142841_1068873534.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11735080961/220620144341_1070646877.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20220621050000 +0200" stop="20220621053000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679557/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220621053000 +0200" stop="20220621060000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679558/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220621060000 +0200" stop="20220621063000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679559/220619142841_1068873534.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20220621063000 +0200" stop="20220621070000 +0200" channel="COS FC HD">
-    <title lang="en">Cable Onda Sports</title>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11680024426/220619142841_6969775669.jpg" />
+  <programme start="20220621050000 +0200" stop="20220621070000 +0200" channel="COS FC HD">
+    <title lang="en">CaminoQatar</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11680024426/220620144341_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -317,7 +91,7 @@
   <programme start="20220621070000 +0200" stop="20220621080000 +0200" channel="COS FC HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679997054/220619142841_10645941536.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679997054/220620144341_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -325,21 +99,20 @@
   <programme start="20220621080000 +0200" stop="20220621090000 +0200" channel="COS FC HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679954137/220619142841_5167836638.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11735080962/220620144341_1070646885.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20220621090000 +0200" stop="20220621100000 +0200" channel="COS FC HD">
-    <title lang="en">Deporte: Será Anunciado</title>
-    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales.(n)</desc>
+    <title lang="en">Liga 10</title>
     <credits>
-      <actor>Ramiro Pantorotto</actor>
-      <actor>Fernando Carlos</actor>
+      <actor>David Sakata</actor>
+      <actor>Jose A. Rodriguez</actor>
     </credits>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679944064/220619142841_1694219287.jpg" />
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679944064/220620144341_1694219287.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -352,7 +125,7 @@
       <actor>Juanxo Villaverde</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11680024427/220619142841_6969775669.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11680024427/220620144341_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -360,7 +133,7 @@
   <programme start="20220621110000 +0200" stop="20220621120000 +0200" channel="COS FC HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733631460/220619142841_10264990153.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733631460/220620144341_10264990153.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -369,7 +142,7 @@
     <title lang="en">KFL Total Access</title>
     <date>2018</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733641846/220619142841_11400211687.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733641846/220620144341_11400211687.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -379,7 +152,7 @@
     <desc lang="en">Retransmisión del evento de paracaidismoPepe Island Boggie en Panamá.(n)</desc>
     <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733635611/220619142841_1067388143.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733635611/220620144341_1067388143.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -388,7 +161,7 @@
     <title lang="en">KFL Flag Mini</title>
     <date>2019</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733628428/220619142841_1067360323.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733628428/220620144341_1067360323.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -398,7 +171,7 @@
     <desc lang="en">New York Yankees vs. Tampa Bay Rays. Desde Tropicana Field.(n)</desc>
     <date>2022</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679944065/220619142841_1694219287.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679944065/220620144341_1694219287.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -411,7 +184,7 @@
       <actor>Juanxo Villaverde</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11680024428/220619142841_6969775669.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11680024428/220620144341_6969775669.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -419,7 +192,7 @@
   <programme start="20220621180000 +0200" stop="20220621190000 +0200" channel="COS FC HD">
     <title lang="en">Tiempo Extra RPC Radio</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733642645/220619142841_7610310331.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733642645/220620144341_7610310331.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -427,7 +200,7 @@
   <programme start="20220621190000 +0200" stop="20220621193000 +0200" channel="COS FC HD">
     <title lang="en">NBA Action</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733628429/220619142841_11693421247.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733628429/220620144341_11693421247.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -436,7 +209,7 @@
     <title lang="en">Pádel tv</title>
     <desc lang="en">Padel TV profundiza en el deporte de moda. La historia del padel, su técnica, las mejores tácticas y los torneos más destacados... Un programa que lleva con muñeca firme Jorge Bellmont.(n)</desc>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679997055/220619142841_10645941536.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679997055/220620144341_10645941536.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -444,7 +217,7 @@
   <programme start="20220621200000 +0200" stop="20220621210000 +0200" channel="COS FC HD">
     <title lang="en">El desmarque</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733626841/220619142841_1775038172.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733626841/220620144341_1775038172.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -452,7 +225,7 @@
   <programme start="20220621210000 +0200" stop="20220621213000 +0200" channel="COS FC HD">
     <title lang="en">Navegante TV</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733631461/220619142841_10654606319.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733631461/220620144341_10654606319.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -467,5 +240,274 @@
     <title lang="en">CaminoQatar</title>
     <date>2022</date>
     <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733625382/220620144341_1070646877.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622000000 +0200" stop="20220622010000 +0200" channel="COS FC HD">
+    <title lang="en">Liga W</title>
+    <date>2022</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733643089/220620144341_10459903617.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622010000 +0200" stop="20220622020000 +0200" channel="COS FC HD">
+    <title lang="en">Sideline</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679944066/220620144341_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622020000 +0200" stop="20220622030000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11679997056/220620144341_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622030000 +0200" stop="20220622040000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733634790/220620144341_7975673118.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622040000 +0200" stop="20220622050000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679564/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622050000 +0200" stop="20220622053000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679565/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622053000 +0200" stop="20220622060000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679566/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622060000 +0200" stop="20220622063000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11733679567/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622063000 +0200" stop="20220622070000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11683872888/220620144341_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622070000 +0200" stop="20220622080000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11683855702/220620144341_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622080000 +0200" stop="20220622090000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737458622/220620144341_7610310331.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622090000 +0200" stop="20220622093000 +0200" channel="COS FC HD">
+    <title lang="en">NBA Action</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737148962/220620144341_1775038172.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622093000 +0200" stop="20220622100000 +0200" channel="COS FC HD">
+    <title lang="en">Navegante TV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11684127233/220620144341_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622100000 +0200" stop="20220622110000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11683872889/220620144341_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622110000 +0200" stop="20220622120000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737303194/220620144341_7975673118.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622120000 +0200" stop="20220622130000 +0200" channel="COS FC HD">
+    <title lang="en">Contragolpe</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737488953/220620144341_1067388134.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622130000 +0200" stop="20220622140000 +0200" channel="COS FC HD">
+    <title lang="en">KFL Flag Varsity</title>
+    <date>2019</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737378710/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622140000 +0200" stop="20220622143000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737378711/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622143000 +0200" stop="20220622150000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737378712/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622150000 +0200" stop="20220622153000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737378713/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622153000 +0200" stop="20220622160000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737378714/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622160000 +0200" stop="20220622163000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737378715/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622163000 +0200" stop="20220622170000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11684127234/220620144341_1694219287.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622170000 +0200" stop="20220622180000 +0200" channel="COS FC HD">
+    <title lang="en">Play Sports</title>
+    <credits>
+      <actor>David Sakata</actor>
+      <actor>Karen Jordan</actor>
+      <actor>Juanxo Villaverde</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737182093/220620144341_10264990153.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622180000 +0200" stop="20220622183000 +0200" channel="COS FC HD">
+    <title lang="en">KFL Total Access</title>
+    <date>2018</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11683872890/220620144341_6969775669.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622183000 +0200" stop="20220622193000 +0200" channel="COS FC HD">
+    <title lang="en">Tiempo Extra RPC Radio</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737389054/220620144341_1067360323.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622193000 +0200" stop="20220622200000 +0200" channel="COS FC HD">
+    <title lang="en">MLB Best</title>
+    <date>2016</date>
+    <category lang="en">Episode</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11683855703/220620144341_10645941536.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622200000 +0200" stop="20220622210000 +0200" channel="COS FC HD">
+    <title lang="en">El desmarque</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11683938738/220620144341_5167836638.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622210000 +0200" stop="20220622230000 +0200" channel="COS FC HD">
+    <title lang="en">Deporte: Será Anunciado</title>
+    <desc lang="en">Transmisión deportiva. Encuentra en este espacio toda la programación deportiva más importante del momento; referente a partidos de futbol, vóleibol, basquetbol, entre otros. Así mismo, disfruta de los análisis deportivos, entrevistas y noticias deportivas actuales. COS2 Canal en vivo.(n)</desc>
+    <credits>
+      <actor>Ramiro Pantorotto</actor>
+      <actor>Fernando Carlos</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Other</category>
+  </programme>
+  <programme start="20220622230000 +0200" stop="20220622233000 +0200" channel="COS FC HD">
+    <title lang="en">Fiesta Party</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/COSFC/default/11737378716/220620144341_1068873534.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20220622233000 +0200" stop="20220623000000 +0200" channel="COS FC HD">
+    <title lang="en">Cable Onda Sports</title>
+    <category lang="en">Other</category>
   </programme>
 </tv>
