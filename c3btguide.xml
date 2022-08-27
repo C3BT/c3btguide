@@ -21,326 +21,9 @@
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/ucv3.jpg" />
     <url>http://www.zappingtv.com</url>
   </channel>
-  <programme start="20220826020000 -0400" stop="20220826030000 -0400" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220826030000 -0400" stop="20220826040000 -0400" channel="UCV">
-    <title lang="es">Humanidad decodificada</title>
-    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
-    <credits>
-      <actor>Eric Meyers</actor>
-      <actor>Richard Machowicz</actor>
-      <actor>Henry Gates Jr.</actor>
-      <producer>Paul Cabana</producer>
-      <producer>Tim Conrad</producer>
-      <producer>Ben Goold</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Historia</category>
-    <icon src="https://milhouse.zapping.live/assets/p9642427_b_h10_ar.jpg" />
-  </programme>
-  <programme start="20220826040000 -0400" stop="20220826050000 -0400" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220826050000 -0400" stop="20220826060000 -0400" channel="UCV">
-    <title lang="es">Nada simple, todo simple</title>
-    <desc lang="es">Serie de documentales unitarios que indagan en aspectos importantes de la realidad del país. Serie de documentales unitarios que indagan en aspectos importantes de la realidad del país.(n)</desc>
-    <date>2005</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p449182_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220826060000 -0400" stop="20220826070000 -0400" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220826070000 -0400" stop="20220826080000 -0400" channel="UCV">
-    <title lang="es">Documental</title>
-    <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220826080000 -0400" stop="20220826090000 -0400" channel="UCV">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220826090000 -0400" stop="20220826100000 -0400" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220826100000 -0400" stop="20220826103000 -0400" channel="UCV">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
-    <date>2004</date>
-    <category lang="es">Compras</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220826103000 -0400" stop="20220826110000 -0400" channel="UCV">
-    <title lang="es">Mundo Radio</title>
-    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
-    <credits>
-      <presenter>Alberto Muñoz</presenter>
-    </credits>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220826110000 -0400" stop="20220826120000 -0400" channel="UCV">
-    <title lang="es">Bonanza</title>
-    <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
-    <credits>
-      <director>David Dortort</director>
-      <actor>Lorne Greene</actor>
-      <actor>Dan Blocker</actor>
-      <actor>Victor Sen Yung</actor>
-      <actor>Bing Russell</actor>
-      <actor>Lou Frizzell</actor>
-      <actor>Tim Matheson</actor>
-    </credits>
-    <date>1959</date>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
-  </programme>
-  <programme start="20220826120000 -0400" stop="20220826124500 -0400" channel="UCV">
-    <title lang="es">Es tema a las 12</title>
-    <desc lang="es">Programa del departamento de prensa de la UCV Radio, transmitido desde la Casa Central de la Pontificia Universidad Católica de Valparaíso, en donde se entrevista a personas que tocan temas de interés para la población de la región de Valparaíso. Programa del departamento de prensa de la UCV Radio, transmitido desde la Casa Central de la Pontificia Universidad Católica de Valparaíso, en donde se entrevista a personas que tocan temas de interés para la población de la región de Valparaíso.(n)</desc>
-    <credits>
-      <presenter>Marcelo Vásquez</presenter>
-    </credits>
-    <category lang="es">Noticias</category>
-    <icon src="https://milhouse.zapping.live/assets/p17351696_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220826124500 -0400" stop="20220826130000 -0400" channel="UCV">
-    <title lang="es">Franja electoral</title>
-    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p18861564_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220826130000 -0400" stop="20220826133000 -0400" channel="UCV">
-    <title lang="es">Agenda de viaje</title>
-    <desc lang="es">Un espacio en el que se muestran destinos turísticos y se promocionan lugares para conocer y disfrutar al momento de viajar. Un espacio en el que se muestran destinos turísticos y se promocionan lugares para conocer y disfrutar al momento de viajar.(n)</desc>
-    <credits>
-      <presenter>Ricardo Parodi</presenter>
-    </credits>
-    <date>2007</date>
-    <category lang="es">Viajes</category>
-    <icon src="https://milhouse.zapping.live/assets/p325756_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220826133000 -0400" stop="20220826140000 -0400" channel="UCV">
-    <title lang="es">Todos somos más</title>
-    <desc lang="es">Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas. Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas.(n)</desc>
-    <category lang="es">Bicycle</category>
-    <icon src="https://milhouse.zapping.live/assets/p22566276_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220826140000 -0400" stop="20220826144500 -0400" channel="UCV">
-    <title lang="es">Documental</title>
-    <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220826144500 -0400" stop="20220826150000 -0400" channel="UCV">
-    <title lang="es">Sonidos en mi, mujeres en la musica</title>
-    <desc lang="es">Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas. Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas.(n)</desc>
-    <category lang="es">Musical</category>
-    <icon src="https://milhouse.zapping.live/assets/p15680336_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220826150000 -0400" stop="20220826160000 -0400" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220826160000 -0400" stop="20220826170000 -0400" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220826170000 -0400" stop="20220826180000 -0400" channel="UCV">
-    <title lang="es">El mundo en tus ojos</title>
-    <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220826180000 -0400" stop="20220826190000 -0400" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220826190000 -0400" stop="20220826200000 -0400" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
-  <programme start="20220826200000 -0400" stop="20220826204500 -0400" channel="UCV">
-    <title lang="es">Documental</title>
-    <desc lang="es">Espacio donde se transmiten producciones documentales. Espacio donde se transmiten producciones documentales.(n)</desc>
-    <date>2016</date>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p11279167_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220826204500 -0400" stop="20220826210000 -0400" channel="UCV">
-    <title lang="es">Franja electoral</title>
-    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p18861564_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220826210000 -0400" stop="20220826220000 -0400" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220826220000 -0400" stop="20220826230000 -0400" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220826230000 -0400" stop="20220827000000 -0400" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
-  <programme start="20220827000000 -0400" stop="20220827000000 -0400" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220827000000 -0400" stop="20220827010000 -0400" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220827010000 -0400" stop="20220827020000 -0400" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
   <programme start="20220827020000 -0400" stop="20220827030000 -0400" channel="UCV">
     <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
     <credits>
       <actor>Darrell Sheets</actor>
       <actor>Brandi Passante</actor>
@@ -361,7 +44,7 @@
   </programme>
   <programme start="20220827030000 -0400" stop="20220827040000 -0400" channel="UCV">
     <title lang="es">Humanidad decodificada</title>
-    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
+    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.</desc>
     <credits>
       <actor>Eric Meyers</actor>
       <actor>Richard Machowicz</actor>
@@ -387,20 +70,20 @@
   </programme>
   <programme start="20220827050000 -0400" stop="20220827060000 -0400" channel="UCV">
     <title lang="es">Nada simple, todo simple</title>
-    <desc lang="es">Serie de documentales unitarios que indagan en aspectos importantes de la realidad del país. Serie de documentales unitarios que indagan en aspectos importantes de la realidad del país.(n)</desc>
+    <desc lang="es">Serie de documentales unitarios que indagan en aspectos importantes de la realidad del país. Serie de documentales unitarios que indagan en aspectos importantes de la realidad del país.</desc>
     <date>2005</date>
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p449182_b_h10_aa.jpg" />
   </programme>
   <programme start="20220827060000 -0400" stop="20220827063000 -0400" channel="UCV">
     <title lang="es">Mutancia</title>
-    <desc lang="es">Programa documental que muestra la peculiaridades del arte y especialmente la música rock nacida en Villa Alemana. Programa documental que muestra la peculiaridades del arte y especialmente la música rock nacida en Villa Alemana.(n)</desc>
+    <desc lang="es">Programa documental que muestra la peculiaridades del arte y especialmente la música rock nacida en Villa Alemana. Programa documental que muestra la peculiaridades del arte y especialmente la música rock nacida en Villa Alemana.</desc>
     <category lang="es">Música</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
   <programme start="20220827063000 -0400" stop="20220827080000 -0400" channel="UCV">
     <title lang="es">Retro pop</title>
-    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.</desc>
     <credits>
       <presenter>Ismael Pereira</presenter>
     </credits>
@@ -409,14 +92,14 @@
   </programme>
   <programme start="20220827080000 -0400" stop="20220827090000 -0400" channel="UCV">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
   <programme start="20220827090000 -0400" stop="20220827100000 -0400" channel="UCV">
     <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.</desc>
     <credits>
       <presenter>Claudio Aldunate</presenter>
     </credits>
@@ -425,20 +108,20 @@
   </programme>
   <programme start="20220827100000 -0400" stop="20220827103000 -0400" channel="UCV">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
   </programme>
   <programme start="20220827103000 -0400" stop="20220827110000 -0400" channel="UCV">
     <title lang="es">Sonidos en mi, mujeres en la musica</title>
-    <desc lang="es">Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas. Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas.(n)</desc>
+    <desc lang="es">Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas. Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas.</desc>
     <category lang="es">Musical</category>
     <icon src="https://milhouse.zapping.live/assets/p15680336_b_h10_aa.jpg" />
   </programme>
   <programme start="20220827110000 -0400" stop="20220827120000 -0400" channel="UCV">
     <title lang="es">Humanidad decodificada</title>
-    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
+    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.</desc>
     <credits>
       <actor>Eric Meyers</actor>
       <actor>Richard Machowicz</actor>
@@ -453,19 +136,19 @@
   </programme>
   <programme start="20220827120000 -0400" stop="20220827124500 -0400" channel="UCV">
     <title lang="es">A recorrer el mundo</title>
-    <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.(n)</desc>
+    <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.</desc>
     <category lang="es">Viajes</category>
     <icon src="https://milhouse.zapping.live/assets/p19894516_b_h10_ab.jpg" />
   </programme>
   <programme start="20220827124500 -0400" stop="20220827130000 -0400" channel="UCV">
     <title lang="es">Franja electoral</title>
-    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.(n)</desc>
+    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.</desc>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p18861564_i_h8_aa.jpg" />
   </programme>
   <programme start="20220827130000 -0400" stop="20220827140000 -0400" channel="UCV">
     <title lang="es">Programa pagado</title>
-    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.(n)</desc>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
     <date>2004</date>
     <category lang="es">Compras</category>
     <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
@@ -477,13 +160,13 @@
   </programme>
   <programme start="20220827150000 -0400" stop="20220827160000 -0400" channel="UCV">
     <title lang="es">Derechos Humanos Sin Fronteras</title>
-    <desc lang="es">Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales. Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales.(n)</desc>
+    <desc lang="es">Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales. Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales.</desc>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p22147267_i_h10_aa.jpg" />
   </programme>
   <programme start="20220827160000 -0400" stop="20220827170000 -0400" channel="UCV">
     <title lang="es">Patton 360</title>
-    <desc lang="es">Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial. Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial.(n)</desc>
+    <desc lang="es">Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial. Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial.</desc>
     <credits>
       <actor>David Robb</actor>
       <actor>Erik Thompson</actor>
@@ -496,19 +179,19 @@
   </programme>
   <programme start="20220827170000 -0400" stop="20220827173000 -0400" channel="UCV">
     <title lang="es">Todos somos más</title>
-    <desc lang="es">Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas. Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas.(n)</desc>
+    <desc lang="es">Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas. Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas.</desc>
     <category lang="es">Bicycle</category>
     <icon src="https://milhouse.zapping.live/assets/p22566276_b_h10_aa.jpg" />
   </programme>
   <programme start="20220827173000 -0400" stop="20220827180000 -0400" channel="UCV">
     <title lang="es">A recorrer el mundo</title>
-    <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.(n)</desc>
+    <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.</desc>
     <category lang="es">Viajes</category>
     <icon src="https://milhouse.zapping.live/assets/p19894516_b_h10_ab.jpg" />
   </programme>
   <programme start="20220827180000 -0400" stop="20220827190000 -0400" channel="UCV">
     <title lang="es">Humanidad decodificada</title>
-    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.(n)</desc>
+    <desc lang="es">Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal. Se exploran doce fuerzas e influencias que forjaron a la humanidad. Desde la creación de la rueda hasta el nacimiento de Internet, una docena de innovaciones, herramientas y pensamientos que moldearon al mundo, para bien y para mal.</desc>
     <credits>
       <actor>Eric Meyers</actor>
       <actor>Richard Machowicz</actor>
@@ -523,7 +206,7 @@
   </programme>
   <programme start="20220827190000 -0400" stop="20220827200000 -0400" channel="UCV">
     <title lang="es">Retro pop</title>
-    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.</desc>
     <credits>
       <presenter>Ismael Pereira</presenter>
     </credits>
@@ -532,19 +215,19 @@
   </programme>
   <programme start="20220827200000 -0400" stop="20220827204500 -0400" channel="UCV">
     <title lang="es">A recorrer el mundo</title>
-    <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.(n)</desc>
+    <desc lang="es">Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo. Se relatan experiencias de viajes desde la mirada de dos jóvenes chilenos que salen a descubrir el mundo.</desc>
     <category lang="es">Viajes</category>
     <icon src="https://milhouse.zapping.live/assets/p19894516_b_h10_ab.jpg" />
   </programme>
   <programme start="20220827204500 -0400" stop="20220827210000 -0400" channel="UCV">
     <title lang="es">Franja electoral</title>
-    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.(n)</desc>
+    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.</desc>
     <category lang="es">Especial</category>
     <icon src="https://milhouse.zapping.live/assets/p18861564_i_h8_aa.jpg" />
   </programme>
   <programme start="20220827210000 -0400" stop="20220827220000 -0400" channel="UCV">
     <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
     <credits>
       <actor>Darrell Sheets</actor>
       <actor>Brandi Passante</actor>
@@ -570,12 +253,207 @@
   </programme>
   <programme start="20220827230000 -0400" stop="20220827233000 -0400" channel="UCV">
     <title lang="es">La senda del vino</title>
-    <desc lang="es">Un espacio para aprender sobre los vinos de Chile. Variedades, viñedos y mucho más. Un espacio para aprender sobre los vinos de Chile. Variedades, viñedos y mucho más.(n)</desc>
+    <desc lang="es">Un espacio para aprender sobre los vinos de Chile. Variedades, viñedos y mucho más. Un espacio para aprender sobre los vinos de Chile. Variedades, viñedos y mucho más.</desc>
     <credits>
       <presenter>Roberto Coloma</presenter>
       <presenter>Pablo Parra</presenter>
     </credits>
     <category lang="es">Entretenimiento</category>
     <icon src="https://milhouse.zapping.live/assets/p22087437_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220827233000 -0400" stop="20220828000000 -0400" channel="UCV">
+    <title lang="es">Tierra de Fantasmas</title>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220828000000 -0400" stop="20220828000000 -0400" channel="UCV">
+    <title lang="es">Superhumanos</title>
+    <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828000000 -0400" stop="20220828010000 -0400" channel="UCV">
+    <title lang="es">Superhumanos</title>
+    <desc lang="es">Las historias de personas con características fuera de lo normal. Las historias de personas con características fuera de lo normal.</desc>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p293279_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828010000 -0400" stop="20220828020000 -0400" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220828020000 -0400" stop="20220828033000 -0400" channel="UCV">
+    <title lang="es">Retro pop</title>
+    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.</desc>
+    <credits>
+      <presenter>Ismael Pereira</presenter>
+    </credits>
+    <category lang="es">Música</category>
+    <icon src="https://milhouse.zapping.live/assets/p19097931_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828033000 -0400" stop="20220828060000 -0400" channel="UCV">
+    <title lang="es">Ballet y ópera</title>
+    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220828060000 -0400" stop="20220828080000 -0400" channel="UCV">
+    <title lang="es">Ballet y ópera</title>
+    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220828080000 -0400" stop="20220828090000 -0400" channel="UCV">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220828090000 -0400" stop="20220828100000 -0400" channel="UCV">
+    <title lang="es">El mundo en tus ojos</title>
+    <category lang="es">Educacional</category>
+    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828100000 -0400" stop="20220828103000 -0400" channel="UCV">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220828103000 -0400" stop="20220828110000 -0400" channel="UCV">
+    <title lang="es">Sonidos en mi, mujeres en la musica</title>
+    <desc lang="es">Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas. Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas.</desc>
+    <category lang="es">Musical</category>
+    <icon src="https://milhouse.zapping.live/assets/p15680336_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828110000 -0400" stop="20220828120000 -0400" channel="UCV">
+    <title lang="es">Derechos Humanos Sin Fronteras</title>
+    <desc lang="es">Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales. Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p22147267_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828120000 -0400" stop="20220828124500 -0400" channel="UCV">
+    <title lang="es">Mundo Radio</title>
+    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.</desc>
+    <credits>
+      <presenter>Alberto Muñoz</presenter>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828124500 -0400" stop="20220828130000 -0400" channel="UCV">
+    <title lang="es">Franja electoral</title>
+    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p18861564_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220828130000 -0400" stop="20220828140000 -0400" channel="UCV">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Programa que muestra diversos productos para la venta. Programa que muestra diversos productos para la venta.</desc>
+    <date>2004</date>
+    <category lang="es">Compras</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220828140000 -0400" stop="20220828150000 -0400" channel="UCV">
+    <title lang="es">Estudio Zeppelin</title>
+    <desc lang="es">Presentación de temas musicales en forma de historia y conducido por César Cosio, uno de los mejores DJ's del país. Presentación de temas musicales en forma de historia y conducido por César Cosio, uno de los mejores DJ's del país.</desc>
+    <category lang="es">Música</category>
+    <icon src="https://milhouse.zapping.live/assets/p12792363_st_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828150000 -0400" stop="20220828160000 -0400" channel="UCV">
+    <title lang="es">El ritmo de Chile</title>
+    <desc lang="es">Lo mejor de esta tierra, su campo y su tradición, con música folclórica nacional. Lo mejor de esta tierra, su campo y su tradición, con música folclórica nacional.</desc>
+    <credits>
+      <presenter>Sandra Reyes</presenter>
+    </credits>
+    <category lang="es">Música</category>
+    <icon src="https://milhouse.zapping.live/assets/p20427725_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828160000 -0400" stop="20220828170000 -0400" channel="UCV">
+    <title lang="es">Memorias de televisión</title>
+    <desc lang="es">Un programa que rescata la programación del primer canal de televisión abierta en Chile: UCV TV. Un programa que rescata la programación del primer canal de televisión abierta en Chile: UCV TV.</desc>
+    <credits>
+      <presenter>Eduardo Tironi</presenter>
+    </credits>
+    <category lang="es">Historia</category>
+    <icon src="https://milhouse.zapping.live/assets/p19040970_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220828170000 -0400" stop="20220828180000 -0400" channel="UCV">
+    <title lang="es">Debate y democracia en Chile</title>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p22597719_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220828180000 -0400" stop="20220828200000 -0400" channel="UCV">
+    <title lang="es">Los nazis y las drogas</title>
+    <desc lang="es">La increíble historia secreta de un retorcido plan nazi para encontrar una ventaja química para conquistar el mundo. Lo más impactante de esta conspiración es que figura en los documentos históricos protegidos por los Aliados. La increíble historia secreta de un retorcido plan nazi para encontrar una ventaja química para conquistar el mundo. Lo más impactante de esta conspiración es que figura en los documentos históricos protegidos por los Aliados.</desc>
+    <credits>
+      <actor>Annie Jacobsen</actor>
+      <producer>Randy Barbato</producer>
+      <producer>Fenton Bailey</producer>
+      <producer>Jason Sklaver</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p17032140_i_h10_ar.jpg" />
+  </programme>
+  <programme start="20220828200000 -0400" stop="20220828204500 -0400" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220828204500 -0400" stop="20220828210000 -0400" channel="UCV">
+    <title lang="es">Franja electoral</title>
+    <desc lang="es">Se presenta la cobertura del plebiscito nacional de Chile 2020. Se presenta la cobertura del plebiscito nacional de Chile 2020.</desc>
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p18861564_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220828210000 -0400" stop="20220828220000 -0400" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
 </tv>
