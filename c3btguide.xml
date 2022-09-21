@@ -21,122 +21,7 @@
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/ucv3.jpg" />
     <url>http://www.zappingtv.com</url>
   </channel>
-  <programme start="20220918033000 -0300" stop="20220918060000 -0300" channel="UCV">
-    <title lang="es">Ballet y ópera</title>
-    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220918060000 -0300" stop="20220918080000 -0300" channel="UCV">
-    <title lang="es">Ballet y ópera</title>
-    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220918080000 -0300" stop="20220918090000 -0300" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918090000 -0300" stop="20220918100000 -0300" channel="UCV">
-    <title lang="es">El mundo en tus ojos</title>
-    <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918100000 -0300" stop="20220918103000 -0300" channel="UCV">
-    <title lang="es">Osteoartrit</title>
-    <desc lang="es">Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular. Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220918103000 -0300" stop="20220918110000 -0300" channel="UCV">
-    <title lang="es">Sonidos en mi, mujeres en la musica</title>
-    <desc lang="es">Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas. Serie documental que aborda las propuestas de música popular realizada por mujeres hoy en Chile. En su primera temporada retrata a 15 músicas y creadoras chilenas.(n)</desc>
-    <category lang="es">Musical</category>
-    <icon src="https://milhouse.zapping.live/assets/p15680336_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918110000 -0300" stop="20220918120000 -0300" channel="UCV">
-    <title lang="es">Derechos Humanos Sin Fronteras</title>
-    <desc lang="es">Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales. Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p22147267_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918120000 -0300" stop="20220918123000 -0300" channel="UCV">
-    <title lang="es">Mundo Radio</title>
-    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
-    <credits>
-      <presenter>Alberto Muñoz</presenter>
-    </credits>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918123000 -0300" stop="20220918130000 -0300" channel="UCV">
-    <title lang="es">Otra Cosa es Con Guitarra</title>
-    <category lang="es">Variedad</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220918130000 -0300" stop="20220918140000 -0300" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918140000 -0300" stop="20220918150000 -0300" channel="UCV">
-    <title lang="es">Conciertos desde el estudio IMUS - PUCV</title>
-    <desc lang="es">Durante el período de cuarentena a raíz de la pandemia de COVID-19, se lleva a cabo una serie de conciertos virtuales del Instituto y Conservatorio de Música de la Pontificia Universidad Católica de Valparaíso. Durante el período de cuarentena a raíz de la pandemia de COVID-19, se lleva a cabo una serie de conciertos virtuales del Instituto y Conservatorio de Música de la Pontificia Universidad Católica de Valparaíso.(n)</desc>
-    <category lang="es">Música</category>
-    <icon src="https://milhouse.zapping.live/assets/p18376785_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220918150000 -0300" stop="20220918160000 -0300" channel="UCV">
-    <title lang="es">El ritmo de Chile</title>
-    <desc lang="es">Lo mejor de esta tierra, su campo y su tradición, con música folclórica nacional. Lo mejor de esta tierra, su campo y su tradición, con música folclórica nacional.(n)</desc>
-    <credits>
-      <presenter>Sandra Reyes</presenter>
-    </credits>
-    <category lang="es">Música</category>
-    <icon src="https://milhouse.zapping.live/assets/p20427725_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918160000 -0300" stop="20220918170000 -0300" channel="UCV">
-    <title lang="es">Memorias de televisión</title>
-    <desc lang="es">Un programa que rescata la programación del primer canal de televisión abierta en Chile: UCV TV. Un programa que rescata la programación del primer canal de televisión abierta en Chile: UCV TV.(n)</desc>
-    <credits>
-      <presenter>Eduardo Tironi</presenter>
-    </credits>
-    <category lang="es">Historia</category>
-    <icon src="https://milhouse.zapping.live/assets/p19040970_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918170000 -0300" stop="20220918180000 -0300" channel="UCV">
-    <title lang="es">Debate y democracia en Chile</title>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p22597719_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220918180000 -0300" stop="20220918190000 -0300" channel="UCV">
-    <title lang="es">El ídolo</title>
-    <desc lang="es">Un actor de cine y teatro es acusado de la muerte de su mujer. Un actor de cine y teatro es acusado de la muerte de su mujer.(n)</desc>
-    <credits>
-      <actor>Alberto Closas</actor>
-      <actor>Florence Marly</actor>
-      <actor>Gloria Lynch</actor>
-      <actor>Pepe Rojas</actor>
-      <actor>Roberto Parada</actor>
-      <actor>Jorge Lillo</actor>
-    </credits>
-    <category lang="es">Misterio</category>
-    <icon src="https://milhouse.zapping.live/assets/p22943074_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918190000 -0300" stop="20220918200000 -0300" channel="UCV">
-    <title lang="es">El Último Guapo</title>
-    <desc lang="es">Por su elegancia, un apuesto hombre despierta la envidia de muchos. Por su elegancia, un apuesto hombre despierta la envidia de muchos.(n)</desc>
-    <credits>
-      <actor>Tito Gómez</actor>
-      <actor>Lucho Córdova</actor>
-      <actor>Juan Corona</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p152981_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220918200000 -0300" stop="20220918203000 -0300" channel="UCV">
+  <programme start="20220920230000 -0300" stop="20220921000000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -150,7 +35,29 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220918203000 -0300" stop="20220918210000 -0300" channel="UCV">
+  <programme start="20220921000000 -0300" stop="20220921000000 -0300" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
+  </programme>
+  <programme start="20220921000000 -0300" stop="20220921010000 -0300" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
+  </programme>
+  <programme start="20220921010000 -0300" stop="20220921020000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -164,7 +71,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220918210000 -0300" stop="20220918220000 -0300" channel="UCV">
+  <programme start="20220921020000 -0300" stop="20220921030000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -185,118 +92,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20220918220000 -0300" stop="20220918233000 -0300" channel="UCV">
-    <title lang="es">Valparaíso, Mi Amor</title>
-    <credits>
-      <actor>Sara Astica</actor>
-      <actor>Hugo Cárcamo</actor>
-      <actor>Rigoberto Rojo</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220918233000 -0300" stop="20220919003000 -0300" channel="UCV">
-    <title lang="es">La casa está vacía</title>
-    <desc lang="es">Carlos provoca accidentalmente la muerte de su hermana, y Jorge, su hermano menor, trata de ayudarlo a sobrellevar el dolor. Jorge se enlista en la marina y, a su regreso, se enamora de Ruth, sin saber que se trata de la esposa de Carlos. Carlos provoca accidentalmente la muerte de su hermana, y Jorge, su hermano menor, trata de ayudarlo a sobrellevar el dolor. Jorge se enlista en la marina y, a su regreso, se enamora de Ruth, sin saber que se trata de la esposa de Carlos.(n)</desc>
-    <credits>
-      <actor>Alejandro Flores</actor>
-      <actor>Maria Teresa Squella</actor>
-      <actor>Horacio Peterson</actor>
-      <actor>Gerardo Grez</actor>
-    </credits>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p9385240_st_h10_ab.jpg" />
-  </programme>
-  <programme start="20220919003000 -0300" stop="20220919010000 -0300" channel="UCV">
-    <title lang="es">Todos somos más</title>
-    <desc lang="es">Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas. Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas.(n)</desc>
-    <category lang="es">Bicycle</category>
-    <icon src="https://milhouse.zapping.live/assets/p22566276_b_h10_aa.jpg" />
-  </programme>
-  <programme start="20220919010000 -0300" stop="20220919013000 -0300" channel="UCV">
-    <title lang="es">Mundo Radio</title>
-    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
-    <credits>
-      <presenter>Alberto Muñoz</presenter>
-    </credits>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220919013000 -0300" stop="20220919023000 -0300" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220919023000 -0300" stop="20220919033000 -0300" channel="UCV">
-    <title lang="es">Patton 360</title>
-    <desc lang="es">Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial. Animación de vanguardia, imágenes de archivo y entrevistas con veteranos recrean la imagen del General George S. Patton, mientras conducía a las tropas estadounidenses contra las Potencias del Eje durante la Segunda Guerra Mundial.(n)</desc>
-    <credits>
-      <actor>David Robb</actor>
-      <actor>Erik Thompson</actor>
-      <producer>Brian Thompson</producer>
-      <producer>Carl Lindahl</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p3503117_b_h8_af.jpg" />
-  </programme>
-  <programme start="20220919033000 -0300" stop="20220919060000 -0300" channel="UCV">
-    <title lang="es">Ballet y ópera</title>
-    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220919060000 -0300" stop="20220919070000 -0300" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220919070000 -0300" stop="20220919080000 -0300" channel="UCV">
-    <title lang="es">El mundo en tus ojos</title>
-    <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220919080000 -0300" stop="20220919090000 -0300" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220919090000 -0300" stop="20220919100000 -0300" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220919100000 -0300" stop="20220919103000 -0300" channel="UCV">
-    <title lang="es">Osteoartrit</title>
-    <desc lang="es">Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular. Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220919103000 -0300" stop="20220919110000 -0300" channel="UCV">
-    <title lang="es">Mundo Radio</title>
-    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
-    <credits>
-      <presenter>Alberto Muñoz</presenter>
-    </credits>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220919110000 -0300" stop="20220919120000 -0300" channel="UCV">
+  <programme start="20220921030000 -0300" stop="20220921040000 -0300" channel="UCV">
     <title lang="es">El Gran Chaparral</title>
     <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
     <credits>
@@ -314,7 +110,83 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
   </programme>
-  <programme start="20220919120000 -0300" stop="20220919130000 -0300" channel="UCV">
+  <programme start="20220921040000 -0300" stop="20220921050000 -0300" channel="UCV">
+    <title lang="es">Retro pop</title>
+    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+    <credits>
+      <presenter>Ismael Pereira</presenter>
+    </credits>
+    <category lang="es">Música</category>
+    <icon src="https://milhouse.zapping.live/assets/p19097931_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220921050000 -0300" stop="20220921060000 -0300" channel="UCV">
+    <title lang="es">Otra Cosa es Con Guitarra</title>
+    <category lang="es">Variedad</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220921060000 -0300" stop="20220921070000 -0300" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220921070000 -0300" stop="20220921080000 -0300" channel="UCV">
+    <title lang="es">El mundo en tus ojos</title>
+    <category lang="es">Educacional</category>
+    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220921080000 -0300" stop="20220921090000 -0300" channel="UCV">
+    <title lang="es">A3D</title>
+    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
+    <category lang="es">Consumidor</category>
+    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
+  </programme>
+  <programme start="20220921090000 -0300" stop="20220921100000 -0300" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220921100000 -0300" stop="20220921103000 -0300" channel="UCV">
+    <title lang="es">Osteoartrit</title>
+    <desc lang="es">Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular. Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular.(n)</desc>
+    <category lang="es">Consumidor</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220921103000 -0300" stop="20220921110000 -0300" channel="UCV">
+    <title lang="es">Mundo Radio</title>
+    <desc lang="es">Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones. Un programa que rescata y preserva la historia de diversas radioemisoras a través del repaso de importantes conversaciones, recuerdos y proyecciones.(n)</desc>
+    <credits>
+      <presenter>Alberto Muñoz</presenter>
+    </credits>
+    <category lang="es">Entrevista</category>
+    <icon src="https://milhouse.zapping.live/assets/p18762375_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220921110000 -0300" stop="20220921120000 -0300" channel="UCV">
+    <title lang="es">El Gran Chaparral</title>
+    <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
+    <credits>
+      <actor>Leif Erickson</actor>
+      <actor>Mark Slade</actor>
+      <actor>Linda Cristal</actor>
+      <actor>Bob Hoy</actor>
+      <actor>Frank Silvera</actor>
+      <actor>Ted Markland</actor>
+      <actor>Rudy Ramos</actor>
+      <producer>David Dortort</producer>
+      <producer>James Schmerer</producer>
+    </credits>
+    <date>1967</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
+  </programme>
+  <programme start="20220921120000 -0300" stop="20220921130000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -328,7 +200,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220919130000 -0300" stop="20220919140000 -0300" channel="UCV">
+  <programme start="20220921130000 -0300" stop="20220921140000 -0300" channel="UCV">
     <title lang="es">Maravillas modernas</title>
     <credits>
       <producer>Charlie Maday</producer>
@@ -339,13 +211,13 @@
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
   </programme>
-  <programme start="20220919140000 -0300" stop="20220919144500 -0300" channel="UCV">
+  <programme start="20220921140000 -0300" stop="20220921144500 -0300" channel="UCV">
     <title lang="es">Ciclo de entrevistas: Redes virtuosas</title>
     <desc lang="es">Un programa que busca promover el cambio en la comunidad y generar transformaciones culturales desde la conducta individual de los diversos actores sociales. Un programa que busca promover el cambio en la comunidad y generar transformaciones culturales desde la conducta individual de los diversos actores sociales.(n)</desc>
     <category lang="es">Entrevista</category>
     <icon src="https://milhouse.zapping.live/assets/p22896201_i_h8_aa.jpg" />
   </programme>
-  <programme start="20220919144500 -0300" stop="20220919150000 -0300" channel="UCV">
+  <programme start="20220921144500 -0300" stop="20220921150000 -0300" channel="UCV">
     <title lang="es">Los Locos Addams</title>
     <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
     <credits>
@@ -359,21 +231,21 @@
     <category lang="es">Sitcom</category>
     <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
   </programme>
-  <programme start="20220919150000 -0300" stop="20220919170000 -0300" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+  <programme start="20220921150000 -0300" stop="20220921170000 -0300" channel="UCV">
+    <title lang="es">Gala 100 años de la radio en Chile</title>
+    <desc lang="es">Celebración de los 100 años de la radio en Chile, desde el salón plenario del Congreso Nacional. Celebración de los 100 años de la radio en Chile, desde el salón plenario del Congreso Nacional.(n)</desc>
     <credits>
-      <presenter>Claudio Aldunate</presenter>
+      <presenter>Alberto Muñoz</presenter>
     </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+    <category lang="es">Especial</category>
+    <icon src="https://milhouse.zapping.live/assets/p22983162_b_h10_aa.jpg" />
   </programme>
-  <programme start="20220919170000 -0300" stop="20220919180000 -0300" channel="UCV">
+  <programme start="20220921170000 -0300" stop="20220921180000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220919180000 -0300" stop="20220919190000 -0300" channel="UCV">
+  <programme start="20220921180000 -0300" stop="20220921190000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -394,7 +266,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20220919190000 -0300" stop="20220919200000 -0300" channel="UCV">
+  <programme start="20220921190000 -0300" stop="20220921200000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -408,12 +280,12 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20220919200000 -0300" stop="20220919210000 -0300" channel="UCV">
+  <programme start="20220921200000 -0300" stop="20220921210000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20220919210000 -0300" stop="20220919220000 -0300" channel="UCV">
+  <programme start="20220921210000 -0300" stop="20220921220000 -0300" channel="UCV">
     <title lang="es">Maravillas modernas</title>
     <credits>
       <producer>Charlie Maday</producer>
@@ -424,7 +296,7 @@
     <category lang="es">Documental</category>
     <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
   </programme>
-  <programme start="20220919220000 -0300" stop="20220919230000 -0300" channel="UCV">
+  <programme start="20220921220000 -0300" stop="20220921230000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
