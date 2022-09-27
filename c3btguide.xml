@@ -21,297 +21,6 @@
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/ucv3.jpg" />
     <url>http://www.zappingtv.com</url>
   </channel>
-  <programme start="20220926033000 -0300" stop="20220926060000 -0300" channel="UCV">
-    <title lang="es">Ballet y ópera</title>
-    <desc lang="es">Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera. Una oportunidad para disfrutar desde la comodidad del hogar lo mejor del ballet y la ópera.(n)</desc>
-    <category lang="es">Especial</category>
-    <icon src="https://milhouse.zapping.live/assets/p21339675_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220926060000 -0300" stop="20220926070000 -0300" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220926070000 -0300" stop="20220926080000 -0300" channel="UCV">
-    <title lang="es">El mundo en tus ojos</title>
-    <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220926080000 -0300" stop="20220926090000 -0300" channel="UCV">
-    <title lang="es">A3D</title>
-    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
-  </programme>
-  <programme start="20220926090000 -0300" stop="20220926100000 -0300" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220926100000 -0300" stop="20220926103000 -0300" channel="UCV">
-    <title lang="es">Osteoartrit</title>
-    <desc lang="es">Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular. Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular.(n)</desc>
-    <category lang="es">Consumidor</category>
-    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
-  </programme>
-  <programme start="20220926103000 -0300" stop="20220926110000 -0300" channel="UCV">
-    <title lang="es">Los Locos Addams</title>
-    <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
-    <credits>
-      <director>David Levy</director>
-      <actor>Carolyn Jones</actor>
-      <actor>Jackie Coogan</actor>
-      <actor>Blossom Rock</actor>
-      <actor>Lisa Loring</actor>
-    </credits>
-    <date>1964</date>
-    <category lang="es">Sitcom</category>
-    <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
-  </programme>
-  <programme start="20220926110000 -0300" stop="20220926120000 -0300" channel="UCV">
-    <title lang="es">El Gran Chaparral</title>
-    <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
-    <credits>
-      <actor>Leif Erickson</actor>
-      <actor>Mark Slade</actor>
-      <actor>Linda Cristal</actor>
-      <actor>Bob Hoy</actor>
-      <actor>Frank Silvera</actor>
-      <actor>Ted Markland</actor>
-      <actor>Rudy Ramos</actor>
-      <producer>David Dortort</producer>
-      <producer>James Schmerer</producer>
-    </credits>
-    <date>1967</date>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
-  </programme>
-  <programme start="20220926120000 -0300" stop="20220926130000 -0300" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
-  <programme start="20220926130000 -0300" stop="20220926140000 -0300" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220926140000 -0300" stop="20220926144500 -0300" channel="UCV">
-    <title lang="es">Ciclo de entrevistas: Redes virtuosas</title>
-    <desc lang="es">Un programa que busca promover el cambio en la comunidad y generar transformaciones culturales desde la conducta individual de los diversos actores sociales. Un programa que busca promover el cambio en la comunidad y generar transformaciones culturales desde la conducta individual de los diversos actores sociales.(n)</desc>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p22896201_i_h8_aa.jpg" />
-  </programme>
-  <programme start="20220926144500 -0300" stop="20220926150000 -0300" channel="UCV">
-    <title lang="es">Los Locos Addams</title>
-    <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
-    <credits>
-      <director>David Levy</director>
-      <actor>Carolyn Jones</actor>
-      <actor>Jackie Coogan</actor>
-      <actor>Blossom Rock</actor>
-      <actor>Lisa Loring</actor>
-    </credits>
-    <date>1964</date>
-    <category lang="es">Sitcom</category>
-    <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
-  </programme>
-  <programme start="20220926150000 -0300" stop="20220926160000 -0300" channel="UCV">
-    <title lang="es">Dr. en casa</title>
-    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
-    <credits>
-      <presenter>Claudio Aldunate</presenter>
-    </credits>
-    <category lang="es">Salud</category>
-    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
-  </programme>
-  <programme start="20220926160000 -0300" stop="20220926170000 -0300" channel="UCV">
-    <title lang="es">Bonanza</title>
-    <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
-    <credits>
-      <director>David Dortort</director>
-      <actor>Lorne Greene</actor>
-      <actor>Dan Blocker</actor>
-      <actor>Victor Sen Yung</actor>
-      <actor>Bing Russell</actor>
-      <actor>Lou Frizzell</actor>
-      <actor>Tim Matheson</actor>
-    </credits>
-    <date>1959</date>
-    <category lang="es">Drama</category>
-    <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
-  </programme>
-  <programme start="20220926170000 -0300" stop="20220926180000 -0300" channel="UCV">
-    <title lang="es">El mundo en tus ojos</title>
-    <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220926180000 -0300" stop="20220926190000 -0300" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220926190000 -0300" stop="20220926200000 -0300" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
-  <programme start="20220926200000 -0300" stop="20220926210000 -0300" channel="UCV">
-    <title lang="es">El mundo en tus ojos</title>
-    <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
-  </programme>
-  <programme start="20220926210000 -0300" stop="20220926220000 -0300" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220926220000 -0300" stop="20220926230000 -0300" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
-  <programme start="20220926230000 -0300" stop="20220927000000 -0300" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
-  <programme start="20220927000000 -0300" stop="20220927000000 -0300" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220927000000 -0300" stop="20220927010000 -0300" channel="UCV">
-    <title lang="es">Maravillas modernas</title>
-    <credits>
-      <producer>Charlie Maday</producer>
-      <producer>Gerald Abrams</producer>
-      <presenter>Adam Richman</presenter>
-    </credits>
-    <date>1995</date>
-    <category lang="es">Documental</category>
-    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
-  </programme>
-  <programme start="20220927010000 -0300" stop="20220927020000 -0300" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
-    <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
-  </programme>
-  <programme start="20220927020000 -0300" stop="20220927030000 -0300" channel="UCV">
-    <title lang="es">¿Quién da más?</title>
-    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
-    <credits>
-      <actor>Darrell Sheets</actor>
-      <actor>Brandi Passante</actor>
-      <actor>Dan Dotson</actor>
-      <actor>Brandon Sheets</actor>
-      <actor>Rene Nezhoda</actor>
-      <actor>Thom Beers</actor>
-      <actor>Mary Padian</actor>
-      <actor>Justin Bryant</actor>
-      <actor>Shana Dahan</actor>
-      <producer>Thom Beers</producer>
-      <producer>Robert Sharenow</producer>
-      <producer>Paul Buccieri</producer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
-  </programme>
   <programme start="20220927030000 -0300" stop="20220927040000 -0300" channel="UCV">
     <title lang="es">El Gran Chaparral</title>
     <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
@@ -540,6 +249,323 @@
     <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
   </programme>
   <programme start="20220927220000 -0300" stop="20220927230000 -0300" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220927230000 -0300" stop="20220928000000 -0300" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220928000000 -0300" stop="20220928000000 -0300" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
+  </programme>
+  <programme start="20220928000000 -0300" stop="20220928010000 -0300" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
+  </programme>
+  <programme start="20220928010000 -0300" stop="20220928020000 -0300" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220928020000 -0300" stop="20220928030000 -0300" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220928030000 -0300" stop="20220928040000 -0300" channel="UCV">
+    <title lang="es">El Gran Chaparral</title>
+    <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
+    <credits>
+      <actor>Leif Erickson</actor>
+      <actor>Mark Slade</actor>
+      <actor>Linda Cristal</actor>
+      <actor>Bob Hoy</actor>
+      <actor>Frank Silvera</actor>
+      <actor>Ted Markland</actor>
+      <actor>Rudy Ramos</actor>
+      <producer>David Dortort</producer>
+      <producer>James Schmerer</producer>
+    </credits>
+    <date>1967</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
+  </programme>
+  <programme start="20220928040000 -0300" stop="20220928050000 -0300" channel="UCV">
+    <title lang="es">Retro pop</title>
+    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+    <credits>
+      <presenter>Ismael Pereira</presenter>
+    </credits>
+    <category lang="es">Música</category>
+    <icon src="https://milhouse.zapping.live/assets/p19097931_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20220928050000 -0300" stop="20220928060000 -0300" channel="UCV">
+    <title lang="es">Otra Cosa es Con Guitarra</title>
+    <category lang="es">Variedad</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220928060000 -0300" stop="20220928070000 -0300" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220928070000 -0300" stop="20220928080000 -0300" channel="UCV">
+    <title lang="es">El mundo en tus ojos</title>
+    <category lang="es">Educacional</category>
+    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220928080000 -0300" stop="20220928090000 -0300" channel="UCV">
+    <title lang="es">A3D</title>
+    <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
+    <category lang="es">Consumidor</category>
+    <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
+  </programme>
+  <programme start="20220928090000 -0300" stop="20220928100000 -0300" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220928100000 -0300" stop="20220928103000 -0300" channel="UCV">
+    <title lang="es">Osteoartrit</title>
+    <desc lang="es">Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular. Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular.(n)</desc>
+    <category lang="es">Consumidor</category>
+    <icon src="https://milhouse.zapping.live/static/fallback_wide.jpg" />
+  </programme>
+  <programme start="20220928103000 -0300" stop="20220928110000 -0300" channel="UCV">
+    <title lang="es">Los Locos Addams</title>
+    <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
+    <credits>
+      <director>David Levy</director>
+      <actor>Carolyn Jones</actor>
+      <actor>Jackie Coogan</actor>
+      <actor>Blossom Rock</actor>
+      <actor>Lisa Loring</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="es">Sitcom</category>
+    <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
+  </programme>
+  <programme start="20220928110000 -0300" stop="20220928120000 -0300" channel="UCV">
+    <title lang="es">El Gran Chaparral</title>
+    <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
+    <credits>
+      <actor>Leif Erickson</actor>
+      <actor>Mark Slade</actor>
+      <actor>Linda Cristal</actor>
+      <actor>Bob Hoy</actor>
+      <actor>Frank Silvera</actor>
+      <actor>Ted Markland</actor>
+      <actor>Rudy Ramos</actor>
+      <producer>David Dortort</producer>
+      <producer>James Schmerer</producer>
+    </credits>
+    <date>1967</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
+  </programme>
+  <programme start="20220928120000 -0300" stop="20220928130000 -0300" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220928130000 -0300" stop="20220928140000 -0300" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
+  </programme>
+  <programme start="20220928140000 -0300" stop="20220928144500 -0300" channel="UCV">
+    <title lang="es">Ciclo de entrevistas: Redes virtuosas</title>
+    <desc lang="es">Un programa que busca promover el cambio en la comunidad y generar transformaciones culturales desde la conducta individual de los diversos actores sociales. Un programa que busca promover el cambio en la comunidad y generar transformaciones culturales desde la conducta individual de los diversos actores sociales.(n)</desc>
+    <category lang="es">Entrevista</category>
+    <icon src="https://milhouse.zapping.live/assets/p22896201_i_h8_aa.jpg" />
+  </programme>
+  <programme start="20220928144500 -0300" stop="20220928150000 -0300" channel="UCV">
+    <title lang="es">Los Locos Addams</title>
+    <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
+    <credits>
+      <director>David Levy</director>
+      <actor>Carolyn Jones</actor>
+      <actor>Jackie Coogan</actor>
+      <actor>Blossom Rock</actor>
+      <actor>Lisa Loring</actor>
+    </credits>
+    <date>1964</date>
+    <category lang="es">Sitcom</category>
+    <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
+  </programme>
+  <programme start="20220928150000 -0300" stop="20220928160000 -0300" channel="UCV">
+    <title lang="es">Dr. en casa</title>
+    <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
+    <credits>
+      <presenter>Claudio Aldunate</presenter>
+    </credits>
+    <category lang="es">Salud</category>
+    <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
+  </programme>
+  <programme start="20220928160000 -0300" stop="20220928170000 -0300" channel="UCV">
+    <title lang="es">Bonanza</title>
+    <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
+    <credits>
+      <director>David Dortort</director>
+      <actor>Lorne Greene</actor>
+      <actor>Dan Blocker</actor>
+      <actor>Victor Sen Yung</actor>
+      <actor>Bing Russell</actor>
+      <actor>Lou Frizzell</actor>
+      <actor>Tim Matheson</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="es">Drama</category>
+    <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
+  </programme>
+  <programme start="20220928170000 -0300" stop="20220928180000 -0300" channel="UCV">
+    <title lang="es">El mundo en tus ojos</title>
+    <category lang="es">Educacional</category>
+    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220928180000 -0300" stop="20220928190000 -0300" channel="UCV">
+    <title lang="es">¿Quién da más?</title>
+    <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Brandi Passante</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Brandon Sheets</actor>
+      <actor>Rene Nezhoda</actor>
+      <actor>Thom Beers</actor>
+      <actor>Mary Padian</actor>
+      <actor>Justin Bryant</actor>
+      <actor>Shana Dahan</actor>
+      <producer>Thom Beers</producer>
+      <producer>Robert Sharenow</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
+  </programme>
+  <programme start="20220928190000 -0300" stop="20220928200000 -0300" channel="UCV">
+    <title lang="es">El precio de la historia</title>
+    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Austin "Chumlee" Russell</actor>
+      <producer>Mary Donahue</producer>
+      <producer>Brent Montgomery</producer>
+      <producer>Paul Buccieri</producer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Realidad</category>
+    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+  </programme>
+  <programme start="20220928200000 -0300" stop="20220928210000 -0300" channel="UCV">
+    <title lang="es">El mundo en tus ojos</title>
+    <category lang="es">Educacional</category>
+    <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
+  </programme>
+  <programme start="20220928210000 -0300" stop="20220928220000 -0300" channel="UCV">
+    <title lang="es">Maravillas modernas</title>
+    <credits>
+      <producer>Charlie Maday</producer>
+      <producer>Gerald Abrams</producer>
+      <presenter>Adam Richman</presenter>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Documental</category>
+    <icon src="https://milhouse.zapping.live/assets/p185155_b_h8_bj.jpg" />
+  </programme>
+  <programme start="20220928220000 -0300" stop="20220928230000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
