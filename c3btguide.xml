@@ -21,7 +21,7 @@
     <icon src="https://davinci.zappingtv.com/gato/media/256/canales/color/ucv3.jpg" />
     <url>http://www.zappingtv.com</url>
   </channel>
-  <programme start="20221122030000 -0300" stop="20221122040000 -0300" channel="UCV">
+  <programme start="20221124030000 -0300" stop="20221124040000 -0300" channel="UCV">
     <title lang="es">El Gran Chaparral</title>
     <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
     <credits>
@@ -39,7 +39,7 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
   </programme>
-  <programme start="20221122040000 -0300" stop="20221122050000 -0300" channel="UCV">
+  <programme start="20221124040000 -0300" stop="20221124050000 -0300" channel="UCV">
     <title lang="es">Los reyes del dolor</title>
     <desc lang="es">Un biólogo y un cuidador profesional de animales se exponen a las picaduras y mordeduras de las criaturas más peligrosas del mundo para crear un índice de dolor completo que ayude a salvar vidas. Un biólogo y un cuidador profesional de animales se exponen a las picaduras y mordeduras de las criaturas más peligrosas del mundo para crear un índice de dolor completo que ayude a salvar vidas.(n)</desc>
     <credits>
@@ -53,13 +53,13 @@
     <category lang="es">Animales</category>
     <icon src="https://milhouse.zapping.live/assets/p17443307_b_h10_ab.jpg" />
   </programme>
-  <programme start="20221122050000 -0300" stop="20221122060000 -0300" channel="UCV">
+  <programme start="20221124050000 -0300" stop="20221124060000 -0300" channel="UCV">
     <title lang="es">Conciertos desde el estudio IMUS - PUCV</title>
     <desc lang="es">Durante el período de cuarentena a raíz de la pandemia de COVID-19, se lleva a cabo una serie de conciertos virtuales del Instituto y Conservatorio de Música de la Pontificia Universidad Católica de Valparaíso. Durante el período de cuarentena a raíz de la pandemia de COVID-19, se lleva a cabo una serie de conciertos virtuales del Instituto y Conservatorio de Música de la Pontificia Universidad Católica de Valparaíso.(n)</desc>
     <category lang="es">Música</category>
     <icon src="https://milhouse.zapping.live/assets/p18376785_i_h8_aa.jpg" />
   </programme>
-  <programme start="20221122060000 -0300" stop="20221122070000 -0300" channel="UCV">
+  <programme start="20221124060000 -0300" stop="20221124070000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -68,18 +68,18 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20221122070000 -0300" stop="20221122080000 -0300" channel="UCV">
+  <programme start="20221124070000 -0300" stop="20221124080000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20221122080000 -0300" stop="20221122090000 -0300" channel="UCV">
+  <programme start="20221124080000 -0300" stop="20221124090000 -0300" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20221122090000 -0300" stop="20221122100000 -0300" channel="UCV">
+  <programme start="20221124090000 -0300" stop="20221124100000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -88,13 +88,13 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20221122100000 -0300" stop="20221122103000 -0300" channel="UCV">
+  <programme start="20221124100000 -0300" stop="20221124103000 -0300" channel="UCV">
     <title lang="es">Osteoartrit</title>
     <desc lang="es">Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular. Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p22529564_st_h10_aa.jpg" />
   </programme>
-  <programme start="20221122103000 -0300" stop="20221122110000 -0300" channel="UCV">
+  <programme start="20221124103000 -0300" stop="20221124110000 -0300" channel="UCV">
     <title lang="es">Los Locos Addams</title>
     <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
     <credits>
@@ -108,7 +108,7 @@
     <category lang="es">Sitcom</category>
     <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
   </programme>
-  <programme start="20221122110000 -0300" stop="20221122120000 -0300" channel="UCV">
+  <programme start="20221124110000 -0300" stop="20221124120000 -0300" channel="UCV">
     <title lang="es">El Gran Chaparral</title>
     <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
     <credits>
@@ -126,7 +126,7 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
   </programme>
-  <programme start="20221122120000 -0300" stop="20221122130000 -0300" channel="UCV">
+  <programme start="20221124120000 -0300" stop="20221124130000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -140,25 +140,17 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20221122130000 -0300" stop="20221122133000 -0300" channel="UCV">
-    <title lang="es">Arte y parte</title>
-    <desc lang="es">Una serie de entrevistas que abordan la vida personal y artística de un grupo de creadores y artistas de la región de Valparaíso. Una serie de entrevistas que abordan la vida personal y artística de un grupo de creadores y artistas de la región de Valparaíso.(n)</desc>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p17838246_b_h10_ab.jpg" />
+  <programme start="20221124130000 -0300" stop="20221124140000 -0300" channel="UCV">
+    <title lang="es">De igual a igual</title>
+    <icon src="https://milhouse.zapping.live/assets/p23098388_i_h8_aa.jpg" />
   </programme>
-  <programme start="20221122133000 -0300" stop="20221122140000 -0300" channel="UCV">
-    <title lang="es">Desde la pantalla</title>
-    <desc lang="es">Entrevistas a destacados académicos y realizadores a cargo de Jaime Córdova, director del Festival de Cine Recobrado de Valparaíso. Revisión y análisis de los distintos géneros cinematográficos. Entrevistas a destacados académicos y realizadores a cargo de Jaime Córdova, director del Festival de Cine Recobrado de Valparaíso. Revisión y análisis de los distintos géneros cinematográficos.(n)</desc>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p17831398_b_h10_ab.jpg" />
-  </programme>
-  <programme start="20221122140000 -0300" stop="20221122150000 -0300" channel="UCV">
+  <programme start="20221124140000 -0300" stop="20221124150000 -0300" channel="UCV">
     <title lang="es">Matiné, Vermouth y noche</title>
     <desc lang="es">Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70. Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70.(n)</desc>
     <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p23443993_i_h10_aa.jpg" />
+    <icon src="https://milhouse.zapping.live/assets/p23443993_b_h10_aa.jpg" />
   </programme>
-  <programme start="20221122150000 -0300" stop="20221122160000 -0300" channel="UCV">
+  <programme start="20221124150000 -0300" stop="20221124160000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -167,7 +159,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20221122160000 -0300" stop="20221122170000 -0300" channel="UCV">
+  <programme start="20221124160000 -0300" stop="20221124170000 -0300" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -183,12 +175,12 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
   </programme>
-  <programme start="20221122170000 -0300" stop="20221122180000 -0300" channel="UCV">
+  <programme start="20221124170000 -0300" stop="20221124180000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20221122180000 -0300" stop="20221122190000 -0300" channel="UCV">
+  <programme start="20221124180000 -0300" stop="20221124190000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -209,7 +201,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20221122190000 -0300" stop="20221122200000 -0300" channel="UCV">
+  <programme start="20221124190000 -0300" stop="20221124200000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -223,12 +215,12 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20221122200000 -0300" stop="20221122210000 -0300" channel="UCV">
+  <programme start="20221124200000 -0300" stop="20221124210000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20221122210000 -0300" stop="20221122220000 -0300" channel="UCV">
+  <programme start="20221124210000 -0300" stop="20221124220000 -0300" channel="UCV">
     <title lang="es">Los Locos Addams</title>
     <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
     <credits>
@@ -242,7 +234,7 @@
     <category lang="es">Sitcom</category>
     <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
   </programme>
-  <programme start="20221122220000 -0300" stop="20221122230000 -0300" channel="UCV">
+  <programme start="20221124220000 -0300" stop="20221124230000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -263,7 +255,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20221122230000 -0300" stop="20221123000000 -0300" channel="UCV">
+  <programme start="20221124230000 -0300" stop="20221125000000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -277,19 +269,19 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20221123000000 -0300" stop="20221123000000 -0300" channel="UCV">
+  <programme start="20221125000000 -0300" stop="20221125000000 -0300" channel="UCV">
     <title lang="es">Matiné, Vermouth y noche</title>
     <desc lang="es">Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70. Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70.(n)</desc>
     <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p23443993_i_h10_aa.jpg" />
+    <icon src="https://milhouse.zapping.live/assets/p23443993_b_h10_aa.jpg" />
   </programme>
-  <programme start="20221123000000 -0300" stop="20221123010000 -0300" channel="UCV">
+  <programme start="20221125000000 -0300" stop="20221125010000 -0300" channel="UCV">
     <title lang="es">Matiné, Vermouth y noche</title>
     <desc lang="es">Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70. Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70.(n)</desc>
     <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p23443993_i_h10_aa.jpg" />
+    <icon src="https://milhouse.zapping.live/assets/p23443993_b_h10_aa.jpg" />
   </programme>
-  <programme start="20221123010000 -0300" stop="20221123020000 -0300" channel="UCV">
+  <programme start="20221125010000 -0300" stop="20221125020000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -303,7 +295,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20221123020000 -0300" stop="20221123030000 -0300" channel="UCV">
+  <programme start="20221125020000 -0300" stop="20221125030000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -324,7 +316,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20221123030000 -0300" stop="20221123040000 -0300" channel="UCV">
+  <programme start="20221125030000 -0300" stop="20221125040000 -0300" channel="UCV">
     <title lang="es">El Gran Chaparral</title>
     <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
     <credits>
@@ -342,22 +334,27 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
   </programme>
-  <programme start="20221123040000 -0300" stop="20221123050000 -0300" channel="UCV">
-    <title lang="es">Retro pop</title>
-    <desc lang="es">Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando. Se presentan videoclips de los temas más icónicos, que marcaron una época y que todavía se siguen escuchando.(n)</desc>
+  <programme start="20221125040000 -0300" stop="20221125050000 -0300" channel="UCV">
+    <title lang="es">Los reyes del dolor</title>
+    <desc lang="es">Un biólogo y un cuidador profesional de animales se exponen a las picaduras y mordeduras de las criaturas más peligrosas del mundo para crear un índice de dolor completo que ayude a salvar vidas. Un biólogo y un cuidador profesional de animales se exponen a las picaduras y mordeduras de las criaturas más peligrosas del mundo para crear un índice de dolor completo que ayude a salvar vidas.(n)</desc>
     <credits>
-      <presenter>Ismael Pereira</presenter>
+      <producer>Ben Silverman</producer>
+      <producer>David Carr</producer>
+      <producer>Laurie Girion</producer>
+      <presenter>Adam Thorn</presenter>
+      <presenter>Rob Alleva</presenter>
     </credits>
-    <category lang="es">Música</category>
-    <icon src="https://milhouse.zapping.live/assets/p19097931_b_h10_aa.jpg" />
+    <date>2019</date>
+    <category lang="es">Animales</category>
+    <icon src="https://milhouse.zapping.live/assets/p17443307_b_h10_ab.jpg" />
   </programme>
-  <programme start="20221123050000 -0300" stop="20221123060000 -0300" channel="UCV">
+  <programme start="20221125050000 -0300" stop="20221125060000 -0300" channel="UCV">
     <title lang="es">Conciertos desde el estudio IMUS - PUCV</title>
     <desc lang="es">Durante el período de cuarentena a raíz de la pandemia de COVID-19, se lleva a cabo una serie de conciertos virtuales del Instituto y Conservatorio de Música de la Pontificia Universidad Católica de Valparaíso. Durante el período de cuarentena a raíz de la pandemia de COVID-19, se lleva a cabo una serie de conciertos virtuales del Instituto y Conservatorio de Música de la Pontificia Universidad Católica de Valparaíso.(n)</desc>
     <category lang="es">Música</category>
     <icon src="https://milhouse.zapping.live/assets/p18376785_i_h8_aa.jpg" />
   </programme>
-  <programme start="20221123060000 -0300" stop="20221123070000 -0300" channel="UCV">
+  <programme start="20221125060000 -0300" stop="20221125070000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -366,18 +363,18 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20221123070000 -0300" stop="20221123080000 -0300" channel="UCV">
+  <programme start="20221125070000 -0300" stop="20221125080000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20221123080000 -0300" stop="20221123090000 -0300" channel="UCV">
+  <programme start="20221125080000 -0300" stop="20221125090000 -0300" channel="UCV">
     <title lang="es">A3D</title>
     <desc lang="es">Productos a la venta, disponible para Chile. Productos a la venta, disponible para Chile.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p552427_st_h10_aa.jpg" />
   </programme>
-  <programme start="20221123090000 -0300" stop="20221123100000 -0300" channel="UCV">
+  <programme start="20221125090000 -0300" stop="20221125100000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -386,13 +383,13 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20221123100000 -0300" stop="20221123103000 -0300" channel="UCV">
+  <programme start="20221125100000 -0300" stop="20221125103000 -0300" channel="UCV">
     <title lang="es">Osteoartrit</title>
     <desc lang="es">Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular. Eficaz coadyuvante articular, gracias a sus nutrientes naturales, Osteoartrit fortalece y protege el cartílago articular.(n)</desc>
     <category lang="es">Consumidor</category>
     <icon src="https://milhouse.zapping.live/assets/p22529564_st_h10_aa.jpg" />
   </programme>
-  <programme start="20221123103000 -0300" stop="20221123110000 -0300" channel="UCV">
+  <programme start="20221125103000 -0300" stop="20221125110000 -0300" channel="UCV">
     <title lang="es">Los Locos Addams</title>
     <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
     <credits>
@@ -406,7 +403,7 @@
     <category lang="es">Sitcom</category>
     <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
   </programme>
-  <programme start="20221123110000 -0300" stop="20221123120000 -0300" channel="UCV">
+  <programme start="20221125110000 -0300" stop="20221125120000 -0300" channel="UCV">
     <title lang="es">El Gran Chaparral</title>
     <desc lang="es">Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya. Serie protagonizada por el veterano actor Leif Erickson como John Cannon, dueño del rancho llamado El Gran Chaparral ubicado en el desierto de Sonora (actual Arizona). La vida de dos familias: los Cannon y los Montoya.(n)</desc>
     <credits>
@@ -424,39 +421,47 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p400624_b_h10_ac.jpg" />
   </programme>
-  <programme start="20221123120000 -0300" stop="20221123130000 -0300" channel="UCV">
-    <title lang="es">El precio de la historia</title>
-    <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
+  <programme start="20221125120000 -0300" stop="20221125123000 -0300" channel="UCV">
+    <title lang="es">Es tema a las 12</title>
+    <desc lang="es">Programa del departamento de prensa de la UCV Radio, transmitido desde la Casa Central de la Pontificia Universidad Católica de Valparaíso, en donde se entrevista a personas que tocan temas de interés para la población de la región de Valparaíso. Programa del departamento de prensa de la UCV Radio, transmitido desde la Casa Central de la Pontificia Universidad Católica de Valparaíso, en donde se entrevista a personas que tocan temas de interés para la población de la región de Valparaíso.(n)</desc>
     <credits>
-      <actor>Corey Harrison</actor>
-      <actor>Austin "Chumlee" Russell</actor>
-      <producer>Mary Donahue</producer>
-      <producer>Brent Montgomery</producer>
-      <producer>Paul Buccieri</producer>
+      <presenter>Marcelo Vásquez</presenter>
     </credits>
-    <date>2009</date>
-    <category lang="es">Realidad</category>
-    <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
+    <category lang="es">Noticias</category>
+    <icon src="https://milhouse.zapping.live/assets/p17351696_b_h10_aa.jpg" />
   </programme>
-  <programme start="20221123130000 -0300" stop="20221123133000 -0300" channel="UCV">
-    <title lang="es">Arte y parte</title>
-    <desc lang="es">Una serie de entrevistas que abordan la vida personal y artística de un grupo de creadores y artistas de la región de Valparaíso. Una serie de entrevistas que abordan la vida personal y artística de un grupo de creadores y artistas de la región de Valparaíso.(n)</desc>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p17838246_b_h10_ab.jpg" />
+  <programme start="20221125123000 -0300" stop="20221125130000 -0300" channel="UCV">
+    <title lang="es">Ediciones universitarias</title>
+    <desc lang="es">Un programa de entrevista y diálogo, en el que se presentan aquellos libros realizados por Ediciones Universitarias de la Pontificia Universidad Católica de Valparaíso. Un programa de entrevista y diálogo, en el que se presentan aquellos libros realizados por Ediciones Universitarias de la Pontificia Universidad Católica de Valparaíso.(n)</desc>
+    <credits>
+      <presenter>Edmundo Bustos</presenter>
+    </credits>
+    <category lang="es">Educacional</category>
+    <icon src="https://milhouse.zapping.live/assets/p20032698_b_h10_aa.jpg" />
   </programme>
-  <programme start="20221123133000 -0300" stop="20221123140000 -0300" channel="UCV">
-    <title lang="es">Desde la pantalla</title>
-    <desc lang="es">Entrevistas a destacados académicos y realizadores a cargo de Jaime Córdova, director del Festival de Cine Recobrado de Valparaíso. Revisión y análisis de los distintos géneros cinematográficos. Entrevistas a destacados académicos y realizadores a cargo de Jaime Córdova, director del Festival de Cine Recobrado de Valparaíso. Revisión y análisis de los distintos géneros cinematográficos.(n)</desc>
-    <category lang="es">Entrevista</category>
-    <icon src="https://milhouse.zapping.live/assets/p17831398_b_h10_ab.jpg" />
+  <programme start="20221125130000 -0300" stop="20221125133000 -0300" channel="UCV">
+    <title lang="es">Agenda de viaje</title>
+    <desc lang="es">Un espacio en el que se muestran destinos turísticos y se promocionan lugares para conocer y disfrutar al momento de viajar. Un espacio en el que se muestran destinos turísticos y se promocionan lugares para conocer y disfrutar al momento de viajar.(n)</desc>
+    <credits>
+      <presenter>Ricardo Parodi</presenter>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Viajes</category>
+    <icon src="https://milhouse.zapping.live/assets/p325756_i_h8_aa.jpg" />
   </programme>
-  <programme start="20221123140000 -0300" stop="20221123150000 -0300" channel="UCV">
+  <programme start="20221125133000 -0300" stop="20221125140000 -0300" channel="UCV">
+    <title lang="es">Todos somos más</title>
+    <desc lang="es">Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas. Tips sobre bicicletas y toda la información sobre las últimas carreras efectuadas.(n)</desc>
+    <category lang="es">Bicycle</category>
+    <icon src="https://milhouse.zapping.live/assets/p22566276_b_h10_aa.jpg" />
+  </programme>
+  <programme start="20221125140000 -0300" stop="20221125150000 -0300" channel="UCV">
     <title lang="es">Matiné, Vermouth y noche</title>
     <desc lang="es">Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70. Una muestra audiovisual de películas clásicas chilenas restauradas por la Cineteca Nacional de Chile, que incluye desde películas mudas y registros desde el año 1925 hasta clásicos de los 70.(n)</desc>
     <category lang="es">Educacional</category>
-    <icon src="https://milhouse.zapping.live/assets/p23443993_i_h10_aa.jpg" />
+    <icon src="https://milhouse.zapping.live/assets/p23443993_b_h10_aa.jpg" />
   </programme>
-  <programme start="20221123150000 -0300" stop="20221123160000 -0300" channel="UCV">
+  <programme start="20221125150000 -0300" stop="20221125160000 -0300" channel="UCV">
     <title lang="es">Dr. en casa</title>
     <desc lang="es">Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades. Un programa ameno sobre salud, que toca temas médicos, tratamientos e información para prevenir enfermedades.(n)</desc>
     <credits>
@@ -465,7 +470,7 @@
     <category lang="es">Salud</category>
     <icon src="https://milhouse.zapping.live/assets/p16087624_b_h8_ab.jpg" />
   </programme>
-  <programme start="20221123160000 -0300" stop="20221123170000 -0300" channel="UCV">
+  <programme start="20221125160000 -0300" stop="20221125170000 -0300" channel="UCV">
     <title lang="es">Bonanza</title>
     <desc lang="es">La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa". La vida de Ben Cartwright y sus hijos quienes hacen frente al árido oeste en su rancho "La Ponderosa".(n)</desc>
     <credits>
@@ -481,12 +486,12 @@
     <category lang="es">Drama</category>
     <icon src="https://milhouse.zapping.live/assets/p184115_b_h8_ag.jpg" />
   </programme>
-  <programme start="20221123170000 -0300" stop="20221123180000 -0300" channel="UCV">
+  <programme start="20221125170000 -0300" stop="20221125180000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20221123180000 -0300" stop="20221123190000 -0300" channel="UCV">
+  <programme start="20221125180000 -0300" stop="20221125190000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
@@ -507,7 +512,7 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p8354064_b_h8_cf.jpg" />
   </programme>
-  <programme start="20221123190000 -0300" stop="20221123200000 -0300" channel="UCV">
+  <programme start="20221125190000 -0300" stop="20221125200000 -0300" channel="UCV">
     <title lang="es">El precio de la historia</title>
     <desc lang="es">La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades. La familia Harrison, y su ojo entrenado para reconocer piezas originales, determinan el valor de los objetos históricos poco conocidos que llevan a su negocio de antigüedades.(n)</desc>
     <credits>
@@ -521,12 +526,12 @@
     <category lang="es">Realidad</category>
     <icon src="https://milhouse.zapping.live/assets/p3565439_b_h8_db.jpg" />
   </programme>
-  <programme start="20221123200000 -0300" stop="20221123210000 -0300" channel="UCV">
+  <programme start="20221125200000 -0300" stop="20221125210000 -0300" channel="UCV">
     <title lang="es">El mundo en tus ojos</title>
     <category lang="es">Educacional</category>
     <icon src="https://milhouse.zapping.live/assets/p20996688_i_h10_aa.jpg" />
   </programme>
-  <programme start="20221123210000 -0300" stop="20221123220000 -0300" channel="UCV">
+  <programme start="20221125210000 -0300" stop="20221125220000 -0300" channel="UCV">
     <title lang="es">Los Locos Addams</title>
     <desc lang="es">Las extrañas aventuras de Gomez y Morticia Addams. Las extrañas aventuras de Gomez y Morticia Addams.(n)</desc>
     <credits>
@@ -540,7 +545,7 @@
     <category lang="es">Sitcom</category>
     <icon src="https://milhouse.zapping.live/assets/p184164_b_h10_af.jpg" />
   </programme>
-  <programme start="20221123220000 -0300" stop="20221123230000 -0300" channel="UCV">
+  <programme start="20221125220000 -0300" stop="20221125230000 -0300" channel="UCV">
     <title lang="es">¿Quién da más?</title>
     <desc lang="es">Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros. Postores compiten al comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.(n)</desc>
     <credits>
