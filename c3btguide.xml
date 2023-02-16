@@ -48,198 +48,6 @@
     <icon src="https://unity-img.tbxapis.com/v0/images/8f6edc9cb0d38faeaf343b50ae0dc7f4/content/5e59d6c99e282010f88f5e17/eed5c885b4bd720516a8c6229cbd838b/img.png" />
     <url>http://www.go.cableonda.com</url>
   </channel>
-  <programme start="20230215010000 +0100" stop="20230215020000 +0100" channel="TVN HD">
-    <title lang="en">Hermanos</title>
-    <desc lang="en">Historia de cuatro hermanos que son felices aunque viven en condiciones precarias. En su camino se cruzará Akif Atakul, un poderoso empresario que quiere salir airoso de un crimen que cometió en el pasado.(n)</desc>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12640616923/230214232512_5239764745.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215020000 +0100" stop="20230215030000 +0100" channel="TVN HD">
-    <title lang="en">Scorpion</title>
-    <credits>
-      <actor>Riley B. Smith</actor>
-      <actor>Ari Stidham</actor>
-      <actor>Jadyn Wong</actor>
-      <actor>Eddie Kaye Thomas</actor>
-      <actor>Katharine McPhee</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230215030000 +0100" stop="20230215040000 +0100" channel="TVN HD">
-    <title lang="en">Amor de familia</title>
-    <category lang="en">Serie</category>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230215040000 +0100" stop="20230215050000 +0100" channel="TVN HD">
-    <title lang="en">La Reina del Flow</title>
-    <credits>
-      <director>Liliana Bocanegra</director>
-      <director>Rodrigo Lalinde</director>
-      <actor>Carlos Torres</actor>
-      <actor>Carolina Ramírez</actor>
-      <actor>Alejandro Otero</actor>
-      <actor>Maria Camila Giraldo</actor>
-      <actor>Guillermo Blanco</actor>
-      <actor>Lina Cardona</actor>
-      <actor>David Ojalvo</actor>
-      <writer>Said Chamie</writer>
-      <writer>Claudia Sánchez</writer>
-      <writer>Andres Salgado</writer>
-    </credits>
-    <category lang="en">Serie</category>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230215050000 +0100" stop="20230215060000 +0100" channel="TVN HD">
-    <title lang="en">Corazón de madre</title>
-    <category lang="en">Serie</category>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230215060000 +0100" stop="20230215090000 +0100" channel="TVN HD">
-    <title lang="en">Jelou!</title>
-    <credits>
-      <actor>Carolina Dementiev</actor>
-      <actor>Gaby Gnazzo</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230215090000 +0100" stop="20230215100000 +0100" channel="TVN HD">
-    <title lang="en">Hermanos</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12644335773/230214232512_5239764745.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215100000 +0100" stop="20230215110000 +0100" channel="TVN HD">
-    <title lang="en">Scorpion</title>
-    <credits>
-      <actor>Riley B. Smith</actor>
-      <actor>Ari Stidham</actor>
-      <actor>Jadyn Wong</actor>
-      <actor>Eddie Kaye Thomas</actor>
-      <actor>Katharine McPhee</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12530572369/230214232512_10459903603.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215110000 +0100" stop="20230215130000 +0100" channel="TVN HD">
-    <title lang="en">Noticiero AM</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12604331863/230214232512_4329960659.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215130000 +0100" stop="20230215170000 +0100" channel="TVN HD">
-    <title lang="en">Jelou!</title>
-    <credits>
-      <actor>Carolina Dementiev</actor>
-      <actor>Gaby Gnazzo</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12530572373/230214232512_1693649121.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215170000 +0100" stop="20230215180000 +0100" channel="TVN HD">
-    <title lang="en">TVN Noticias: Edición Medio Día</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12644153748/230214232512_9521474144.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215180000 +0100" stop="20230215193000 +0100" channel="TVN HD">
-    <title lang="en">Al Rojo Vivo</title>
-    <desc lang="en">Programa centrado en el análisis y el debate de la actualidad política nacional e internacional.(n)</desc>
-    <credits>
-      <actor>María Celeste Arrarás</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12646292269/230214232512_1070594024.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215193000 +0100" stop="20230215200000 +0100" channel="TVN HD">
-    <title lang="en">La mesa caliente</title>
-    <desc lang="en">Un show en el que Myrka Dellanos, Giselle Blondet,.(n)</desc>
-    <credits>
-      <actor>Giselle Blondet</actor>
-      <actor>Myrka Dellanos</actor>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12604297440/230214232512_10459903658.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215200000 +0100" stop="20230215203000 +0100" channel="TVN HD">
-    <title lang="en">La lotería</title>
-    <category lang="en">Serie</category>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20230215203000 +0100" stop="20230215213000 +0100" channel="TVN HD">
-    <title lang="en">Entre dos amores</title>
-    <credits>
-      <actor>Itır Esen</actor>
-      <actor>Seda Türkmen</actor>
-      <actor>Fırat Topkorur</actor>
-      <actor>Kadir Doğulu</actor>
-      <actor>Neslihan Atagül</actor>
-      <actor>Başak Parlak</actor>
-      <actor>Yunus Emre Yıldırımer</actor>
-      <actor>Emre Yılmaz</actor>
-      <actor>Dilara Öztunç</actor>
-      <actor>Okday Korunan</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12644135329/230214232512_10460707405.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215213000 +0100" stop="20230215230000 +0100" channel="TVN HD">
-    <title lang="en">Gülperi</title>
-    <credits>
-      <director>Cem Karcı</director>
-      <actor>Nurgül Yeşilçay</actor>
-      <actor>Timuçin Esen</actor>
-    </credits>
-    <category lang="en">Serie</category>
-  </programme>
-  <programme start="20230215230000 +0100" stop="20230216010000 +0100" channel="TVN HD">
-    <title lang="en">Noticiero estelar</title>
-    <desc lang="en">Le traemos toda la información sobre lo que sucede en Panamá y el mundo, al analizar los hechos de manera objetiva e imparcial, y hacer esfuerzos diarios por estar allí donde sucede la noticia.(n)</desc>
-    <date>2012</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVNHD/default/12604375979/230214232512_1070687667.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20230216010000 +0100" stop="20230216020000 +0100" channel="TVN HD">
     <title lang="en">Hermanos</title>
     <desc lang="en">Historia de cuatro hermanos que son felices aunque viven en condiciones precarias. En su camino se cruzará Akif Atakul, un poderoso empresario que quiere salir airoso de un crimen que cometió en el pasado.(n)</desc>
@@ -426,286 +234,10 @@
     <date>2012</date>
     <category lang="en">Other</category>
   </programme>
-  <programme start="20230215010000 +0100" stop="20230215020000 +0100" channel="Telemetro HD">
-    <title lang="en">Juegos del destino</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612670097/230214173012_10152906346.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215020000 +0100" stop="20230215030000 +0100" channel="Telemetro HD">
-    <title lang="en">Café con aroma de mujer</title>
-    <desc lang="en">Una historia de amor que lucha entre diferencias sociales.(n)</desc>
-    <credits>
-      <director>Pepe Sánchez</director>
-      <actor>Margarita Rosa de Francisco</actor>
-      <actor>Guy Ecker</actor>
-      <writer>Fernando Gaitán</writer>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607586758/230214173012_10644522524.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215030000 +0100" stop="20230215040000 +0100" channel="Telemetro HD">
-    <title lang="en">El Doctor milagro</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607665887/230214173012_11627019010.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215040000 +0100" stop="20230215043000 +0100" channel="Telemetro HD">
-    <title lang="en">Amor sin igual</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12600606748/230214173012_10648081808.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215043000 +0100" stop="20230215050000 +0100" channel="Telemetro HD">
-    <title lang="en">Telemetro Reporta Nocturno</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612712437/230214173012_1517267047.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215050000 +0100" stop="20230215060000 +0100" channel="Telemetro HD">
-    <title lang="en">¿Quién TV?</title>
-    <desc lang="en">Actualidad, humor, tendencias, historias y mucho más. Una propuesta simple, pero atractiva, en donde se abordan los temas cotidianos de una manera fresca y distinta al resto de los ciclos televisivos.(n)</desc>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604374276/230214173012_7536382264.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215060000 +0100" stop="20230215063000 +0100" channel="Telemetro HD">
-    <title lang="en">Flor Mizrachi pregunta</title>
-    <credits>
-      <actor>Flor Mizrachi</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604245516/230214173012_8359335162.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215063000 +0100" stop="20230215070000 +0100" channel="Telemetro HD">
-    <title lang="en">Mamá y compañía</title>
-    <desc lang="en">egmento especialmente dedicado a todas las madres. Tips, consejos, información y secretos para las mamás jóvenes y las más adultas. Salud, bienestar, crianza, educación y muchos otros temas de interés son tratados con seriedad y objetividad.(n)</desc>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604313325/230214173012_6264538717.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215070000 +0100" stop="20230215073000 +0100" channel="Telemetro HD">
-    <title lang="en">Más Que Cine</title>
-    <desc lang="en">El séptimo arte y la actualidad seriéfila son los dos protagonistas de este magacín semanal. El espacio, presentado por una celebridad distinta en cada edición, incluye monólogos cómicos, entrevistas y las últimas novedades de la cartelera y del mundo audiovisual.(n)</desc>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604323266/230214173012_9604035600.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215073000 +0100" stop="20230215093000 +0100" channel="Telemetro HD">
-    <title lang="en">Telemetro Reporta Estelar</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12515153504/230214173012_7974971239.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215093000 +0100" stop="20230215100000 +0100" channel="Telemetro HD">
-    <title lang="en">Muertos de hambre</title>
-    <credits>
-      <actor>Arturo Illueca</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604349827/230214173012_11464628251.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215100000 +0100" stop="20230215110000 +0100" channel="Telemetro HD">
-    <title lang="en">Serie</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652677005/230214173012_10693912336.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215110000 +0100" stop="20230215130000 +0100" channel="Telemetro HD">
-    <title lang="en">Noticiero matutino de Telemetro reporta</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652691277/230214173012_9411702180.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215130000 +0100" stop="20230215163000 +0100" channel="Telemetro HD">
-    <title lang="en">Tu mañana</title>
-    <desc lang="en">Magazine informativo que contiene temas sobre el hogar, la familia, la nutrición, decoración, moda, cuidados y, además, ofrece detalles importantes sobre el acontecer diario a nivel nacional e internacional.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604382701/230214173012_6707023379.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215163000 +0100" stop="20230215170000 +0100" channel="Telemetro HD">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">En la cafeterÃ­a El Dicho trabajan Don TomÃ¡s, el anciano bonachÃ³n propietario del local, y su nieta, Isabel, que lo ayuda en el negocio. Ambos conocen cada dÃ­a diferentes historias con los clientes que pasan por la cafeterÃ­a.(n)</desc>
-    <credits>
-      <director>Emmanuel Duprez</director>
-      <actor>Benny Emmanuel</actor>
-      <actor>Mario Bautista</actor>
-      <actor>Memo Dorantes</actor>
-      <actor>Juan Bernardo Flores</actor>
-      <actor>Alejandro de Hoyos Parera</actor>
-      <actor>Amairani</actor>
-      <actor>Martín Brek</actor>
-      <actor>Esteban Franco</actor>
-      <actor>Isadora González</actor>
-      <actor>Abril Onyl</actor>
-      <actor>Aarón Rivero</actor>
-      <actor>Espino Morayma</actor>
-      <actor>Arlette Pacheco</actor>
-      <actor>Regina Pavón</actor>
-      <actor>Gabriel Roustand</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652691350/230214173012_10460310230.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215170000 +0100" stop="20230215180000 +0100" channel="Telemetro HD">
-    <title lang="en">Telemetro reporta mediodía</title>
-    <desc lang="en">Los sucesos locales, internacionales, reportajes, así como también videos de los hechos acontecidos y de trascendencia durante el día, con un equipo periodístico de profesionalismo y trayectoria inigualable a nivel nacional.(n)</desc>
-    <credits>
-      <actor>Massiel Rodríguez</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12515153510/230214173012_7424951299.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215180000 +0100" stop="20230215190000 +0100" channel="Telemetro HD">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <credits>
-      <director>Marta Luna</director>
-      <director>José Ángel García</director>
-      <director>Gastón Tuset</director>
-      <director>Ricardo De la Parra</director>
-      <actor>Milia Nader</actor>
-      <actor>Diego Lara</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Gina Vargas</actor>
-      <actor>Marcela Morett</actor>
-      <actor>Lilibeth Flores</actor>
-      <actor>Sara Cobo</actor>
-      <actor>Emmanuel Orenday</actor>
-      <actor>Karol Sevilla</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Sandra Itzel</actor>
-      <actor>Pilar Ramírez</actor>
-      <actor>Gerardo Murguía</actor>
-      <actor>Marisol Del Olmo</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12515153511/230214173012_7424951299.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215190000 +0100" stop="20230215200000 +0100" channel="Telemetro HD">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <credits>
-      <director>Marta Luna</director>
-      <director>José Ángel García</director>
-      <director>Gastón Tuset</director>
-      <director>Ricardo De la Parra</director>
-      <actor>Milia Nader</actor>
-      <actor>Diego Lara</actor>
-      <actor>Francisco Avendaño</actor>
-      <actor>Gina Vargas</actor>
-      <actor>Marcela Morett</actor>
-      <actor>Lilibeth Flores</actor>
-      <actor>Sara Cobo</actor>
-      <actor>Emmanuel Orenday</actor>
-      <actor>Karol Sevilla</actor>
-      <actor>Miriam Calderón</actor>
-      <actor>Maru Dueñas</actor>
-      <actor>Sandra Itzel</actor>
-      <actor>Pilar Ramírez</actor>
-      <actor>Gerardo Murguía</actor>
-      <actor>Marisol Del Olmo</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604337217/230214173012_12407844258.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215200000 +0100" stop="20230215203000 +0100" channel="Telemetro HD">
-    <title lang="en">Lotería</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604356377/230214173012_9540450652.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215203000 +0100" stop="20230215210000 +0100" channel="Telemetro HD">
-    <title lang="en">Pa' Quererte</title>
-    <credits>
-      <director>Catalina Hernández</director>
-      <director>Israel Sánchez</director>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607534740/230214173012_12081102715.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215210000 +0100" stop="20230215220000 +0100" channel="Telemetro HD">
-    <title lang="en">Vencer la ausencia</title>
-    <category lang="en">Serie</category>
-  </programme>
-  <programme start="20230215220000 +0100" stop="20230215230000 +0100" channel="Telemetro HD">
-    <title lang="en">Cuando Me Enamoro</title>
-    <desc lang="en">Jerónimo conoce de manera casual a Renata y queda impactado con su belleza desde el primer instante, sin conocer su verdadera identidad surge entre ellos un gran amor, mismo que los marcará de por vida.(n)</desc>
-    <credits>
-      <actor>Silvia Navarro</actor>
-      <actor>Juan Soler</actor>
-      <actor>Rocío Banquells</actor>
-      <actor>Jessica Coch</actor>
-      <actor>Sebastián Zurita</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652676192/230214173012_9604035600.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215230000 +0100" stop="20230216010000 +0100" channel="Telemetro HD">
-    <title lang="en">Telemetro Reporta Estelar</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612761683/230214173012_12583316831.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
   <programme start="20230216010000 +0100" stop="20230216020000 +0100" channel="Telemetro HD">
     <title lang="en">Juegos del destino</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612669986/230214173012_10152906346.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612669986/230215225012_10152906346.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -720,7 +252,7 @@
       <writer>Fernando Gaitán</writer>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607586799/230214173012_10644522524.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607586799/230215225012_10644522524.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -728,7 +260,7 @@
   <programme start="20230216030000 +0100" stop="20230216040000 +0100" channel="Telemetro HD">
     <title lang="en">El Doctor milagro</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607666241/230214173012_11627019010.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607666241/230215225012_11627019010.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -736,7 +268,7 @@
   <programme start="20230216040000 +0100" stop="20230216043000 +0100" channel="Telemetro HD">
     <title lang="en">Amor sin igual</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604312209/230214173012_10648081808.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12604312209/230215225012_10648081808.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -744,7 +276,7 @@
   <programme start="20230216043000 +0100" stop="20230216050000 +0100" channel="Telemetro HD">
     <title lang="en">Telemetro Reporta Nocturno</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607516996/230214173012_7974971239.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607516996/230215225012_7974971239.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -755,7 +287,7 @@
       <actor>Arturo Illueca</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607510166/230214173012_8359335162.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607510166/230215225012_8359335162.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -764,7 +296,7 @@
     <title lang="en">Mamá y compañía</title>
     <desc lang="en">egmento especialmente dedicado a todas las madres. Tips, consejos, información y secretos para las mamás jóvenes y las más adultas. Salud, bienestar, crianza, educación y muchos otros temas de interés son tratados con seriedad y objetividad.(n)</desc>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607597609/230214173012_1517267047.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607597609/230215225012_1517267047.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -773,7 +305,7 @@
     <title lang="en">¿Quién TV?</title>
     <desc lang="en">Actualidad, humor, tendencias, historias y mucho más. Una propuesta simple, pero atractiva, en donde se abordan los temas cotidianos de una manera fresca y distinta al resto de los ciclos televisivos.(n)</desc>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607695953/230214173012_1738027204.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607695953/230215225012_1738027204.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -784,7 +316,7 @@
       <actor>Tomás Cox</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224313/230214173012_9604035600.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224313/230215225012_9604035600.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -792,7 +324,7 @@
   <programme start="20230216073000 +0100" stop="20230216093000 +0100" channel="Telemetro HD">
     <title lang="en">Telemetro Reporta Estelar</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224314/230214173012_6264538717.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224314/230215225012_6264538717.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -801,7 +333,7 @@
     <title lang="en">Más Que Cine</title>
     <desc lang="en">El séptimo arte y la actualidad seriéfila son los dos protagonistas de este magacín semanal. El espacio, presentado por una celebridad distinta en cada edición, incluye monólogos cómicos, entrevistas y las últimas novedades de la cartelera y del mundo audiovisual.(n)</desc>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607571788/230214173012_11464628251.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607571788/230215225012_11464628251.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -809,7 +341,7 @@
   <programme start="20230216100000 +0100" stop="20230216110000 +0100" channel="Telemetro HD">
     <title lang="en">Serie</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652677008/230214173012_10693912336.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652677008/230215225012_10693912336.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -817,7 +349,7 @@
   <programme start="20230216110000 +0100" stop="20230216130000 +0100" channel="Telemetro HD">
     <title lang="en">Noticiero matutino de Telemetro reporta</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652691276/230214173012_9411702180.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652691276/230215225012_9411702180.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -827,7 +359,7 @@
     <desc lang="en">Magazine informativo que contiene temas sobre el hogar, la familia, la nutrición, decoración, moda, cuidados y, además, ofrece detalles importantes sobre el acontecer diario a nivel nacional e internacional.(n)</desc>
     <date>2011</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607686614/230214173012_6707023379.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607686614/230215225012_6707023379.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -854,7 +386,7 @@
       <actor>Gabriel Roustand</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652691336/230214173012_10460310230.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652691336/230215225012_10460310230.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -867,7 +399,7 @@
     </credits>
     <date>2012</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224320/230214173012_7424951299.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224320/230215225012_7424951299.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -896,7 +428,7 @@
       <actor>Marisol Del Olmo</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224321/230214173012_7424951299.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12517224321/230215225012_7424951299.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -925,7 +457,7 @@
       <actor>Marisol Del Olmo</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607539878/230214173012_7424951299.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607539878/230215225012_7424951299.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -954,7 +486,7 @@
       <actor>Marisol Del Olmo</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607587162/230214173012_9540450652.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607587162/230215225012_9540450652.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -966,7 +498,7 @@
       <director>Israel Sánchez</director>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607534722/230214173012_12081102715.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607534722/230215225012_12081102715.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -986,7 +518,7 @@
       <actor>Sebastián Zurita</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652676193/230214173012_9604035600.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12652676193/230215225012_9604035600.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -994,208 +526,307 @@
   <programme start="20230216230000 +0100" stop="20230217010000 +0100" channel="Telemetro HD">
     <title lang="en">Telemetro Reporta Estelar</title>
     <category lang="en">Serie</category>
-  </programme>
-  <programme start="20230215010000 +0100" stop="20230215020000 +0100" channel="RPC HD">
-    <title lang="en">Series</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644850126/230214024511_10819890197.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612761679/230215225012_12583316831.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215020000 +0100" stop="20230215030000 +0100" channel="RPC HD">
-    <title lang="en">Narcos: Mexico</title>
-    <desc lang="en">Cuando el ejército ataca ​Sinaloa, ​un ambicioso sembrador de marihuana planea levantar un emporio del narco en Guadalajara. Mandan a un joven agente de la DEA a México.(n)</desc>
+  <programme start="20230217010000 +0100" stop="20230217020000 +0100" channel="Telemetro HD">
+    <title lang="en">Juegos del destino</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612670225/230215225012_10152906346.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217020000 +0100" stop="20230217030000 +0100" channel="Telemetro HD">
+    <title lang="en">Café con aroma de mujer</title>
+    <desc lang="en">Una historia de amor que lucha entre diferencias sociales.(n)</desc>
     <credits>
-      <actor>Alyssa Diaz</actor>
-      <actor>Joaquín Cosio</actor>
-      <actor>Michael Peña</actor>
-      <actor>José María Yazpik</actor>
-      <actor>Tenoch Huerta Mejía</actor>
-      <actor>Diego Luna</actor>
-      <actor>Matt Letscher</actor>
-      <actor>Teresa Ruiz</actor>
-      <actor>Scoot McNairy</actor>
-      <actor>Aaron Staton</actor>
-      <writer>Carlo Bernard</writer>
-      <writer>Doug Miro</writer>
+      <director>Pepe Sánchez</director>
+      <actor>Margarita Rosa de Francisco</actor>
+      <actor>Guy Ecker</actor>
+      <writer>Fernando Gaitán</writer>
     </credits>
-    <date>2018</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644850346/230214024511_10460533163.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215030000 +0100" stop="20230215040000 +0100" channel="RPC HD">
-    <title lang="en">Series</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12600758743/230214024511_10430796465.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607586776/230215225012_10644522524.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215040000 +0100" stop="20230215050000 +0100" channel="RPC HD">
-    <title lang="en">A la Candela</title>
+  <programme start="20230217030000 +0100" stop="20230217040000 +0100" channel="Telemetro HD">
+    <title lang="en">El Doctor milagro</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849377/230214024511_10646228404.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607665896/230215225012_11627019010.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215050000 +0100" stop="20230215063000 +0100" channel="RPC HD">
-    <title lang="en">Producción nacional</title>
-    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
-    <date>2015</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604270347/230214024511_10646228404.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215063000 +0100" stop="20230215090000 +0100" channel="RPC HD">
-    <title lang="en">Producción nacional</title>
-    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
-    <date>2015</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849019/230214024511_10459903657.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215090000 +0100" stop="20230215093000 +0100" channel="RPC HD">
-    <title lang="en">Habla ahora</title>
-    <desc lang="en">Programa Radial en vivo, con entrevistas, noticias de ámbito nacional e internacional.(n)</desc>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849378/230214024511_10430796465.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215093000 +0100" stop="20230215103000 +0100" channel="RPC HD">
-    <title lang="en">A la Candela</title>
+  <programme start="20230217040000 +0100" stop="20230217043000 +0100" channel="Telemetro HD">
+    <title lang="en">Amor sin igual</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604270349/230214024511_10646228404.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12607502118/230215225012_10648081808.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215103000 +0100" stop="20230215113000 +0100" channel="RPC HD">
-    <title lang="en">Producción nacional</title>
-    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
-    <date>2015</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12640139954/230214024511_5808974946.jpg" />
+  <programme start="20230217043000 +0100" stop="20230217050000 +0100" channel="Telemetro HD">
+    <title lang="en">Telemetro Reporta Nocturno</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612532795/230215225012_4332442123.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215113000 +0100" stop="20230215123000 +0100" channel="RPC HD">
-    <title lang="en">El Reventón radio</title>
-    <desc lang="en">Programa Radial en vivo, con entrevistas, grooveo, desorden, llamadas indiscretas y mucho más.(n)</desc>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604270350/230214024511_10646228404.jpg" />
+  <programme start="20230217050000 +0100" stop="20230217060000 +0100" channel="Telemetro HD">
+    <title lang="en">A lo Panameño</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612514806/230215225012_7974971239.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215123000 +0100" stop="20230215130000 +0100" channel="RPC HD">
-    <title lang="en">Producción nacional</title>
-    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
-    <date>2015</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604247104/230214024511_10459918668.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215130000 +0100" stop="20230215140000 +0100" channel="RPC HD">
-    <title lang="en">Cuarto Poder</title>
-    <desc lang="en">Verdadero periodismo de investigación. El programa que marca la pauta del acontecer nacional durante la semana. Un indiscutido espacio como referente de independencia y seriedad informativa. Todos los domingos a las 8:00 pm, el programa periodístico con mayor legitimidad de la televisión peruana.(n)</desc>
+  <programme start="20230217060000 +0100" stop="20230217063000 +0100" channel="Telemetro HD">
+    <title lang="en">Muertos de hambre</title>
     <credits>
-      <actor>Augusto Thorndike</actor>
-      <actor>Sol Carreño</actor>
-      <actor>Jay Fonseca</actor>
+      <actor>Arturo Illueca</actor>
     </credits>
-    <date>2018</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644850497/230214024511_1070594024.jpg" />
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612703791/230215225012_6264538717.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215140000 +0100" stop="20230215170000 +0100" channel="RPC HD">
-    <title lang="en">El Brunch</title>
-    <desc lang="en">Después del desayuno y antes del almuerzo hay un espacio para compartir y conversar.(n)</desc>
+  <programme start="20230217063000 +0100" stop="20230217070000 +0100" channel="Telemetro HD">
+    <title lang="en">Más Que Cine</title>
+    <desc lang="en">El séptimo arte y la actualidad seriéfila son los dos protagonistas de este magacín semanal. El espacio, presentado por una celebridad distinta en cada edición, incluye monólogos cómicos, entrevistas y las últimas novedades de la cartelera y del mundo audiovisual.(n)</desc>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612674002/230215225012_7536382264.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217070000 +0100" stop="20230217073000 +0100" channel="Telemetro HD">
+    <title lang="en">Flor Mizrachi pregunta</title>
     <credits>
-      <actor>Felipe Goroso</actor>
-      <actor>Guillermo Grance</actor>
+      <actor>Flor Mizrachi</actor>
     </credits>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12640211197/230214024511_1070646878.jpg" />
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12519332610/230215225012_9604035600.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215170000 +0100" stop="20230215180000 +0100" channel="RPC HD">
-    <title lang="en">A la Candela</title>
-    <desc lang="en">Un programa con polémicas, debates, comentarios, jugadas y opiniones sobre el fútbol.(n)</desc>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604255734/230214024511_12522071952.jpg" />
+  <programme start="20230217073000 +0100" stop="20230217093000 +0100" channel="Telemetro HD">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12519332611/230215225012_8359335162.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215180000 +0100" stop="20230215190000 +0100" channel="RPC HD">
-    <title lang="en">El cutarrazo</title>
-    <desc lang="en">El cutarrazo es un programa de opinión deportivo enfocado en el béisbol,.(n)</desc>
-    <date>2023</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12649284542/230214024511_1070646882.jpg" />
+  <programme start="20230217093000 +0100" stop="20230217100000 +0100" channel="Telemetro HD">
+    <title lang="en">Mamá y compañía</title>
+    <desc lang="en">egmento especialmente dedicado a todas las madres. Tips, consejos, información y secretos para las mamás jóvenes y las más adultas. Salud, bienestar, crianza, educación y muchos otros temas de interés son tratados con seriedad y objetividad.(n)</desc>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612712585/230215225012_11464628251.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215190000 +0100" stop="20230215200000 +0100" channel="RPC HD">
-    <title lang="en">Antesala - UEFA Champions League</title>
-    <desc lang="en">Vive la previa de los partidos de la 68º edición de la UEFA Champions League.(n)</desc>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-  </programme>
-  <programme start="20230215220000 +0100" stop="20230215223000 +0100" channel="RPC HD">
+  <programme start="20230217100000 +0100" stop="20230217110000 +0100" channel="Telemetro HD">
     <title lang="en">Serie</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644851415/230214024511_6397509031.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12654778329/230215225012_10693912336.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215223000 +0100" stop="20230215230000 +0100" channel="RPC HD">
-    <title lang="en">A la Candela LPF</title>
+  <programme start="20230217110000 +0100" stop="20230217130000 +0100" channel="Telemetro HD">
+    <title lang="en">Noticiero matutino de Telemetro reporta</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12649284543/230214024511_1070646878.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12654718966/230215225012_9411702180.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215230000 +0100" stop="20230216010000 +0100" channel="RPC HD">
-    <title lang="en">Liga Panameña de Fútbol</title>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644850347/230214024511_10460533163.jpg" />
+  <programme start="20230217130000 +0100" stop="20230217163000 +0100" channel="Telemetro HD">
+    <title lang="en">Tu mañana</title>
+    <desc lang="en">Magazine informativo que contiene temas sobre el hogar, la familia, la nutrición, decoración, moda, cuidados y, además, ofrece detalles importantes sobre el acontecer diario a nivel nacional e internacional.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612694879/230215225012_6707023379.jpg" />
     <rating>
       <value>NR</value>
     </rating>
+  </programme>
+  <programme start="20230217163000 +0100" stop="20230217170000 +0100" channel="Telemetro HD">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">En la cafeterÃ­a El Dicho trabajan Don TomÃ¡s, el anciano bonachÃ³n propietario del local, y su nieta, Isabel, que lo ayuda en el negocio. Ambos conocen cada dÃ­a diferentes historias con los clientes que pasan por la cafeterÃ­a.(n)</desc>
+    <credits>
+      <director>Emmanuel Duprez</director>
+      <actor>Benny Emmanuel</actor>
+      <actor>Mario Bautista</actor>
+      <actor>Memo Dorantes</actor>
+      <actor>Juan Bernardo Flores</actor>
+      <actor>Alejandro de Hoyos Parera</actor>
+      <actor>Amairani</actor>
+      <actor>Martín Brek</actor>
+      <actor>Esteban Franco</actor>
+      <actor>Isadora González</actor>
+      <actor>Abril Onyl</actor>
+      <actor>Aarón Rivero</actor>
+      <actor>Espino Morayma</actor>
+      <actor>Arlette Pacheco</actor>
+      <actor>Regina Pavón</actor>
+      <actor>Gabriel Roustand</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12654777966/230215225012_10460310230.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217170000 +0100" stop="20230217180000 +0100" channel="Telemetro HD">
+    <title lang="en">Telemetro reporta mediodía</title>
+    <desc lang="en">Los sucesos locales, internacionales, reportajes, así como también videos de los hechos acontecidos y de trascendencia durante el día, con un equipo periodístico de profesionalismo y trayectoria inigualable a nivel nacional.(n)</desc>
+    <credits>
+      <actor>Massiel Rodríguez</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12519332617/230215225012_7424951299.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217180000 +0100" stop="20230217190000 +0100" channel="Telemetro HD">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <credits>
+      <director>Marta Luna</director>
+      <director>José Ángel García</director>
+      <director>Gastón Tuset</director>
+      <director>Ricardo De la Parra</director>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Gina Vargas</actor>
+      <actor>Marcela Morett</actor>
+      <actor>Lilibeth Flores</actor>
+      <actor>Sara Cobo</actor>
+      <actor>Emmanuel Orenday</actor>
+      <actor>Karol Sevilla</actor>
+      <actor>Miriam Calderón</actor>
+      <actor>Maru Dueñas</actor>
+      <actor>Sandra Itzel</actor>
+      <actor>Pilar Ramírez</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12519332618/230215225012_7424951299.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217190000 +0100" stop="20230217200000 +0100" channel="Telemetro HD">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <credits>
+      <director>Marta Luna</director>
+      <director>José Ángel García</director>
+      <director>Gastón Tuset</director>
+      <director>Ricardo De la Parra</director>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Gina Vargas</actor>
+      <actor>Marcela Morett</actor>
+      <actor>Lilibeth Flores</actor>
+      <actor>Sara Cobo</actor>
+      <actor>Emmanuel Orenday</actor>
+      <actor>Karol Sevilla</actor>
+      <actor>Miriam Calderón</actor>
+      <actor>Maru Dueñas</actor>
+      <actor>Sandra Itzel</actor>
+      <actor>Pilar Ramírez</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612689407/230215225012_7424951299.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217200000 +0100" stop="20230217203000 +0100" channel="Telemetro HD">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <credits>
+      <director>Marta Luna</director>
+      <director>José Ángel García</director>
+      <director>Gastón Tuset</director>
+      <director>Ricardo De la Parra</director>
+      <actor>Milia Nader</actor>
+      <actor>Diego Lara</actor>
+      <actor>Francisco Avendaño</actor>
+      <actor>Gina Vargas</actor>
+      <actor>Marcela Morett</actor>
+      <actor>Lilibeth Flores</actor>
+      <actor>Sara Cobo</actor>
+      <actor>Emmanuel Orenday</actor>
+      <actor>Karol Sevilla</actor>
+      <actor>Miriam Calderón</actor>
+      <actor>Maru Dueñas</actor>
+      <actor>Sandra Itzel</actor>
+      <actor>Pilar Ramírez</actor>
+      <actor>Gerardo Murguía</actor>
+      <actor>Marisol Del Olmo</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612751903/230215225012_9540450652.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217203000 +0100" stop="20230217210000 +0100" channel="Telemetro HD">
+    <title lang="en">Pa' Quererte</title>
+    <credits>
+      <director>Catalina Hernández</director>
+      <director>Israel Sánchez</director>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12612603179/230215225012_12081102715.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217210000 +0100" stop="20230217220000 +0100" channel="Telemetro HD">
+    <title lang="en">Vencer la ausencia</title>
+    <category lang="en">Serie</category>
+  </programme>
+  <programme start="20230217220000 +0100" stop="20230217230000 +0100" channel="Telemetro HD">
+    <title lang="en">Cuando Me Enamoro</title>
+    <desc lang="en">Jerónimo conoce de manera casual a Renata y queda impactado con su belleza desde el primer instante, sin conocer su verdadera identidad surge entre ellos un gran amor, mismo que los marcará de por vida.(n)</desc>
+    <credits>
+      <actor>Silvia Navarro</actor>
+      <actor>Juan Soler</actor>
+      <actor>Rocío Banquells</actor>
+      <actor>Jessica Coch</actor>
+      <actor>Sebastián Zurita</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TELEHD/default/12654812848/230215225012_9604035600.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217230000 +0100" stop="20230218010000 +0100" channel="Telemetro HD">
+    <title lang="en">Telemetro Reporta Estelar</title>
+    <category lang="en">Serie</category>
   </programme>
   <programme start="20230216010000 +0100" stop="20230216020000 +0100" channel="RPC HD">
     <title lang="en">Series</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604334368/230214024511_10819890197.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604334368/230215070512_10819890197.jpg" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>NR</value>
@@ -1220,7 +851,7 @@
     </credits>
     <date>2018</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604373206/230214024511_10460533163.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604373206/230215070512_10460533163.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1228,7 +859,7 @@
   <programme start="20230216030000 +0100" stop="20230216040000 +0100" channel="RPC HD">
     <title lang="en">Series</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604386176/230214024511_10430796465.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12604386176/230215070512_10430796465.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1236,7 +867,7 @@
   <programme start="20230216040000 +0100" stop="20230216050000 +0100" channel="RPC HD">
     <title lang="en">A la Candela</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849380/230214024511_10646228404.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849380/230215070512_10646228404.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1246,7 +877,7 @@
     <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
     <date>2015</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514830/230214024511_10646228404.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514830/230215070512_10646228404.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1256,7 +887,7 @@
     <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
     <date>2015</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849020/230214024511_10459903657.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849020/230215070512_10459903657.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1266,7 +897,7 @@
     <desc lang="en">Programa Radial en vivo, con entrevistas, noticias de ámbito nacional e internacional.(n)</desc>
     <date>2021</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849381/230214024511_10430796465.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849381/230215070512_10430796465.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1274,7 +905,7 @@
   <programme start="20230216093000 +0100" stop="20230216103000 +0100" channel="RPC HD">
     <title lang="en">A la Candela</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514832/230214024511_10646228404.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514832/230215070512_10646228404.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1284,7 +915,7 @@
     <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
     <date>2015</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12640159199/230214024511_5808974946.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12652660498/230215070512_11486437986.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1292,9 +923,9 @@
   <programme start="20230216113000 +0100" stop="20230216123000 +0100" channel="RPC HD">
     <title lang="en">El Reventón radio</title>
     <desc lang="en">Programa Radial en vivo, con entrevistas, grooveo, desorden, llamadas indiscretas y mucho más.(n)</desc>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514834/230214024511_10646228404.jpg" />
+    <date>2021</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514834/230215070512_10646228404.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1304,7 +935,7 @@
     <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
     <date>2015</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514835/230214024511_10459918668.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514835/230215070512_10459918668.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1319,31 +950,23 @@
     </credits>
     <date>2018</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849534/230214024511_1070594024.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12652657199/230215070512_10646130008.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20230216140000 +0100" stop="20230216170000 +0100" channel="RPC HD">
     <title lang="en">El Brunch</title>
-    <desc lang="en">Después del desayuno y antes del almuerzo hay un espacio para compartir y conversar.(n)</desc>
-    <credits>
-      <actor>Felipe Goroso</actor>
-      <actor>Guillermo Grance</actor>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12640212085/230214024511_1070646878.jpg" />
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12652629955/230215070512_10430796465.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
   <programme start="20230216170000 +0100" stop="20230216180000 +0100" channel="RPC HD">
     <title lang="en">A la Candela</title>
-    <desc lang="en">Un programa con polémicas, debates, comentarios, jugadas y opiniones sobre el fútbol.(n)</desc>
-    <date>2023</date>
-    <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607484559/230214024511_12522071952.jpg" />
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607484559/230215070512_12522071952.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1353,7 +976,7 @@
     <desc lang="en">El cutarrazo es un programa de opinión deportivo enfocado en el béisbol,.(n)</desc>
     <date>2023</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514836/230214024511_10459903657.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514836/230215070512_10459903657.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1363,16 +986,11 @@
     <desc lang="en">Programa Radial en vivo, con entrevistas, noticias de ámbito nacional e internacional.(n)</desc>
     <date>2021</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12649284749/230214024511_5167836637.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12657140769/230215070512_1380242518.jpg" />
   </programme>
   <programme start="20230216200000 +0100" stop="20230216220000 +0100" channel="RPC HD">
-    <title lang="en">Mundial del barrio RPC</title>
-    <desc lang="en">Busca incentivar el amor por el deporte en menores que se encuentran en riesgo social.(n)</desc>
-    <date>2023</date>
-    <category lang="en">Episode</category>
+    <title lang="en">Mundial del barrio - Clausura</title>
+    <category lang="en">Serie</category>
   </programme>
   <programme start="20230216220000 +0100" stop="20230216230000 +0100" channel="RPC HD">
     <title lang="en">El gordo y la flaca</title>
@@ -1393,7 +1011,7 @@
       <actor>Charytín Goyco</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644851964/230214024511_942405042.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644851964/230215070512_942405042.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1415,189 +1033,219 @@
     </credits>
     <date>2013</date>
     <category lang="en">Movie</category>
-  </programme>
-  <programme start="20230215010000 +0100" stop="20230215020000 +0100" channel="TV MAX HD">
-    <title lang="en">Chicago P.D.</title>
-    <credits>
-      <director>Mark Tinker</director>
-      <actor>Amy Morton</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Archie Kao</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Jason Beghe</actor>
-      <writer>Craig Gore</writer>
-      <writer>Tim Walsh</writer>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652007563/230214040011_7745850795.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607514839/230215070512_11043032224.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215020000 +0100" stop="20230215040000 +0100" channel="TV MAX HD">
-    <title lang="en">Hawaii Five-0</title>
-    <credits>
-      <actor>Alex O'Loughlin</actor>
-      <actor>Scott Caan</actor>
-      <actor>Daniel Dae Kim</actor>
-      <actor>Grace Park</actor>
-      <actor>Jean Smart</actor>
-      <actor>Masi Oka</actor>
-      <actor>Lauren German</actor>
-      <actor>Taylor Wily</actor>
-      <actor>Christine Lahti</actor>
-      <actor>Michelle Borth</actor>
-      <actor>Chi McBride</actor>
-      <actor>Jorge Garcia</actor>
-      <actor>Ian Anthony Dale</actor>
-      <actor>Meaghan Rath</actor>
-      <actor>Beulah Koale</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12600779880/230214040011_10460023531.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215040000 +0100" stop="20230215050000 +0100" channel="TV MAX HD">
-    <title lang="en">Somos la Sele</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604386177/230214040011_11463727322.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215050000 +0100" stop="20230215110000 +0100" channel="TV MAX HD">
-    <title lang="en">Fin de transmisión</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12651909088/230214040011_9227953984.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215110000 +0100" stop="20230215113000 +0100" channel="TV MAX HD">
-    <title lang="en">El camino antiguo</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604260469/230214040011_6400307234.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215113000 +0100" stop="20230215120000 +0100" channel="TV MAX HD">
-    <title lang="en">Visión Cooperativa</title>
-    <desc lang="en">La Visión Cooperativa genera transformaciones profundas en las relaciones humanas. Tiene la fuerza y la legitimidad que le dan los movimientos sociales y se basa, siempre, en la idea del bienestar común.(n)</desc>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604334369/230214040011_10460023531.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215120000 +0100" stop="20230215130000 +0100" channel="TV MAX HD">
-    <title lang="en">Somos la Sele</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604274137/230214040011_9227954732.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215130000 +0100" stop="20230215140000 +0100" channel="TV MAX HD">
-    <title lang="en">Mesa de Periodistas</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604334370/230214040011_12090348968.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215140000 +0100" stop="20230215160000 +0100" channel="TV MAX HD">
-    <title lang="en">NCIS: Los Angeles</title>
-    <credits>
-      <actor>Eric Christian Olsen</actor>
-      <actor>Barrett Foa</actor>
-      <actor>Renée Felice Smith</actor>
-      <actor>Chris O'Donnell</actor>
-      <actor>LL Cool J</actor>
-      <actor>Linda Hunt</actor>
-      <actor>Daniela Ruah</actor>
-      <actor>Peter Cambor</actor>
-      <actor>Adam Jamal Craig</actor>
-      <actor>Miguel Ferrer</actor>
-      <actor>Nia Long</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12640511409/230214040011_12031501001.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215160000 +0100" stop="20230215170000 +0100" channel="TV MAX HD">
-    <title lang="en">Chicago Med</title>
-    <credits>
-      <actor>Rachel DiPillo</actor>
-      <actor>Torrey DeVitto</actor>
-      <actor>Brian Tee</actor>
-      <actor>Colin Donnell</actor>
-      <actor>Nick Gehlfuss</actor>
-      <actor>Yaya DaCosta</actor>
-      <actor>S. Epatha Merkerson</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604350987/230214040011_12031875868.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215170000 +0100" stop="20230215180000 +0100" channel="TV MAX HD">
-    <title lang="en">Chicago P.D.</title>
-    <credits>
-      <director>Mark Tinker</director>
-      <actor>Amy Morton</actor>
-      <actor>Jesse Lee Soffer</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Elias Koteas</actor>
-      <actor>Archie Kao</actor>
-      <actor>LaRoyce Hawkins</actor>
-      <actor>Jason Beghe</actor>
-      <writer>Craig Gore</writer>
-      <writer>Tim Walsh</writer>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604334371/230214040011_10460023531.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215180000 +0100" stop="20230215190000 +0100" channel="TV MAX HD">
-    <title lang="en">Somos la Sele</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652058865/230214040011_9436676289.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215190000 +0100" stop="20230215200000 +0100" channel="TV MAX HD">
-    <title lang="en">Previa: UEFA Champions League</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652014564/230214040011_12604572821.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215200000 +0100" stop="20230215220000 +0100" channel="TV MAX HD">
-    <title lang="en">UEFA Champions League</title>
-    <desc lang="en">Borussia Dortmund (Ale) vs. Chelsea (Ing), Octavos de final - ida, BVB Stadion Dortmund.(n)</desc>
+  <programme start="20230217010000 +0100" stop="20230217020000 +0100" channel="RPC HD">
+    <title lang="en">TBT</title>
+    <desc lang="en">Programa que recopila los mejores skech de chiste.(n)</desc>
     <date>2022</date>
-    <category lang="en">Episode</category>
-  </programme>
-  <programme start="20230215220000 +0100" stop="20230216000000 +0100" channel="TV MAX HD">
-    <title lang="en">Sniper: Assassin End</title>
-    <desc lang="en">Thomas Beckett y su hijo huyen de la CIA, de unos mercenarios rusos y de un asesino yakuza.(n)</desc>
-    <category lang="en">Movie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652148432/230214040011_12031875868.jpg" />
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607541782/230215070512_9007320754.jpg" />
     <rating>
       <value>NR</value>
     </rating>
+  </programme>
+  <programme start="20230217020000 +0100" stop="20230217030000 +0100" channel="RPC HD">
+    <title lang="en">Lo Mejor del Boxeo</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644850348/230215070512_10460533163.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217030000 +0100" stop="20230217040000 +0100" channel="RPC HD">
+    <title lang="en">Series</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12607685603/230215070512_10430796465.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217040000 +0100" stop="20230217050000 +0100" channel="RPC HD">
+    <title lang="en">A la Candela</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849382/230215070512_10646228404.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217050000 +0100" stop="20230217063000 +0100" channel="RPC HD">
+    <title lang="en">Producción nacional</title>
+    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12612547030/230215070512_10646228404.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217063000 +0100" stop="20230217090000 +0100" channel="RPC HD">
+    <title lang="en">Producción nacional</title>
+    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849021/230215070512_10459903657.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217090000 +0100" stop="20230217093000 +0100" channel="RPC HD">
+    <title lang="en">Habla ahora</title>
+    <desc lang="en">Programa Radial en vivo, con entrevistas, noticias de ámbito nacional e internacional.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849383/230215070512_10430796465.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217093000 +0100" stop="20230217103000 +0100" channel="RPC HD">
+    <title lang="en">A la Candela</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644849384/230215070512_10646228404.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217103000 +0100" stop="20230217113000 +0100" channel="RPC HD">
+    <title lang="en">Producción nacional</title>
+    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12652660499/230215070512_11486437986.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217113000 +0100" stop="20230217123000 +0100" channel="RPC HD">
+    <title lang="en">El Reventón radio</title>
+    <desc lang="en">Programa Radial en vivo, con entrevistas, grooveo, desorden, llamadas indiscretas y mucho más.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12612547032/230215070512_10646228404.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217123000 +0100" stop="20230217130000 +0100" channel="RPC HD">
+    <title lang="en">Producción nacional</title>
+    <desc lang="en">Disfruta de contenidos realizados por talentos nacionales, espacios realizados dentro de las fronteras del país.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12612517656/230215070512_10459918668.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217130000 +0100" stop="20230217140000 +0100" channel="RPC HD">
+    <title lang="en">Cuarto Poder</title>
+    <desc lang="en">Verdadero periodismo de investigación. El programa que marca la pauta del acontecer nacional durante la semana. Un indiscutido espacio como referente de independencia y seriedad informativa. Todos los domingos a las 8:00 pm, el programa periodístico con mayor legitimidad de la televisión peruana.(n)</desc>
+    <credits>
+      <actor>Augusto Thorndike</actor>
+      <actor>Sol Carreño</actor>
+      <actor>Jay Fonseca</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12652657200/230215070512_10646130008.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217140000 +0100" stop="20230217170000 +0100" channel="RPC HD">
+    <title lang="en">El Brunch</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12652662935/230215070512_10430796465.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217170000 +0100" stop="20230217180000 +0100" channel="RPC HD">
+    <title lang="en">A la Candela</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12612547033/230215070512_12522071952.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217180000 +0100" stop="20230217190000 +0100" channel="RPC HD">
+    <title lang="en">El cutarrazo</title>
+    <desc lang="en">El cutarrazo es un programa de opinión deportivo enfocado en el béisbol,.(n)</desc>
+    <date>2023</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12612533081/230215070512_10459903657.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217190000 +0100" stop="20230217200000 +0100" channel="RPC HD">
+    <title lang="en">Habla ahora</title>
+    <desc lang="en">Programa Radial en vivo, con entrevistas, noticias de ámbito nacional e internacional.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12612517657/230215070512_7799955424.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217200000 +0100" stop="20230217210000 +0100" channel="RPC HD">
+    <title lang="en">Primer impacto</title>
+    <credits>
+      <actor>Pamela Silva Conde</actor>
+      <actor>Bárbara Bermudo</actor>
+      <actor>Tony Dandrades</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12644852789/230215070512_11965933178.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217210000 +0100" stop="20230217220000 +0100" channel="RPC HD">
+    <title lang="en">¡Siéntese quien pueda!</title>
+    <desc lang="en">El primer reality show en el que participarán periodistas y miembros de la farándula comentando y armando polémica sobre las noticias más actuales de ese medio y la cultura pop.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Other</category>
+  </programme>
+  <programme start="20230217220000 +0100" stop="20230217223000 +0100" channel="RPC HD">
+    <title lang="en">El gordo y la flaca</title>
+    <credits>
+      <director>Dominic Martinez</director>
+      <actor>Raúl de Molina</actor>
+      <actor>Lili Estefan</actor>
+      <actor>Tony Dandrades</actor>
+      <actor>Alfredo Adame</actor>
+      <actor>Carlos Calderón</actor>
+      <actor>Ilan Arditti</actor>
+      <actor>Ana Maria Canseco</actor>
+      <actor>Sergio Mayer</actor>
+      <actor>Adriana Cataño</actor>
+      <actor>Bobby Larios</actor>
+      <actor>Abraham Ramos</actor>
+      <actor>Fabián Lavalle</actor>
+      <actor>Charytín Goyco</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/RPCHD/default/12647812330/230215070512_5805546941.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217223000 +0100" stop="20230218004500 +0100" channel="RPC HD">
+    <title lang="en">Soldado universal 3</title>
+    <desc lang="en">Basayev, un enloquecido nacionalista checheno, cree tener el control de la central nuclear rusa.(n)</desc>
+    <credits>
+      <actor>Kerry Shale</actor>
+      <actor>Aki Avni</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Garry Cooper</actor>
+      <writer>Christopher Leitch</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movie</category>
   </programme>
   <programme start="20230216000000 +0100" stop="20230216010000 +0100" channel="TV MAX HD">
     <title lang="en">Chicago P.D.</title>
@@ -1614,7 +1262,7 @@
       <writer>Tim Walsh</writer>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652014565/230214040011_12604572821.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12657040563/230215075012_12604572821.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1624,7 +1272,7 @@
     <desc lang="en">Borussia Dortmund (Ale) vs. Chelsea (Ing), Octavos de final - ida, BVB Stadion Dortmund.(n)</desc>
     <date>2022</date>
     <category lang="en">Episode</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604323769/230214040011_11479266141.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604323769/230215075012_11479266141.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1632,7 +1280,7 @@
   <programme start="20230216030000 +0100" stop="20230216040000 +0100" channel="TV MAX HD">
     <title lang="en">Music</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604334373/230214040011_10460023531.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12604334373/230215075012_10460023531.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1640,7 +1288,7 @@
   <programme start="20230216040000 +0100" stop="20230216050000 +0100" channel="TV MAX HD">
     <title lang="en">Somos la Sele</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607686705/230214040011_11463727322.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607686705/230215075012_11463727322.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1648,7 +1296,7 @@
   <programme start="20230216050000 +0100" stop="20230216110000 +0100" channel="TV MAX HD">
     <title lang="en">Fin de transmisión</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12651909089/230214040011_9227953984.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12651909089/230215075012_9227953984.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1656,7 +1304,7 @@
   <programme start="20230216110000 +0100" stop="20230216113000 +0100" channel="TV MAX HD">
     <title lang="en">El camino antiguo</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607491934/230214040011_6400307234.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607491934/230215075012_6400307234.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1665,7 +1313,7 @@
     <title lang="en">Visión Cooperativa</title>
     <desc lang="en">La Visión Cooperativa genera transformaciones profundas en las relaciones humanas. Tiene la fuerza y la legitimidad que le dan los movimientos sociales y se basa, siempre, en la idea del bienestar común.(n)</desc>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607715923/230214040011_10460023531.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607715923/230215075012_10460023531.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1673,7 +1321,7 @@
   <programme start="20230216120000 +0100" stop="20230216130000 +0100" channel="TV MAX HD">
     <title lang="en">Somos la Sele</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607519583/230214040011_9227954732.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607519583/230215075012_9227954732.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1681,7 +1329,7 @@
   <programme start="20230216130000 +0100" stop="20230216140000 +0100" channel="TV MAX HD">
     <title lang="en">Mesa de Periodistas</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607647155/230214040011_12090348968.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607647155/230215075012_12090348968.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1702,7 +1350,7 @@
       <actor>Nia Long</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12640511410/230214040011_12031501001.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12640511410/230215075012_12031501001.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1719,7 +1367,7 @@
       <actor>S. Epatha Merkerson</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607549946/230214040011_12031875868.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607549946/230215075012_12031875868.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1739,7 +1387,7 @@
       <writer>Tim Walsh</writer>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652122764/230214040011_10460023531.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652122764/230215075012_10460023531.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1747,7 +1395,7 @@
   <programme start="20230216180000 +0100" stop="20230216210000 +0100" channel="TV MAX HD">
     <title lang="en">Somos la Sele</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652126339/230214040011_10646724226.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652126339/230215075012_10646724226.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -1777,324 +1425,196 @@
     </credits>
     <date>1982</date>
     <category lang="en">Movie</category>
-  </programme>
-  <programme start="20230215010000 +0100" stop="20230215020000 +0100" channel="SER TV">
-    <title lang="en">Hablemos de...</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12642043081/230214061011_11482076423.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652148433/230215075012_12031875868.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215020000 +0100" stop="20230215030000 +0100" channel="SER TV">
-    <title lang="en">Recordar es vivir</title>
+  <programme start="20230217000000 +0100" stop="20230217020000 +0100" channel="TV MAX HD">
+    <title lang="en">Chicago P.D.</title>
     <credits>
-      <actor>Pete Romero</actor>
+      <director>Mark Tinker</director>
+      <actor>Amy Morton</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Archie Kao</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Jason Beghe</actor>
+      <writer>Craig Gore</writer>
+      <writer>Tim Walsh</writer>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12642043082/230214061011_1328861332.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652007564/230215075012_7745850795.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215030000 +0100" stop="20230215033000 +0100" channel="SER TV">
-    <title lang="en">Cultura.21</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12600761367/230214061011_1555857046.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215033000 +0100" stop="20230215043000 +0100" channel="SER TV">
-    <title lang="en">Europa en concierto</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12600619522/230214061011_10980825870.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215043000 +0100" stop="20230215050000 +0100" channel="SER TV">
-    <title lang="en">Tópico de la Pantalla Japonesa</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604373868/230214061011_10646094402.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215050000 +0100" stop="20230215050500 +0100" channel="SER TV">
-    <title lang="en">Himno Nacional</title>
-    <desc lang="en">Himno Nacional de la República de Panamá.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604313127/230214061011_10654554768.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215050500 +0100" stop="20230215053000 +0100" channel="SER TV">
-    <title lang="en">Pobladores</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604377918/230214061011_10459938150.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215053000 +0100" stop="20230215060000 +0100" channel="SER TV">
-    <title lang="en">De los dioses, el maíz</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604313847/230214061011_10389028891.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215060000 +0100" stop="20230215070000 +0100" channel="SER TV">
-    <title lang="en">Atlántico Sur</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604361782/230214061011_10460025611.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215070000 +0100" stop="20230215073000 +0100" channel="SER TV">
-    <title lang="en">Noticiero Científico y Cultural Iberoamericano NCC</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604249641/230214061011_10980825870.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215073000 +0100" stop="20230215080000 +0100" channel="SER TV">
-    <title lang="en">Tópico de la Pantalla Japonesa</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604379796/230214061011_10460334431.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215080000 +0100" stop="20230215083000 +0100" channel="SER TV">
-    <title lang="en">Comamos México</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604321459/230214061011_10654605051.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215083000 +0100" stop="20230215090000 +0100" channel="SER TV">
-    <title lang="en">A viva voz</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604351051/230214061011_12192460626.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215090000 +0100" stop="20230215093000 +0100" channel="SER TV">
-    <title lang="en">Complices</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604373916/230214061011_9213320679.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215093000 +0100" stop="20230215100000 +0100" channel="SER TV">
-    <title lang="en">Arte esquina con</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604362040/230214061011_11482076423.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215100000 +0100" stop="20230215110000 +0100" channel="SER TV">
-    <title lang="en">Recordar es vivir</title>
+  <programme start="20230217020000 +0100" stop="20230217040000 +0100" channel="TV MAX HD">
+    <title lang="en">Hawaii Five-0</title>
     <credits>
-      <actor>Pete Romero</actor>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Grace Park</actor>
+      <actor>Jean Smart</actor>
+      <actor>Masi Oka</actor>
+      <actor>Lauren German</actor>
+      <actor>Taylor Wily</actor>
+      <actor>Christine Lahti</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Chi McBride</actor>
+      <actor>Jorge Garcia</actor>
+      <actor>Ian Anthony Dale</actor>
+      <actor>Meaghan Rath</actor>
+      <actor>Beulah Koale</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644045868/230214061011_10460453546.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12607715925/230215075012_10460023531.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215110000 +0100" stop="20230215110500 +0100" channel="SER TV">
-    <title lang="en">Himno nacional / Identificación de planta</title>
-    <date>2017</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604313271/230214061011_11480025799.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215110500 +0100" stop="20230215130000 +0100" channel="SER TV">
-    <title lang="en">Noticiero matutino - SerTV</title>
+  <programme start="20230217040000 +0100" stop="20230217050000 +0100" channel="TV MAX HD">
+    <title lang="en">Somos la Sele</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604313060/230214061011_10647019808.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12612800420/230215075012_11463727322.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215130000 +0100" stop="20230215133000 +0100" channel="SER TV">
-    <title lang="en">Reporte climatico</title>
-    <desc lang="en">Reporte semanal sobre cambio climático con un enfoque de periodismo.(n)</desc>
-    <date>2021</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604351483/230214061011_6192919040.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215133000 +0100" stop="20230215140000 +0100" channel="SER TV">
-    <title lang="en">Naturaleza Humana</title>
+  <programme start="20230217050000 +0100" stop="20230217110000 +0100" channel="TV MAX HD">
+    <title lang="en">Fin de transmisión</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604340479/230214061011_1516484023.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12651909090/230215075012_9227953984.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215140000 +0100" stop="20230215143000 +0100" channel="SER TV">
-    <title lang="en">Kioka</title>
+  <programme start="20230217110000 +0100" stop="20230217113000 +0100" channel="TV MAX HD">
+    <title lang="en">El camino antiguo</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604314492/230214061011_10972626283.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12612536435/230215075012_6400307234.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215143000 +0100" stop="20230215150000 +0100" channel="SER TV">
-    <title lang="en">Animal Fanpedia</title>
+  <programme start="20230217113000 +0100" stop="20230217120000 +0100" channel="TV MAX HD">
+    <title lang="en">Visión Cooperativa</title>
+    <desc lang="en">La Visión Cooperativa genera transformaciones profundas en las relaciones humanas. Tiene la fuerza y la legitimidad que le dan los movimientos sociales y se basa, siempre, en la idea del bienestar común.(n)</desc>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604319272/230214061011_5832446395.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12612584118/230215075012_10460023531.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215150000 +0100" stop="20230215153000 +0100" channel="SER TV">
-    <title lang="en">Rescate animal</title>
+  <programme start="20230217120000 +0100" stop="20230217130000 +0100" channel="TV MAX HD">
+    <title lang="en">Somos la Sele</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604385636/230214061011_3988309490.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12612515222/230215075012_9227954732.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215153000 +0100" stop="20230215160000 +0100" channel="SER TV">
-    <title lang="en">La mesa amarilla</title>
+  <programme start="20230217130000 +0100" stop="20230217140000 +0100" channel="TV MAX HD">
+    <title lang="en">Mesa de Periodistas</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604377489/230214061011_3451259328.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12612640880/230215075012_12090348968.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215160000 +0100" stop="20230215163000 +0100" channel="SER TV">
-    <title lang="en">La lleva México</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604338041/230214061011_6145901026.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215163000 +0100" stop="20230215170000 +0100" channel="SER TV">
-    <title lang="en">El Mundo Es Tuyo</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604280580/230214061011_11480025799.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215170000 +0100" stop="20230215180000 +0100" channel="SER TV">
-    <title lang="en">SerTV noticias - Edición mediodía</title>
-    <desc lang="en">Resumen de las noticias más relevantes relacionadas a los diferentes ámbitos del acontecer diario de Panamá, haciendo un énfasis en aquellos que más impacto han generado durante la jornada.(n)</desc>
-    <date>2015</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604350966/230214061011_10646101840.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215180000 +0100" stop="20230215183000 +0100" channel="SER TV">
-    <title lang="en">Mi gente</title>
-    <date>2018</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644353461/230214061011_1209808313.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215183000 +0100" stop="20230215190000 +0100" channel="SER TV">
-    <title lang="en">Global 3000</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604325176/230214061011_10349073677.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215190000 +0100" stop="20230215193000 +0100" channel="SER TV">
-    <title lang="en">Una cancha llamada Medellin</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604351233/230214061011_6192919040.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215193000 +0100" stop="20230215200000 +0100" channel="SER TV">
-    <title lang="en">Naturaleza Humana</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604370632/230214061011_1226518317.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215200000 +0100" stop="20230215201500 +0100" channel="SER TV">
-    <title lang="en">Tayo</title>
+  <programme start="20230217140000 +0100" stop="20230217160000 +0100" channel="TV MAX HD">
+    <title lang="en">NCIS: Los Angeles</title>
     <credits>
-      <director>Sylvianne Chebance</director>
-      <actor>Patricia Kalis</actor>
-      <actor>Jul Kohler</actor>
-      <writer>Franciska Friede</writer>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>LL Cool J</actor>
+      <actor>Linda Hunt</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Peter Cambor</actor>
+      <actor>Adam Jamal Craig</actor>
+      <actor>Miguel Ferrer</actor>
+      <actor>Nia Long</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604358202/230214061011_9594863377.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12640511411/230215075012_12031501001.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215201500 +0100" stop="20230215203000 +0100" channel="SER TV">
-    <title lang="en">Hazlo en casa</title>
-    <date>2020</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644439676/230214061011_12644479188.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215203000 +0100" stop="20230215213000 +0100" channel="SER TV">
-    <title lang="en">Historias de Amor de Fukuoka</title>
+  <programme start="20230217160000 +0100" stop="20230217170000 +0100" channel="TV MAX HD">
+    <title lang="en">Chicago Med</title>
+    <credits>
+      <actor>Rachel DiPillo</actor>
+      <actor>Torrey DeVitto</actor>
+      <actor>Brian Tee</actor>
+      <actor>Colin Donnell</actor>
+      <actor>Nick Gehlfuss</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>S. Epatha Merkerson</actor>
+    </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604375473/230214061011_8994042051.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12612813956/230215075012_12031875868.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215213000 +0100" stop="20230215220000 +0100" channel="SER TV">
-    <title lang="en">Agrocultura</title>
+  <programme start="20230217170000 +0100" stop="20230217180000 +0100" channel="TV MAX HD">
+    <title lang="en">Chicago P.D.</title>
+    <credits>
+      <director>Mark Tinker</director>
+      <actor>Amy Morton</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Elias Koteas</actor>
+      <actor>Archie Kao</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Jason Beghe</actor>
+      <writer>Craig Gore</writer>
+      <writer>Tim Walsh</writer>
+    </credits>
     <category lang="en">Serie</category>
-  </programme>
-  <programme start="20230215220000 +0100" stop="20230215230000 +0100" channel="SER TV">
-    <title lang="en">Emprendedores</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644134587/230214061011_11263996903.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652122765/230215075012_10460023531.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215230000 +0100" stop="20230216010000 +0100" channel="SER TV">
-    <title lang="en">Noticiero estelar - SerTV</title>
+  <programme start="20230217180000 +0100" stop="20230217210000 +0100" channel="TV MAX HD">
+    <title lang="en">Somos la Sele</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604374097/230214061011_11486946760.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TVMAXHD/default/12652126340/230215075012_10646724226.jpg" />
     <rating>
       <value>NR</value>
     </rating>
+  </programme>
+  <programme start="20230217210000 +0100" stop="20230217220000 +0100" channel="TV MAX HD">
+    <title lang="en">Chicago Fire</title>
+    <category lang="en">Serie</category>
+  </programme>
+  <programme start="20230217220000 +0100" stop="20230218000000 +0100" channel="TV MAX HD">
+    <title lang="en">Stomp the Yard</title>
+    <credits>
+      <director>Sylvain White</director>
+      <actor>Sway Calloway</actor>
+      <actor>Columbus Short</actor>
+      <actor>Roxanne Mims</actor>
+      <actor>Oliver Ryan Best</actor>
+      <actor>DJ Drama</actor>
+      <actor>Christine Horn</actor>
+      <writer>Sylvain White</writer>
+      <writer>Robert Adetuyi</writer>
+      <writer>Gregory Ramon Anderson</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Movie</category>
   </programme>
   <programme start="20230216010000 +0100" stop="20230216020000 +0100" channel="SER TV">
     <title lang="en">Raíces</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604362509/230214061011_11482076423.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604362509/230215115012_11482076423.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2105,7 +1625,7 @@
       <actor>Pete Romero</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604375291/230214061011_9172787098.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604375291/230215115012_9172787098.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2113,7 +1633,7 @@
   <programme start="20230216030000 +0100" stop="20230216033000 +0100" channel="SER TV">
     <title lang="en">Euromaxx</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604331571/230214061011_9389526384.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604331571/230215115012_9389526384.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2121,7 +1641,7 @@
   <programme start="20230216033000 +0100" stop="20230216040000 +0100" channel="SER TV">
     <title lang="en">NCC Salud</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604313596/230214061011_11478390803.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12604313596/230215115012_11478390803.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2129,7 +1649,7 @@
   <programme start="20230216040000 +0100" stop="20230216043000 +0100" channel="SER TV">
     <title lang="en">Transformándonos</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12642043085/230214061011_10460568905.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12657140463/230215115012_10460568905.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2139,7 +1659,7 @@
     <desc lang="en">Un programa educativo sobre ecología y que trata las problemáticas del medioambiente y busca soluciones para mejorarlas.(n)</desc>
     <date>2008</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607608941/230214061011_10646094402.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607608941/230215115012_10646094402.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2149,7 +1669,7 @@
     <desc lang="en">Himno Nacional de la República de Panamá.(n)</desc>
     <date>2017</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607656343/230214061011_9411244147.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607656343/230215115012_9411244147.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2157,7 +1677,7 @@
   <programme start="20230216050500 +0100" stop="20230216053000 +0100" channel="SER TV">
     <title lang="en">Un gol al arcoiris</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607707954/230214061011_10654605051.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607707954/230215115012_10654605051.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2165,7 +1685,7 @@
   <programme start="20230216053000 +0100" stop="20230216060000 +0100" channel="SER TV">
     <title lang="en">A viva voz</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607597467/230214061011_4436430325.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607597467/230215115012_4436430325.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2175,7 +1695,7 @@
     <desc lang="en">Dos jóvenes chefs guatemaltecos, graduados de las mejores escuelas profesionales, emprenden un viaje por su país buscando los ingredientes y sabores más destacados.La aventura que emprenden los lleva a establecer lazos de solidaridad que no conocen barreras. A partir de recetas tradicionales, crean y revitalizan la cultura culinaria universal.(n)</desc>
     <date>2021</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607695682/230214061011_10647019808.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607695682/230215115012_10647019808.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2185,7 +1705,7 @@
     <desc lang="en">Reporte semanal sobre cambio climático con un enfoque de periodismo.(n)</desc>
     <date>2021</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607619755/230214061011_1726903984.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607619755/230215115012_1726903984.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2193,7 +1713,7 @@
   <programme start="20230216070000 +0100" stop="20230216073000 +0100" channel="SER TV">
     <title lang="en">Yo soy hecho en Ecuador</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607619649/230214061011_12500769764.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607619649/230215115012_12500769764.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2205,7 +1725,7 @@
       <actor>Ron Hazelton</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607609068/230214061011_10460120981.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607609068/230215115012_10460120981.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2215,7 +1735,7 @@
     <desc lang="en">Tenemos como principal argumento la frase de Hipócrates; \.(n)</desc>
     <date>2018</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607672491/230214061011_11486705427.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607672491/230215115012_11486705427.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2224,7 +1744,7 @@
     <title lang="en">Sobrevivientes</title>
     <date>2013</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607539434/230214061011_10655289397.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607539434/230215115012_10655289397.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2232,7 +1752,7 @@
   <programme start="20230216090000 +0100" stop="20230216093000 +0100" channel="SER TV">
     <title lang="en">Grandeza de México</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607579850/230214061011_11915328305.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607579850/230215115012_11915328305.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2240,7 +1760,7 @@
   <programme start="20230216093000 +0100" stop="20230216100000 +0100" channel="SER TV">
     <title lang="en">Yo también soy mexicano</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607695908/230214061011_10647019808.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607695908/230215115012_10647019808.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2250,7 +1770,7 @@
     <desc lang="en">Reporte semanal sobre cambio climático con un enfoque de periodismo.(n)</desc>
     <date>2021</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607570570/230214061011_10460023481.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607570570/230215115012_10460023481.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2258,7 +1778,7 @@
   <programme start="20230216103000 +0100" stop="20230216110000 +0100" channel="SER TV">
     <title lang="en">Todo lo que sé</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644045854/230214061011_10460453546.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644045854/230215115012_10460453546.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2267,7 +1787,7 @@
     <title lang="en">Himno nacional / Identificación de planta</title>
     <date>2017</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607579225/230214061011_11480025799.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607579225/230215115012_11480025799.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2275,7 +1795,7 @@
   <programme start="20230216110500 +0100" stop="20230216130000 +0100" channel="SER TV">
     <title lang="en">Noticiero matutino - SerTV</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607545227/230214061011_4460178850.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607545227/230215115012_4460178850.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2283,7 +1803,7 @@
   <programme start="20230216130000 +0100" stop="20230216133000 +0100" channel="SER TV">
     <title lang="en">En forma</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607635926/230214061011_6192919040.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607635926/230215115012_6192919040.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2291,7 +1811,7 @@
   <programme start="20230216133000 +0100" stop="20230216140000 +0100" channel="SER TV">
     <title lang="en">Naturaleza Humana</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607662996/230214061011_10950975658.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607662996/230215115012_10950975658.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2299,7 +1819,7 @@
   <programme start="20230216140000 +0100" stop="20230216143000 +0100" channel="SER TV">
     <title lang="en">Meteo héroes</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607540711/230214061011_7575028096.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607540711/230215115012_7575028096.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2307,7 +1827,7 @@
   <programme start="20230216143000 +0100" stop="20230216150000 +0100" channel="SER TV">
     <title lang="en">Planeta de Niños</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607680486/230214061011_9411337162.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607680486/230215115012_9411337162.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2315,7 +1835,7 @@
   <programme start="20230216150000 +0100" stop="20230216153000 +0100" channel="SER TV">
     <title lang="en">Eureka</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607569226/230214061011_10439153649.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607569226/230215115012_10439153649.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2323,7 +1843,7 @@
   <programme start="20230216153000 +0100" stop="20230216160000 +0100" channel="SER TV">
     <title lang="en">La ciencia nos cambió</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644366223/230214061011_4706435526.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644366223/230215115012_4706435526.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2331,7 +1851,7 @@
   <programme start="20230216160000 +0100" stop="20230216163000 +0100" channel="SER TV">
     <title lang="en">Mis juegos</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607590632/230214061011_5103720507.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607590632/230215115012_5103720507.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2343,7 +1863,7 @@
       <actor>Danae Vázquez</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607470337/230214061011_11480025799.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607470337/230215115012_11480025799.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2353,7 +1873,7 @@
     <desc lang="en">Resumen de las noticias más relevantes relacionadas a los diferentes ámbitos del acontecer diario de Panamá, haciendo un énfasis en aquellos que más impacto han generado durante la jornada.(n)</desc>
     <date>2015</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607570397/230214061011_10460023481.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607570397/230215115012_10460023481.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2361,7 +1881,7 @@
   <programme start="20230216180000 +0100" stop="20230216183000 +0100" channel="SER TV">
     <title lang="en">Todo lo que sé</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607630736/230214061011_11479843737.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607630736/230215115012_11479843737.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2369,7 +1889,7 @@
   <programme start="20230216183000 +0100" stop="20230216190000 +0100" channel="SER TV">
     <title lang="en">Eco Latinoamérica</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12534503499/230214061011_10459946857.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12534503499/230215115012_10459946857.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2377,7 +1897,7 @@
   <programme start="20230216190000 +0100" stop="20230216193000 +0100" channel="SER TV">
     <title lang="en">Mentes curiosas</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607554090/230214061011_5832446395.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607554090/230215115012_5832446395.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2385,7 +1905,7 @@
   <programme start="20230216193000 +0100" stop="20230216200000 +0100" channel="SER TV">
     <title lang="en">Rescate animal</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607586751/230214061011_6145901026.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607586751/230215115012_6145901026.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2393,7 +1913,7 @@
   <programme start="20230216200000 +0100" stop="20230216203000 +0100" channel="SER TV">
     <title lang="en">El Mundo Es Tuyo</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644439678/230214061011_12644479188.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644439678/230215115012_12644479188.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2401,7 +1921,7 @@
   <programme start="20230216203000 +0100" stop="20230216213000 +0100" channel="SER TV">
     <title lang="en">Historias de Amor de Fukuoka</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607627125/230214061011_10459938150.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607627125/230215115012_10459938150.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2413,7 +1933,7 @@
   <programme start="20230216220000 +0100" stop="20230216223000 +0100" channel="SER TV">
     <title lang="en">Enlaces</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12642043088/230214061011_9389526384.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12642043088/230215115012_9389526384.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2421,7 +1941,7 @@
   <programme start="20230216223000 +0100" stop="20230216230000 +0100" channel="SER TV">
     <title lang="en">NCC Salud</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607604870/230214061011_11263996903.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607604870/230215115012_11263996903.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2429,152 +1949,363 @@
   <programme start="20230216230000 +0100" stop="20230217010000 +0100" channel="SER TV">
     <title lang="en">Noticiero estelar - SerTV</title>
     <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12657140464/230215115012_11627755848.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
   </programme>
-  <programme start="20230215000000 +0100" stop="20230215003000 +0100" channel="OYE TV">
-    <title lang="en">Oyeland</title>
+  <programme start="20230217010000 +0100" stop="20230217020000 +0100" channel="SER TV">
+    <title lang="en">Hablemos de...</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12600645889/230214073512_11207070298.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12642043089/230215115012_12500769764.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215003000 +0100" stop="20230215010000 +0100" channel="OYE TV">
-    <title lang="en">AR7</title>
-    <date>2022</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12600754871/230214073512_12467989224.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215010000 +0100" stop="20230215020000 +0100" channel="OYE TV">
-    <title lang="en">Copytaste</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12600726454/230214073512_11184290876.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215020000 +0100" stop="20230215030000 +0100" channel="OYE TV">
-    <title lang="en">Entre Nosotras</title>
+  <programme start="20230217020000 +0100" stop="20230217023000 +0100" channel="SER TV">
+    <title lang="en">Manos a la Obra</title>
+    <desc lang="en">Serie que detalla la historia de grandes creaciones tecnológicas y perfila a sus innovadores.(n)</desc>
     <credits>
-      <actor>Irma Ribbon</actor>
-      <actor>Guadalupe Alcocer</actor>
-      <actor>Patty Nieves</actor>
+      <actor>Ron Hazelton</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12600651193/230214073512_12549028579.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607668681/230215115012_10460025611.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215030000 +0100" stop="20230215040000 +0100" channel="OYE TV">
-    <title lang="en">Debate y punto</title>
-    <date>2023</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12600848032/230214073512_10459850840.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215040000 +0100" stop="20230215070000 +0100" channel="OYE TV">
-    <title lang="en">Oyeland</title>
+  <programme start="20230217023000 +0100" stop="20230217030000 +0100" channel="SER TV">
+    <title lang="en">Noticiero Científico y Cultural Iberoamericano NCC</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604290615/230214073512_10459903594.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607598385/230215115012_4260862675.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215070000 +0100" stop="20230215105700 +0100" channel="OYE TV">
-    <title lang="en">Insomnia</title>
+  <programme start="20230217030000 +0100" stop="20230217033000 +0100" channel="SER TV">
+    <title lang="en">Visión Futuro</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604376303/230214073512_10646094402.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12607694858/230215115012_8994042051.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215105700 +0100" stop="20230215110000 +0100" channel="OYE TV">
+  <programme start="20230217033000 +0100" stop="20230217040000 +0100" channel="SER TV">
+    <title lang="en">Agrocultura</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644135553/230215115012_10981804574.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217040000 +0100" stop="20230217050000 +0100" channel="SER TV">
+    <title lang="en">Sonido bestial</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612695505/230215115012_10646094402.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217050000 +0100" stop="20230217050500 +0100" channel="SER TV">
     <title lang="en">Himno Nacional</title>
     <desc lang="en">Himno Nacional de la República de Panamá.(n)</desc>
     <date>2017</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604366926/230214073512_10459850840.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612686437/230215115012_10654554768.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215110000 +0100" stop="20230215160000 +0100" channel="OYE TV">
-    <title lang="en">Oyeland</title>
+  <programme start="20230217050500 +0100" stop="20230217053000 +0100" channel="SER TV">
+    <title lang="en">Pobladores</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652642753/230214073512_12549028579.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612548812/230215115012_10442535217.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215160000 +0100" stop="20230215170000 +0100" channel="OYE TV">
-    <title lang="en">Debate y punto</title>
-    <date>2023</date>
+  <programme start="20230217053000 +0100" stop="20230217060000 +0100" channel="SER TV">
+    <title lang="en">Ciencia a la carta</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612695261/230215115012_11551960629.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217060000 +0100" stop="20230217063000 +0100" channel="SER TV">
+    <title lang="en">Héroes anónimos</title>
+    <desc lang="en">Reportaje de investigación presentado por Iñaki Lopez.(n)</desc>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612610311/230215115012_11481278445.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217063000 +0100" stop="20230217070000 +0100" channel="SER TV">
+    <title lang="en">Por el mundo entro a mi casa</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612709818/230215115012_1726903984.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217070000 +0100" stop="20230217073000 +0100" channel="SER TV">
+    <title lang="en">Yo soy hecho en Ecuador</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612523472/230215115012_10980825870.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217073000 +0100" stop="20230217080000 +0100" channel="SER TV">
+    <title lang="en">Tópico de la Pantalla Japonesa</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612673213/230215115012_10460290221.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217080000 +0100" stop="20230217083000 +0100" channel="SER TV">
+    <title lang="en">Bitácora urbana</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612589829/230215115012_11486705427.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217083000 +0100" stop="20230217090000 +0100" channel="SER TV">
+    <title lang="en">Sobrevivientes</title>
+    <date>2013</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652684588/230214073512_12467989224.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612673233/230215115012_11809586593.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215170000 +0100" stop="20230215180000 +0100" channel="OYE TV">
-    <title lang="en">Copytaste</title>
+  <programme start="20230217090000 +0100" stop="20230217100000 +0100" channel="SER TV">
+    <title lang="en">Código verde</title>
+    <desc lang="en">Programa televisivo ambiental, conducido por el investigador ambiental Agustín Del Castillo y la ambientalista María Del Rayo. En este espacio, se aborda la problemática de la contaminación ambiental, reflejada en la vida cotidiana. Además, se analizan las causas desde un una perspectiva académica y periodística.(n)</desc>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652695020/230214073512_11184290876.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612589682/230215115012_11481278424.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215180000 +0100" stop="20230215190000 +0100" channel="OYE TV">
-    <title lang="en">Entre Nosotras</title>
+  <programme start="20230217100000 +0100" stop="20230217103000 +0100" channel="SER TV">
+    <title lang="en">Ecos de la tierra</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612593083/230215115012_11478390803.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217103000 +0100" stop="20230217110000 +0100" channel="SER TV">
+    <title lang="en">Transformándonos</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644045848/230215115012_10460453546.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217110000 +0100" stop="20230217110500 +0100" channel="SER TV">
+    <title lang="en">Himno nacional / Identificación de planta</title>
+    <date>2017</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612697197/230215115012_11480025799.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217110500 +0100" stop="20230217130000 +0100" channel="SER TV">
+    <title lang="en">Noticiero matutino - SerTV</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644290549/230215115012_10460494312.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217130000 +0100" stop="20230217133000 +0100" channel="SER TV">
+    <title lang="en">Sociedad animal</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612676616/230215115012_6192919040.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217133000 +0100" stop="20230217140000 +0100" channel="SER TV">
+    <title lang="en">Naturaleza Humana</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612614976/230215115012_1516484023.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217140000 +0100" stop="20230217143000 +0100" channel="SER TV">
+    <title lang="en">Kioka</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612679143/230215115012_11654638858.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217143000 +0100" stop="20230217150000 +0100" channel="SER TV">
+    <title lang="en">Pororo</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612590284/230215115012_5832446395.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217150000 +0100" stop="20230217153000 +0100" channel="SER TV">
+    <title lang="en">Rescate animal</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612605904/230215115012_3988309490.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217153000 +0100" stop="20230217160000 +0100" channel="SER TV">
+    <title lang="en">La mesa amarilla</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644140168/230215115012_1071737230.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217160000 +0100" stop="20230217163000 +0100" channel="SER TV">
+    <title lang="en">¡Que gran idea! Pequeños con Talentos</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612669287/230215115012_6145901026.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217163000 +0100" stop="20230217170000 +0100" channel="SER TV">
+    <title lang="en">El Mundo Es Tuyo</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612526308/230215115012_11480025799.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217170000 +0100" stop="20230217180000 +0100" channel="SER TV">
+    <title lang="en">SerTV noticias - Edición mediodía</title>
+    <desc lang="en">Resumen de las noticias más relevantes relacionadas a los diferentes ámbitos del acontecer diario de Panamá, haciendo un énfasis en aquellos que más impacto han generado durante la jornada.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612752572/230215115012_11480183288.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217180000 +0100" stop="20230217183000 +0100" channel="SER TV">
+    <title lang="en">Agro al día</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612695481/230215115012_8458146196.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217183000 +0100" stop="20230217190000 +0100" channel="SER TV">
+    <title lang="en">¡Escápate!</title>
     <credits>
-      <actor>Irma Ribbon</actor>
-      <actor>Guadalupe Alcocer</actor>
-      <actor>Patty Nieves</actor>
+      <actor>Lukas Stege</actor>
+      <actor>Nicole Frölich</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604366927/230214073512_10459850840.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612553219/230215115012_12509888253.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215190000 +0100" stop="20230215200000 +0100" channel="OYE TV">
-    <title lang="en">Oyeland</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604308554/230214073512_11184290069.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215200000 +0100" stop="20230215210000 +0100" channel="OYE TV">
-    <title lang="en">Oye - Las Top 1</title>
+  <programme start="20230217190000 +0100" stop="20230217193000 +0100" channel="SER TV">
+    <title lang="en">Restauradores - Los guardianes de la historia</title>
+    <desc lang="en">Una serie que sigue las historias de restauración en el arte del estado mexicano de Jalisc.(n)</desc>
     <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604366928/230214073512_10459850840.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612676632/230215115012_6192919040.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215210000 +0100" stop="20230215230000 +0100" channel="OYE TV">
-    <title lang="en">Oyeland</title>
+  <programme start="20230217193000 +0100" stop="20230217200000 +0100" channel="SER TV">
+    <title lang="en">Naturaleza Humana</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612646242/230215115012_1226518317.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217200000 +0100" stop="20230217201500 +0100" channel="SER TV">
+    <title lang="en">Tayo</title>
+    <credits>
+      <director>Sylvianne Chebance</director>
+      <actor>Patricia Kalis</actor>
+      <actor>Jul Kohler</actor>
+      <writer>Franciska Friede</writer>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612660526/230215115012_10972626283.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217201500 +0100" stop="20230217203000 +0100" channel="SER TV">
+    <title lang="en">Animal Fanpedia</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12644329011/230215115012_9571453736.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217203000 +0100" stop="20230217210000 +0100" channel="SER TV">
+    <title lang="en">De rebote</title>
+    <desc lang="en">Un espacio infantil que busca la reflexión de los niños de entre 6 y 12 años. Sus comentarios sobre temas cotidianos nos muestran cómo perciben los fenómenos sociales de acuerdo a su nivel de comprensión.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612732760/230215115012_10460334431.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217210000 +0100" stop="20230217213000 +0100" channel="SER TV">
+    <title lang="en">Comamos México</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612715951/230215115012_12134953897.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217213000 +0100" stop="20230217220000 +0100" channel="SER TV">
+    <title lang="en">Una de Amor</title>
     <category lang="en">Serie</category>
   </programme>
-  <programme start="20230215230000 +0100" stop="20230216000000 +0100" channel="OYE TV">
-    <title lang="en">Debate y punto</title>
-    <date>2023</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604366929/230214073512_10459850840.jpg" />
+  <programme start="20230217220000 +0100" stop="20230217223000 +0100" channel="SER TV">
+    <title lang="en">Aquí estoy</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612548769/230215115012_10032732499.jpg" />
     <rating>
       <value>NR</value>
     </rating>
+  </programme>
+  <programme start="20230217223000 +0100" stop="20230217230000 +0100" channel="SER TV">
+    <title lang="en">Encuentro con la historia</title>
+    <desc lang="en">Una miniserie donde se cuentan pasajes de la historia de Panamá de una manera diferente.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/SERTV/default/12612590713/230215115012_11263996903.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217230000 +0100" stop="20230218010000 +0100" channel="SER TV">
+    <title lang="en">Noticiero estelar - SerTV</title>
+    <category lang="en">Serie</category>
   </programme>
   <programme start="20230216000000 +0100" stop="20230216003000 +0100" channel="OYE TV">
     <title lang="en">Oyeland</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604307629/230214073512_11918524285.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604307629/230215140012_11918524285.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2584,7 +2315,7 @@
     <desc lang="en">Espacio que busca inspirarte a integrar la salud física, mental, emocional y energética.(n)</desc>
     <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604390813/230214073512_12467989224.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604390813/230215140012_12467989224.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2592,7 +2323,7 @@
   <programme start="20230216010000 +0100" stop="20230216020000 +0100" channel="OYE TV">
     <title lang="en">Copytaste</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604313902/230214073512_11184290876.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604313902/230215140012_11184290876.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2605,7 +2336,7 @@
       <actor>Patty Nieves</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604290618/230214073512_12549028579.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604290618/230215140012_12549028579.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2614,7 +2345,7 @@
     <title lang="en">Debate y punto</title>
     <date>2023</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604366930/230214073512_10459850840.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12604366930/230215140012_10459850840.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2622,7 +2353,7 @@
   <programme start="20230216040000 +0100" stop="20230216070000 +0100" channel="OYE TV">
     <title lang="en">Oyeland</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607521935/230214073512_10459903594.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607521935/230215140012_10459903594.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2630,7 +2361,7 @@
   <programme start="20230216070000 +0100" stop="20230216105700 +0100" channel="OYE TV">
     <title lang="en">Insomnia</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607610478/230214073512_10646094402.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607610478/230215140012_10646094402.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2640,7 +2371,7 @@
     <desc lang="en">Himno Nacional de la República de Panamá.(n)</desc>
     <date>2017</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688961/230214073512_10459850840.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688961/230215140012_10459850840.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2648,7 +2379,7 @@
   <programme start="20230216110000 +0100" stop="20230216160000 +0100" channel="OYE TV">
     <title lang="en">Oyeland</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652642754/230214073512_12549028579.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652642754/230215140012_12549028579.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2657,7 +2388,7 @@
     <title lang="en">Debate y punto</title>
     <date>2023</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652684589/230214073512_12467989224.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652684589/230215140012_12467989224.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2665,7 +2396,7 @@
   <programme start="20230216170000 +0100" stop="20230216180000 +0100" channel="OYE TV">
     <title lang="en">Copytaste</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652695021/230214073512_11184290876.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12652695021/230215140012_11184290876.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2678,7 +2409,7 @@
       <actor>Patty Nieves</actor>
     </credits>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688902/230214073512_10459850840.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688902/230215140012_10459850840.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2686,7 +2417,7 @@
   <programme start="20230216190000 +0100" stop="20230216200000 +0100" channel="OYE TV">
     <title lang="en">Oyeland</title>
     <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607486172/230214073512_11184290069.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607486172/230215140012_11184290069.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2695,7 +2426,7 @@
     <title lang="en">Oye - Las Top 1</title>
     <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688996/230214073512_10459850840.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688996/230215140012_10459850840.jpg" />
     <rating>
       <value>NR</value>
     </rating>
@@ -2708,123 +2439,138 @@
     <title lang="en">Debate y punto</title>
     <date>2023</date>
     <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688903/230215140012_10459850840.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
   </programme>
-  <programme start="20230215020000 +0100" stop="20230215030000 +0100" channel="NEXTV HD">
-    <title lang="en">Madurar a los 40</title>
+  <programme start="20230217000000 +0100" stop="20230217010000 +0100" channel="OYE TV">
+    <title lang="en">Oyeland</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607607981/230215140012_12467989224.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217010000 +0100" stop="20230217020000 +0100" channel="OYE TV">
+    <title lang="en">Copytaste</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607664369/230215140012_11184290876.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217020000 +0100" stop="20230217030000 +0100" channel="OYE TV">
+    <title lang="en">Entre Nosotras</title>
+    <credits>
+      <actor>Irma Ribbon</actor>
+      <actor>Guadalupe Alcocer</actor>
+      <actor>Patty Nieves</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607474197/230215140012_12549028579.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217030000 +0100" stop="20230217040000 +0100" channel="OYE TV">
+    <title lang="en">Debate y punto</title>
+    <date>2023</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12607688962/230215140012_10459850840.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217040000 +0100" stop="20230217070000 +0100" channel="OYE TV">
+    <title lang="en">Oyeland</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12612529100/230215140012_10459903594.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217070000 +0100" stop="20230217105700 +0100" channel="OYE TV">
+    <title lang="en">Insomnia</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12612697230/230215140012_10646094402.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217105700 +0100" stop="20230217110000 +0100" channel="OYE TV">
+    <title lang="en">Himno Nacional</title>
+    <desc lang="en">Himno Nacional de la República de Panamá.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12612592365/230215140012_10459850840.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217110000 +0100" stop="20230217160000 +0100" channel="OYE TV">
+    <title lang="en">Oyeland</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12654791116/230215140012_12549028579.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217160000 +0100" stop="20230217170000 +0100" channel="OYE TV">
+    <title lang="en">Debate y punto</title>
+    <date>2023</date>
+    <category lang="en">Other</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12654845778/230215140012_12467989224.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217170000 +0100" stop="20230217180000 +0100" channel="OYE TV">
+    <title lang="en">Copytaste</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12654860802/230215140012_11184290876.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217180000 +0100" stop="20230217190000 +0100" channel="OYE TV">
+    <title lang="en">Entre Nosotras</title>
+    <credits>
+      <actor>Irma Ribbon</actor>
+      <actor>Guadalupe Alcocer</actor>
+      <actor>Patty Nieves</actor>
+    </credits>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12612592366/230215140012_10459850840.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217190000 +0100" stop="20230217200000 +0100" channel="OYE TV">
+    <title lang="en">Oyeland</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12612520828/230215140012_11184290069.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217200000 +0100" stop="20230217210000 +0100" channel="OYE TV">
+    <title lang="en">Oye - Las Top 1</title>
     <date>2022</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604254265/230215050512_10459903586.jpg" />
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/OYEHD/default/12612592367/230215140012_10459850840.jpg" />
     <rating>
       <value>NR</value>
     </rating>
   </programme>
-  <programme start="20230215030000 +0100" stop="20230215040000 +0100" channel="NEXTV HD">
-    <title lang="en">Ají</title>
-    <desc lang="en">Disfruta de esta propuesta matutina de entrevistas y cocina, donde nuestros presentadores debatirán los más interesantes temas mientras se preparan las más deliciosas recetas en el lugar favorito de los panameños.(n)</desc>
-    <date>2015</date>
+  <programme start="20230217210000 +0100" stop="20230217230000 +0100" channel="OYE TV">
+    <title lang="en">Oyeland</title>
+    <category lang="en">Serie</category>
+  </programme>
+  <programme start="20230217230000 +0100" stop="20230218000000 +0100" channel="OYE TV">
+    <title lang="en">Debate y punto</title>
+    <date>2023</date>
     <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604373527/230215050512_10459903601.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215040000 +0100" stop="20230215110000 +0100" channel="NEXTV HD">
-    <title lang="en">Nex Music</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604290838/230215050512_10655543015.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215110000 +0100" stop="20230215120000 +0100" channel="NEXTV HD">
-    <title lang="en">Noticiero KWC</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604250328/230215050512_10655543018.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215120000 +0100" stop="20230215133000 +0100" channel="NEXTV HD">
-    <title lang="en">Noticiero Matutino</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604265259/230215050512_9411674719.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215143000 +0100" stop="20230215150000 +0100" channel="NEXTV HD">
-    <title lang="en">Be Fit</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604254266/230215050512_10459903586.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215150000 +0100" stop="20230215160000 +0100" channel="NEXTV HD">
-    <title lang="en">Ají</title>
-    <desc lang="en">Disfruta de esta propuesta matutina de entrevistas y cocina, donde nuestros presentadores debatirán los más interesantes temas mientras se preparan las más deliciosas recetas en el lugar favorito de los panameños.(n)</desc>
-    <date>2015</date>
-    <category lang="en">Other</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604373528/230215050512_1330000942.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215160000 +0100" stop="20230215180000 +0100" channel="NEXTV HD">
-    <title lang="en">Vivalavi</title>
-    <credits>
-      <actor>Gina Pastor</actor>
-      <actor>Ángel Castro</actor>
-      <actor>Arturo de la Garza</actor>
-      <actor>Hugo Santos</actor>
-    </credits>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604294119/230215050512_927718963.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215180000 +0100" stop="20230215190000 +0100" channel="NEXTV HD">
-    <title lang="en">Noticiero Uno medio día</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604265260/230215050512_9411674719.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215203000 +0100" stop="20230215210000 +0100" channel="NEXTV HD">
-    <title lang="en">Be Fit</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604316367/230215050512_10459845409.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215210000 +0100" stop="20230215223000 +0100" channel="NEXTV HD">
-    <title lang="en">Chismorreo</title>
-    <credits>
-      <actor>Esteban Macías</actor>
-      <actor>Fabián Lavalle</actor>
-      <actor>Marta Susana</actor>
-      <actor>Gaby Ramirez</actor>
-    </credits>
-    <category lang="en">Serie</category>
-  </programme>
-  <programme start="20230215223000 +0100" stop="20230215230000 +0100" channel="NEXTV HD">
-    <title lang="en">Visión Futuro</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604331704/230215050512_11478390745.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20230215230000 +0100" stop="20230216003000 +0100" channel="NEXTV HD">
-    <title lang="en">Noticiero estelar</title>
-    <category lang="en">Serie</category>
-    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12604301982/230215050512_12081898401.jpg" />
-    <rating>
-      <value>NR</value>
-    </rating>
   </programme>
   <programme start="20230216003000 +0100" stop="20230216010000 +0100" channel="NEXTV HD">
     <title lang="en">New Busines Report</title>
@@ -3166,6 +2912,18 @@
       <actor>Marta Susana</actor>
       <actor>Gaby Ramirez</actor>
     </credits>
+    <category lang="en">Serie</category>
+  </programme>
+  <programme start="20230217223000 +0100" stop="20230217230000 +0100" channel="NEXTV HD">
+    <title lang="en">Eco Latinoamérica</title>
+    <category lang="en">Serie</category>
+    <icon src="https://unity-img.tbxapis.com/v0/epg/8f6edc9cb0d38faeaf343b50ae0dc7f4/TIVO940363922/default/12612693075/230215050512_11478390745.jpg" />
+    <rating>
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20230217230000 +0100" stop="20230218010000 +0100" channel="NEXTV HD">
+    <title lang="en">Noticiero estelar</title>
     <category lang="en">Serie</category>
   </programme>
 </tv>
